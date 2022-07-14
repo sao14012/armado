@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png",CINEAR - 22.4
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg",ORBE 21 - 21.2
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png",DEPORTV - 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU",PAKA PAKA - 22.2
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES 1" tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg",NET TV - 27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="LOCALES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png",CANAL ENCUENTRO - 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES 1" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png",CANAL 26 - 26.1
+https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
+#EXTINF:-1 group-title="LOCALES 1" tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg",IP - 24.5
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+#EXTINF:-1 group-title="Local",Telefe Rosario (720p)
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-1 ,RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+******************************************************************************************************************
+
+#EXTINF:-1 ,Star Channel | HD
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/FXHD.m3u8
+#EXTINF:-1 ,TyC SPORTS | HD
+http://45.182.20.194:8000/play/CMGEPVwDeTnyM7Rb
+#EXTINF:-1 ,CANAL 13  | HD
+http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
+#EXTINF:-1 ,CANAL 7  | HD
+http://edge1.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/index.m3u8
+#EXTINF:-1 ,CANAL 9  | HD
+http://edge1.stg.cvattv.com.ar/live/live2/Canal9/SA_Live_fta/Canal9.m3u8
+#EXTINF:-1 ,CANAL TELEFE  | HD
+http://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/TelefeHD.m3u8
+#EXTINF:-1 ,CANAL TNT  | HD
+http://edge1.stg.cvattv.com.ar/live/live2/TNT/SA_Live_fta/TNT.m3u8
+#EXTINF:-1 ,History  | HD
+http://edge1.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta//HistoryHD.m3u8
+#EXTINF:-1 group-title="Local",América TV jhl
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+#EXTINF:-1 group-title="LOCALES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",AMERICA HD - 36.1
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 group-title="LOCALES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",AMERICA - 36.1 (OPCION 2)
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png",Miami TV México
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+#EXTINF:-1 group-title="News",RT en Español (720p)
+http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/B2lKSvo.png",Telpin TV Canal 2 HD (720p)
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",EL CHAVO
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",PELEAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
+#EXTINF:-1 group-title="LOCALES 1" tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw",GEN TV - 17.3
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 group-title="LOCALES 1" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png",CINCO TV TIGRE - 30.1
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="http://www.m3u.cl/logo/96701_FMTV_1.png",FMTV
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",SCI-FI
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
+#EXTINF:-1 group-title="MUSICA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",VEVO 80'S
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
+#EXTINF:-1 group-title="MUSICA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",VEVO 90'S
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true
