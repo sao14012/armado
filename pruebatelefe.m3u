@@ -1,5 +1,0 @@
-#EXTM3U
-
-
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" tvg-country="AR", AMÉRICA HD 36.1
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1661265141~acl=%2f*~data=hdntl~hmac=4e5257a0f1fb61dec17d8298c379a29142bbf8a91fbfd607cb2916fba0327f7b/master-mtlf2.m3u8
