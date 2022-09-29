@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" tvg-country="AR", CANAL 13  33.1 OPCION 2
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" country="AR", CANAL 13  33.1 OPCION 2
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="ARG: EL TRECE INTERNACIONAL (E)" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s64792_ll_h3_aa.png" tvg-country="ar", EL TRECE INTERNACIONAL (E)
+#EXTINF:0 type="stream" channelId="-1" name="ARG: EL TRECE INTERNACIONAL (E)" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s64792_ll_h3_aa.png" country="ar", EL TRECE INTERNACIONAL (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165586.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CHACO" logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg", 9LINK CHACO
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://x.playerlatino.live/telefe.png" tvg-country="AR", TELEFE  34.1
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://x.playerlatino.live/telefe.png" country="AR", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 type="stream" channelId="2546" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" shift="-3", America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="ARG: America TV FHD" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s16395_ll_h3_ac.png" tvg-country="ar", America TV FHD
+#EXTINF:0 type="stream" channelId="-1" name="ARG: America TV FHD" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s16395_ll_h3_ac.png" country="ar", America TV FHD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165577.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" tvg-country="AR", CANAL 9 35.1
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" country="AR", CANAL 9 35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png", A24  36.3
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
@@ -37,8 +37,6 @@ http://198.255.5.106:25461/gambauserdirect/xsndjufhdhddjskdsjd/954
 https://is-tucuman.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1201" group="DUCUMENTALES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" shift="-3", History 2
 https://is-tucuman.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="DUCUMENTALES" logo="https://elgourmet.com/theme/assets/logo.png" shift="-3", GOURMET TV
-https://coteflan.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="http://television.com.ar/wp-content/uploads/2020/10/IP-Informaci%C3%B3nPeriodistica-561x400.jpg" shift="-3", IP digital
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 #EXTINF:0 type="stream" channelId="50" group="DUCUMENTALES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" shift="-3", Animal Planet
@@ -59,13 +57,23 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png", El Trece 3
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Discovery HomeHealth HD" group="DUCUMENTALES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s24424_dark_360w_270h.png" shift="-3", Discovery HomeHealth HD
-https://coop-montehermoso.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://www.m3u.cl/logo/299_Canal_10_Rio_Negro.png", Canal 10 Rio Negro | AR
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="3789" name="ARG: TELEFE" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s100066_ll_h3_ab.png" tvg-country="ar", TELEFE
+#EXTINF:0 type="stream" channelId="3789" name="ARG: TELEFE" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s100066_ll_h3_ab.png" country="ar", TELEFE
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165581.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="ARG: ESPN PREMIUM FHD" group="DEPORTES LAT" logo="https://raw.githubusercontent.com/emmanuel14/ssiptv/master/ESPN_Premium_logo.svg.png" tvg-country="ar", ESPN PREMIUM FHD
+#EXTINF:0 type="stream" channelId="-1" name="ARG: ESPN PREMIUM FHD" group="DEPORTES LAT" logo="https://raw.githubusercontent.com/emmanuel14/ssiptv/master/ESPN_Premium_logo.svg.png" country="ar", ESPN PREMIUM FHD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183615.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" tvg-country="AR", TV PUBLICA  23.2 OPCION 2
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" country="AR", TV PUBLICA  23.2 OPCION 2
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: TYC SPORTS LOCAL HD (E)" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s90677_ll_h3_aa.png" country="ar", TYC SPORTS LOCAL HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165659.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: TYC SPORTS LOCAL HD" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s90677_ll_h3_aa.png" country="ar", TYC SPORTS LOCAL HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165660.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="DUCUMENTALES" logo="https://elgourmet.com/theme/assets/logo.png" shift="-3", GOURMET TV
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Discovery HomeHealth HD" group="DUCUMENTALES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s24424_dark_360w_270h.png" shift="-3", Discovery HomeHealth HD
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
+#EXTINF:0 type="favorites" channelId="67" group="DUCUMENTALES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" shift="-3", TLC
+https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="59" group="DUCUMENTALES" logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" shift="-3", Investigation Discovery
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
