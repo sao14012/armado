@@ -1,0 +1,384 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+
+#EXTINF:-1 tvg-id="QMMIHD" tvg-name="ARG: QUIERO MUSICA HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s75978_ll_h3_ac.png" group-title="ARGENTINA",ARG: QUIERO MUSICA HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165607.m3u8
+#EXTINF:-1 tvg-id="TODONHD" tvg-name="ARG: TN Noticias FHD" tvg-logo="http://fanc.tmsimg.com/assets/s79899_ll_h3_aa.png" group-title="ARGENTINA",ARG: TN Noticias FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165591.m3u8
+#EXTINF:-1 tvg-id="CMAGHD" tvg-name="ARG: Magazine HD" tvg-logo="http://fanc.tmsimg.com/assets/s16878_ll_h3_ab.png" group-title="ARGENTINA",ARG: Magazine HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165628.m3u8
+
+#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="ARG: TNT SPORTS HD" tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165666.m3u8
+#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="ARG: TNT SPORTS FHD.." tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS FHD..
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165665.m3u8
+#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="ARG: TNT SPORTS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165664.m3u8
+
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM FHD" tvg-logo="https://raw.githubusercontent.com/emmanuel14/ssiptv/master/ESPN_Premium_logo.svg.png" group-title="DEPORTES LAT",ARG: ESPN PREMIUM FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183615.m3u8
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ARGENTINA",ARG: ESPN PREMIUM FHD.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183616.m3u8
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ARGENTINA",ARG: ESPN PREMIUM SD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183613.m3u8
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ARGENTINA",ARG: ESPN PREMIUM HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183614.m3u8
+
+#EXTINF:-1 tvg-id="ESPNLHD" tvg-name="ESPN HD (ARG)" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN HD (ARG)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169952.m3u8
+#EXTINF:-1 tvg-id="ESPN2HA" tvg-name="ESPN 2 (ARG) HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s17725_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 2 (ARG) HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169953.m3u8
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3 (ARG) HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s73833_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 3 (ARG) HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169954.m3u8
+#EXTINF:-1 tvg-id="FSALSPH" tvg-name="ESPN 4 HD (E)" tvg-logo="https://tv.faster.net.br/logos/ESPN4.png" group-title="DEPORTES LAT",ESPN 4 HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/170212.m3u8
+
+#EXTINF:-1 tvg-id="SPOARHD" tvg-name="DIRECTV SPORTS AR(D)" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DIRECTV SPORTS",DIRECTV SPORTS AR(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 AR (D)" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="DIRECTV SPORTS",DIRECTV SPORTS 2 AR (D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169946.m3u8
+
+#EXTINF:-1 tvg-id="TYCHD" tvg-name="ARG: TYC SPORTS LOCAL HD" tvg-logo="http://fanc.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="ARGENTINA",ARG: TYC SPORTS LOCAL HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165660.m3u8
+#EXTINF:-1 tvg-id="TYCINUH" tvg-name="ARG: TYC SPORTS INTERNACIONAL" tvg-logo="http://fanc.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="ARGENTINA",ARG: TYC SPORTS INTERNACIONAL
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165658.m3u8
+
+#EXTINF:-1 tvg-id="FSALA" tvg-name="FOX SPORTS (ARG) HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s17754_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS (ARG) HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169955.m3u8
+#EXTINF:-1 tvg-id="FSALSA" tvg-name="FOX SPORTS SUR HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s17754_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS SUR HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169956.m3u8
+#EXTINF:-1 tvg-id="FS2ARHA" tvg-name="FOX SPORTS 2 (ARG) (E)" tvg-logo="http://fanc.tmsimg.com/assets/s71328_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS 2 (ARG) (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169957.m3u8
+#EXTINF:-1 tvg-id="FOXS3DT" tvg-name="FOX SPORTS 3 (ARG) HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s79923_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS 3 (ARG) HD (D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169960.m3u8
+
+#EXTINF:-1 tvg-id="hbo.co" tvg-name="HBO  HD(E)" tvg-logo="https://image.xmltv.guide/icon/1004005.png" group-title="CINE Y SERIES",HBO  HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173439.m3u8
+#EXTINF:-1 tvg-id="HBOCHIL" tvg-name="HBO FHD" tvg-logo="http://fanc.tmsimg.com/assets/s12288_ll_h3_aa.png" group-title="CINE Y SERIES",HBO FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173438.m3u8
+
+#EXTINF:-1 tvg-id="HBOPHDA" tvg-name="HBO 2 SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE Y SERIES",HBO 2 SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173441.m3u8
+#EXTINF:-1 tvg-id="HBO2PNH" tvg-name="HBO 2 HD MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE Y SERIES",HBO 2 HD MX(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173444.m3u8
+#EXTINF:-1 tvg-id="HBOPNAM" tvg-name="HBO 2 HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE Y SERIES",HBO 2 HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173443.m3u8
+#EXTINF:-1 tvg-id="HBOPNAM" tvg-name="HBO 2 HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE Y SERIES",HBO 2 HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173442.m3u8
+
+#EXTINF:-1 tvg-id="AEAHAM" tvg-name="A&E HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE Y SERIES",A&E HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173380.m3u8
+#EXTINF:-1 tvg-id="AEAHAM" tvg-name="A&E SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE Y SERIES",A&E SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173379.m3u8
+
+#EXTINF:-1 tvg-id="CCANAL" tvg-name="Cinecanal FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal SUR FHD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173403.m3u8
+#EXTINF:-1 tvg-id="CCANAM" tvg-name="Cinecanal FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal FHD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173402.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="https://raw.githubusercontent.com/emmanuel14/ssiptv/master/DHE_logo.svg.png" group-title="CINE Y SERIES",DHE HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173417.m3u8
+
+#EXTINF:-1 tvg-id="AMCARAM" tvg-name="AMC SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE Y SERIES",AMC SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173385.m3u8
+#EXTINF:-1 tvg-id="AMCCOAM" tvg-name="AMC FHD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE Y SERIES",AMC FHD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173382.m3u8
+#EXTINF:-1 tvg-id="AXNAHA" tvg-name="AXN HD(D)" tvg-logo="http://fanc.tmsimg.com/assets/s72534_ll_h3_ab.png" group-title="CINE Y SERIES",AXN HD(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173387.m3u8
+#EXTINF:-1 tvg-id="AXNANHC" tvg-name="AXN  FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s72534_ll_h3_ab.png" group-title="CINE Y SERIES",AXN  FHD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Scy-Fy" tvg-logo="https://previews.123rf.com/images/pandavector/pandavector1701/pandavector170104625/70291076-icono-de-letrero-de-cine-en-estilo-de-dibujos-animados-aislado-sobre-fondo-blanco-pel%C3%ADculas-y-cine-s.jpg" group-title="CINE PREMIUM",Cinema Scy-Fy
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/166931.m3u8
+#EXTINF:-1 tvg-id="CIHLAM" tvg-name="Cinemax HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16794_ll_h3_ab.png" group-title="CINE Y SERIES",Cinemax HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173405.m3u8
+#EXTINF:-1 tvg-id="CIHLAM" tvg-name="Cinemax FHD" tvg-logo="http://fanc.tmsimg.com/assets/s16794_ll_h3_ab.png" group-title="CINE Y SERIES",Cinemax FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173407.m3u8
+
+#EXTINF:-1 tvg-id="EUROPAM" tvg-name="Europa Europa HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s27741_ll_h3_aa.png" group-title="CINE Y SERIES",Europa Europa HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173420.m3u8
+#EXTINF:-1 tvg-id="FABLHDA" tvg-name="FILM & ARTS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87687_ll_h3_aa.png" group-title="CINE Y SERIES",FILM & ARTS FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173421.m3u8
+#EXTINF:-1 tvg-id="FXLAHDA" tvg-name="FX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105689_ll_h3_aa.png" group-title="CINE Y SERIES",FX HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173425.m3u8
+#EXTINF:-1 tvg-id="FXLAHDA" tvg-name="FX FHD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s105689_ll_h3_aa.png" group-title="CINE Y SERIES",FX FHD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173423.m3u8
+#EXTINF:-1 tvg-id="GLDENM" tvg-name="GOLDEN HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s50709_ll_h3_aa.png" group-title="CINE Y SERIES",GOLDEN HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173435.m3u8
+#EXTINF:-1 tvg-id="GLDENM" tvg-name="GOLDEN SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s50709_ll_h3_aa.png" group-title="CINE Y SERIES",GOLDEN SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173436.m3u8
+#EXTINF:-1 tvg-id="GOLDAMC" tvg-name="GOLDEN EDGE" tvg-logo="http://fanc.tmsimg.com/assets/s16423_ll_h3_ab.png" group-title="CINE Y SERIES",GOLDEN EDGE
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173432.m3u8
+#EXTINF:-1 tvg-id="GOLDNHD" tvg-name="GOLDEN PLUS HD" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f9/Golden_Plus_LA_2020.png/revision/latest?cb=20201219032836&path-prefix=es" group-title="CINE Y SERIES",GOLDEN PLUS HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173431.m3u8
+#EXTINF:-1 tvg-id="GLDPRA" tvg-name="Golden Premier 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="CINE Y SERIES",Golden Premier 1 HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173434.m3u8
+#EXTINF:-1 tvg-id="GPRD2AM" tvg-name="Golden Premier 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="CINE Y SERIES",Golden Premier 2 HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173433.m3u8
+
+
+#EXTINF:-1 tvg-id="HBOHDA" tvg-name="HBO Family SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE Y SERIES",HBO Family SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173445.m3u8
+#EXTINF:-1 tvg-id="HBOHDA" tvg-name="HBO Family HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE Y SERIES",HBO Family HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173446.m3u8
+#EXTINF:-1 tvg-id="HBOHDA" tvg-name="HBO Family FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE Y SERIES",HBO Family FHD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173447.m3u8
+#EXTINF:-1 tvg-id="MUNAMC" tvg-name="HBO MUNDI   HD" tvg-logo="http://fanc.tmsimg.com/assets/s70081_h3_aa.png" group-title="CINE Y SERIES",HBO MUNDI   HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/190792.m3u8
+#EXTINF:-1 tvg-id="MUNAMC" tvg-name="HBO MUNDI HD" tvg-logo="http://fanc.tmsimg.com/assets/s70081_h3_aa.png" group-title="CINE Y SERIES",HBO MUNDI HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/190793.m3u8
+#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE Y SERIES",HBO Plus SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173449.m3u8
+#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus HD" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE Y SERIES",HBO Plus HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173450.m3u8
+#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE Y SERIES",HBO Plus HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173452.m3u8
+#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE Y SERIES",HBO Plus FHD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173451.m3u8
+#EXTINF:-1 tvg-id="POPAM" tvg-name="HBO POP HD" tvg-logo="http://fanc.tmsimg.com/assets/s68134_ll_h3_ab.png" group-title="CINE Y SERIES",HBO POP HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173437.m3u8
+#EXTINF:-1 tvg-id="HBOSDA" tvg-name="HBO Signature SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s80120_ll_h3_aa.png" group-title="CINE Y SERIES",HBO Signature SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173456.m3u8
+#EXTINF:-1 tvg-id="HBOSDA" tvg-name="HBO Signature  HD" tvg-logo="http://fanc.tmsimg.com/assets/s80120_ll_h3_aa.png" group-title="CINE Y SERIES",HBO Signature  HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173454.m3u8
+#EXTINF:-1 tvg-id="HBOSDA" tvg-name="HBO Signature HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s80120_ll_h3_aa.png" group-title="CINE Y SERIES",HBO Signature HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173455.m3u8
+#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="HBO XTREME HD" tvg-logo="http://fanc.tmsimg.com/assets/s80211_ll_h3_ab.png" group-title="CINE Y SERIES",HBO XTREME HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181847.m3u8
+#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="HBO XTREME HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s80211_ll_h3_ab.png" group-title="CINE Y SERIES",HBO XTREME HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181846.m3u8
+#EXTINF:-1 tvg-id="ISATS" tvg-name="I-SAT SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16497_ll_h3_aa.png" group-title="CINE Y SERIES",I-SAT SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173460.m3u8
+#EXTINF:-1 tvg-id="ISATS" tvg-name="I-SAT HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16497_ll_h3_aa.png" group-title="CINE Y SERIES",I-SAT HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173459.m3u8
+#EXTINF:-1 tvg-id="MPREL" tvg-name="MULTIPREMIER HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s18169_ll_h3_ab.png" group-title="CINE Y SERIES",MULTIPREMIER HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173462.m3u8
+#EXTINF:-1 tvg-id="PARMDA" tvg-name="Paramount Channel FHD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="CINE Y SERIES",Paramount Channel FHD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173464.m3u8
+#EXTINF:-1 tvg-id="PARMDA" tvg-name="Paramount Channel HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="CINE Y SERIES",Paramount Channel HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173463.m3u8
+#EXTINF:-1 tvg-id="SENTTVH" tvg-name="Sony FHD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s19385_ll_h3_ab.png" group-title="CINE Y SERIES",Sony FHD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173470.m3u8
+#EXTINF:-1 tvg-id="SENTTVH" tvg-name="Sony HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s19385_ll_h3_ab.png" group-title="CINE Y SERIES",Sony HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173469.m3u8
+#EXTINF:-1 tvg-id="MPREL" tvg-name="SONY MOVIES" tvg-logo="https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2019/07/SonyMovies-logo.jpg" group-title="CINE Y SERIES",SONY MOVIES
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173461.m3u8
+#EXTINF:-1 tvg-id="SENTTVH" tvg-name="Sony SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s19385_ll_h3_ab.png" group-title="CINE Y SERIES",Sony SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173468.m3u8
+#EXTINF:-1 tvg-id="SPACLAM" tvg-name="Space FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68021_ll_h3_aa.png" group-title="CINE Y SERIES",Space FHD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173473.m3u8
+#EXTINF:-1 tvg-id="SPACLAM" tvg-name="Space HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68021_ll_h3_aa.png" group-title="CINE Y SERIES",Space HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173472.m3u8
+#EXTINF:-1 tvg-id="SPACECH" tvg-name="SPACE SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s68021_ll_h3_aa.png" group-title="CINE Y SERIES",SPACE SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173471.m3u8
+#EXTINF:-1 tvg-id="FOXCAHD" tvg-name="Star Channel  SD" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE Y SERIES",Star Channel  SD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR Channel FHD (E)" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE Y SERIES",STAR Channel FHD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE Y SERIES",Star Channel HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173488.m3u8
+#EXTINF:-1 tvg-id="FOXCIAM" tvg-name="STAR Channel HD (E)" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE Y SERIES",STAR Channel HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR Channel SD (E)" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE Y SERIES",STAR Channel SD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173479.m3u8
+#EXTINF:-1 tvg-id="STULCOH" tvg-name="Studio Universal  SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s90605_h3_aa.png" group-title="CINE Y SERIES",Studio Universal  SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173510.m3u8
+#EXTINF:-1 tvg-id="STULCOH" tvg-name="Studio Universal HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s90605_h3_aa.png" group-title="CINE Y SERIES",Studio Universal HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173512.m3u8
+#EXTINF:-1 tvg-id="STULCOH" tvg-name="Studio Universal HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s90605_h3_aa.png" group-title="CINE Y SERIES",Studio Universal HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173511.m3u8
+#EXTINF:-1 tvg-id="SYFYLAM" tvg-name="SyFy HD(D)" tvg-logo="http://fanc.tmsimg.com/assets/s56727_ll_h3_aa.png" group-title="CINE Y SERIES",SyFy HD(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173517.m3u8
+#EXTINF:-1 tvg-id="SYFYLAM" tvg-name="SyFy HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s56727_ll_h3_aa.png" group-title="CINE Y SERIES",SyFy HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173516.m3u8
+#EXTINF:-1 tvg-id="SYFYLAM" tvg-name="SyFy SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s56727_ll_h3_aa.png" group-title="CINE Y SERIES",SyFy SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173515.m3u8
+#EXTINF:-1 tvg-id="TBSESPH" tvg-name="TBS SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s75073_ll_h3_ad.png" group-title="CINE Y SERIES",TBS SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173519.m3u8
+#EXTINF:-1 tvg-id="TBSESPH" tvg-name="TBS HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s75073_ll_h3_ad.png" group-title="CINE Y SERIES",TBS HD (D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173520.m3u8
+#EXTINF:-1 tvg-id="TBSESPH" tvg-name="TBS HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s75073_ll_h3_ad.png" group-title="CINE Y SERIES",TBS HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173521.m3u8
+#EXTINF:-1 tvg-id="TCMARHD" tvg-name="TCM SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="CINE Y SERIES",TCM SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173523.m3u8
+#EXTINF:-1 tvg-id="TCMARHD" tvg-name="TCM  (E)" tvg-logo="http://fanc.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="CINE Y SERIES",TCM  (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173524.m3u8
+#EXTINF:-1 tvg-id="TCMAAM" tvg-name="TCM HD" tvg-logo="http://fanc.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="CINE Y SERIES",TCM HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173525.m3u8
+#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="TNT SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s71148_ll_h3_ag.png" group-title="CINE Y SERIES",TNT SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173529.m3u8
+#EXTINF:-1 tvg-id="TNTARA" tvg-name="TNT HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s71727_ll_h3_aa.png" group-title="CINE Y SERIES",TNT HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173530.m3u8
+#EXTINF:-1 tvg-id="TNTARA" tvg-name="TNT FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s71727_ll_h3_aa.png" group-title="CINE Y SERIES",TNT FHD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173531.m3u8
+#EXTINF:-1 tvg-id="TNTARA" tvg-name="TNT FHD MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s71727_ll_h3_aa.png" group-title="CINE Y SERIES",TNT FHD MX(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173532.m3u8
+#EXTINF:-1 tvg-id="TNTSEAM" tvg-name="TNT Series SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s91993_ll_h3_aa.png" group-title="CINE Y SERIES",TNT Series SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173533.m3u8
+#EXTINF:-1 tvg-id="TNTSEAM" tvg-name="TNT series HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91993_ll_h3_aa.png" group-title="CINE Y SERIES",TNT series HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173535.m3u8
+#EXTINF:-1 tvg-id="TNTSEAM" tvg-name="TNT series FHD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s91993_ll_h3_aa.png" group-title="CINE Y SERIES",TNT series FHD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173536.m3u8
+#EXTINF:-1 tvg-id="UNILAHD" tvg-name="Universal SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s53218_ll_h3_ab.png" group-title="CINE Y SERIES",Universal SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173538.m3u8
+#EXTINF:-1 tvg-id="UNTAHAM" tvg-name="Universal HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s53218_ll_h3_ab.png" group-title="CINE Y SERIES",Universal HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173540.m3u8
+#EXTINF:-1 tvg-id="UNILAHD" tvg-name="Universal HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s53218_ll_h3_ab.png" group-title="CINE Y SERIES",Universal HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema SD DUAL A." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?cb=20220102014101&path-prefix=es" group-title="CINE Y SERIES",Universal Cinema SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA HD DUAL A." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?cb=20220102014101&path-prefix=es" group-title="CINE Y SERIES",UNIVERSAL CINEMA HD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/187075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY SD DUAL A." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" group-title="CINE Y SERIES",UNIVERSAL COMEDY SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/187073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY HD DUAL A." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" group-title="CINE Y SERIES",UNIVERSAL COMEDY HD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/187074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal CRIME ESTE HD DUAL A." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest/scale-to-width-down/250?cb=20220102014712&path-prefix=es" group-title="CINE Y SERIES",Universal CRIME ESTE HD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime OESTE HD(D)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest/scale-to-width-down/250?cb=20220102014712&path-prefix=es" group-title="CINE Y SERIES",Universal Crime OESTE HD(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE 1 HD DUAL A." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="CINE Y SERIES",UNIVERSAL PREMIERE 1 HD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE 2 HD DUAL A." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="CINE Y SERIES",UNIVERSAL PREMIERE 2 HD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality HD DUAL A." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Universal_Reality_2021.png/revision/latest/scale-to-width-down/250?cb=20220102015650&path-prefix=es" group-title="CINE Y SERIES",Universal Reality HD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184564.m3u8
+#EXTINF:-1 tvg-id="WBLAM" tvg-name="Warner Channel SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="CINE Y SERIES",Warner Channel SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173541.m3u8
+#EXTINF:-1 tvg-id="WBLAM" tvg-name="Warner Channel HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="CINE Y SERIES",Warner Channel HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173544.m3u8
+#EXTINF:-1 tvg-id="WARHAM" tvg-name="Warner Channel HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="CINE Y SERIES",Warner Channel HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173543.m3u8
+#EXTINF:-1 tvg-id="WARHAM" tvg-name="Warner Channel DUAL A. FHD" tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="CINE Y SERIES",Warner Channel DUAL A. FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bella Asuncion TV" tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg" group-title="CINE PREMIUM",Bella Asuncion TV
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Butaca TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6FIEjH78ysfaha3XmxO2KsL-W_frB3yZ5_5mwOK80ZjGlUY-oWXCvWK258YefOBtb4s&usqp=CAU" group-title="CINE PREMIUM",Butaca TV
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cinesverdi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ04G7MPMJDT6JeDHua9GQ0GBBjoeM9V7apt0o6eQZG23hi_Wb9yB5BUZJ5mBxJ2WTCa6U&usqp=CAU" group-title="CINE PREMIUM",Canal Cinesverdi
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Real" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/cine-real.jpg?itok=xcg6JUt0" group-title="CINE PREMIUM",Cine Real
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SUREÑO" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="CINE PREMIUM",CINE SUREÑO
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA ACCION" tvg-logo="https://i.ibb.co/fXScds6/photo-2022-05-07-15-01-33.jpg" group-title="CINE PREMIUM",CINEMA ACCION
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/172424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Accion 1" tvg-logo="https://previews.123rf.com/images/pandavector/pandavector1701/pandavector170104625/70291076-icono-de-letrero-de-cine-en-estilo-de-dibujos-animados-aislado-sobre-fondo-blanco-pel%C3%ADculas-y-cine-s.jpg" group-title="CINE PREMIUM",Cinema Accion 1
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/166909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Animacion" tvg-logo="https://previews.123rf.com/images/pandavector/pandavector1701/pandavector170104625/70291076-icono-de-letrero-de-cine-en-estilo-de-dibujos-animados-aislado-sobre-fondo-blanco-pel%C3%ADculas-y-cine-s.jpg" group-title="CINE PREMIUM",Cinema Animacion
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/166907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA ANIME" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_665231-MLA42061177916_062020-O.jpg" group-title="CINE PREMIUM",CINEMA ANIME
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/172428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe HD" tvg-logo="https://previews.123rf.com/images/pandavector/pandavector1701/pandavector170104625/70291076-icono-de-letrero-de-cine-en-estilo-de-dibujos-animados-aislado-sobre-fondo-blanco-pel%C3%ADculas-y-cine-s.jpg" group-title="CINE PREMIUM",Cinema DC Universe HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/166917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Lego Movies HD" tvg-logo="https://previews.123rf.com/images/pandavector/pandavector1701/pandavector170104625/70291076-icono-de-letrero-de-cine-en-estilo-de-dibujos-animados-aislado-sobre-fondo-blanco-pel%C3%ADculas-y-cine-s.jpg" group-title="CINE PREMIUM",Cinema Lego Movies HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/166926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel HD" tvg-logo="https://previews.123rf.com/images/pandavector/pandavector1701/pandavector170104625/70291076-icono-de-letrero-de-cine-en-estilo-de-dibujos-animados-aislado-sobre-fondo-blanco-pel%C3%ADculas-y-cine-s.jpg" group-title="CINE PREMIUM",Cinema Marvel HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/166929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios HD" tvg-logo="https://previews.123rf.com/images/pandavector/pandavector1701/pandavector170104625/70291076-icono-de-letrero-de-cine-en-estilo-de-dibujos-animados-aislado-sobre-fondo-blanco-pel%C3%ADculas-y-cine-s.jpg" group-title="CINE PREMIUM",Cinema Marvel Studios HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/166928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA TERROR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0aKU4daRyf7g1LNp66gUxkB8A6A_t5-okwg&usqp=CAU" group-title="CINE PREMIUM",CINEMA TERROR
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/172426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FEEL GOOD VERDI" tvg-logo="https://i.ytimg.com/vi/axMcwAsWXU4/mqdefault.jpg" group-title="CINE PREMIUM",FEEL GOOD VERDI
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Voz de Tucuman" tvg-logo="https://pbs.twimg.com/profile_images/1418340072810860545/98a2hUfr_400x400.jpg" group-title="CINE PREMIUM",La Voz de Tucuman
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/166939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz East HD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/ac/Starz_East_2005.png/revision/latest/scale-to-width-down/220?cb=20200227204146" group-title="CINE PREMIUM",LA | Starz East HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Edge HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE912gnAtJnNvQHRY8M6VOldj3wfXzAHeoBNCIp-XoWM4vy8O-FeW-fYqTdorv5lvt_Fs&usqp=CAU" group-title="CINE PREMIUM",LA | Starz Edge HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA | STARZ ENCORE CLASSIC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-classic.png" group-title="CINE PREMIUM",LA | STARZ ENCORE CLASSIC
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Encore HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="CINE PREMIUM",LA | Starz Encore HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Encore Suspense HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-suspense.png" group-title="CINE PREMIUM",LA | Starz Encore Suspense HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA | STARZ HD" tvg-logo="https://play-lh.googleusercontent.com/3k9_BX6SKqQOu_jPxGlm8tvI5lKrxOOjUreqoJIGuWS1rBPiLlwBAHfS58j70vxwhNc" group-title="CINE PREMIUM",LA | STARZ HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz West HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/starz-west-logo-png-transparent.png" group-title="CINE PREMIUM",LA | Starz West HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/184192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TIME PELÍCULAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPWG44DOMsWwB7AYrHhJ3q05VkO5COH-qsg&usqp=CAU" group-title="CINE PREMIUM",MY TIME PELÍCULAS
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/166937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TIME PELÍCULAS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPWG44DOMsWwB7AYrHhJ3q05VkO5COH-qsg&usqp=CAU" group-title="CINE PREMIUM",MY TIME PELÍCULAS 1
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/166936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTime movie network Spain" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSj8iMEDzbjBWhaI7hp1Wg7QR3vYrUMgJVrR_5_=s900-c-k-c0x00ffffff-no-rj" group-title="CINE PREMIUM",MyTime movie network Spain
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/168589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTime movie network Mexico" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSj8iMEDzbjBWhaI7hp1Wg7QR3vYrUMgJVrR_5_=s900-c-k-c0x00ffffff-no-rj" group-title="CINE PREMIUM",MyTime movie network Mexico
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/168588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PHTV HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2430-294x165-FFFFFF.jpg" group-title="CINE PREMIUM",PHTV HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETROPLUS SERIES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="CINE PREMIUM",RETROPLUS SERIES
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPTV Digital" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400%20%281%29_0.jpg?itok=uvuVKz1S" group-title="CINE PREMIUM",SPTV Digital
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/TopCine_2005.jpg/revision/latest?cb=20210328034020" group-title="CINE PREMIUM",TOP CINE
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tu Cine 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQENNs7cHXXp-U3J6sg_on_ADqzLCTIVijO0HHRmRz1J6x4er6tslUH6vFUBuvtvvXdq18&usqp=CAU" group-title="CINE PREMIUM",Tu Cine 2
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VALLEVISION" tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png" group-title="CINE PREMIUM",VALLEVISION
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WOW" tvg-logo="https://play-lh.googleusercontent.com/lNQVwEL0gU06cG8GIIGAPYXGeqWtEZlx7DLIgJSVeSZvctF77GlIlOvXN_91yqYNgpc" group-title="CINE PREMIUM",WOW
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M. Clasicos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS" group-title="MOVISTAR CINE Y SERIES",M. Clasicos
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/196873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M. Sagas" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA" group-title="MOVISTAR CINE Y SERIES",M. Sagas
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/196874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COSMOS TV" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png?resize=300%2C231&ssl=1" group-title="CINE PREMIUM",COSMOS TV
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/201539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA TV MOVIES" tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="CINE PREMIUM",PLANETA TV MOVIES
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/201550.m3u8
+#EXTINF:-1 tvg-id="EURO" tvg-name="EURO CHANNEL DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s16574_ll_h3_aa.png" group-title="CINE Y SERIES",EURO CHANNEL DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202301.m3u8
+#EXTINF:-1 tvg-id="STARHD" tvg-name="STAR TVE" tvg-logo="http://fanc.tmsimg.com/assets/s106724_ll_h3_aa.png" group-title="CINE Y SERIES",STAR TVE
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202323.m3u8
+#EXTINF:-1 tvg-id="STARHD" tvg-name="STAR TVE" tvg-logo="http://fanc.tmsimg.com/assets/s106724_ll_h3_aa.png" group-title="MOVISTAR CINE Y SERIES",STAR TVE
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIWIX TV" tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w" group-title="CINE PREMIUM",VIWIX TV
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY COMEDIAS" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="CINE Y SERIES",SONY COMEDIAS
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY NOVELAS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/sony_novelas_1.jpg" group-title="CINE Y SERIES",SONY NOVELAS
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACCION" tvg-logo="https://images-3.wuaki.tv/system/artworks/107/original/peliculas-de-accion-rakuten-tv-1621956288-width308-quality100.png" group-title="CINE PREMIUM",RAKUTEN ACCION
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RATUKEN COMEDY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnQfBjWX_coDA16FBJupwNHLUjf8irs6XUiE-_oMazg6JD7BxfJbbtyyxd6ksLS_JMvg&usqp=CAU" group-title="CINE PREMIUM",RATUKEN COMEDY
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RATUKEN TV SHOWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbBydwr0dIu8gSgWV-vRqM7F40uKp9hGft_I4yDJ4jfGjlDbt0Q3u5bAnjWrekpqfR0I&usqp=CAU" group-title="CINE PREMIUM",RATUKEN TV SHOWS
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202882.m3u8
+#EXTINF:-1 tvg-id="A3CI" tvg-name="A3CINE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s82808_ll_h3_aa.png" group-title="CINE Y SERIES",A3CINE FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A3series FHD(D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CINE Y SERIES",A3series FHD(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173392.m3u8
+#EXTINF:-1 tvg-id="CINL" tvg-name="Cine Latino HD(D)" tvg-logo="http://fanc.tmsimg.com/assets/s15296_ll_h3_ab.png" group-title="CINE Y SERIES",Cine Latino HD(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173397.m3u8
+#EXTINF:-1 tvg-id="CINL" tvg-name="Cine Latino MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s15296_ll_h3_ab.png" group-title="CINE Y SERIES",Cine Latino MX(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173399.m3u8
+
+#EXTINF:-1 tvg-id="TREINTA" tvg-name="ARG: EL TRECE INTERNACIONAL (E)" tvg-logo="http://fanc.tmsimg.com/assets/s64792_ll_h3_aa.png" group-title="ARGENTINA",ARG: EL TRECE INTERNACIONAL (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165586.m3u8
+
+#EXTINF:-1 tvg-id="ESPNDHD" tvg-name="ESPN DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s71914_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN DEPORTES
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169910.m3u8
+#EXTINF:-1 tvg-id="SESPNIH" tvg-name="ESPN NORTE HD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN NORTE HD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169912.m3u8
+#EXTINF:-1 tvg-id="ESPN2M" tvg-name="ESPN 2 NORTE HD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s67765_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 2 NORTE HD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169914.m3u8
+#EXTINF:-1 tvg-id="ESPN3NH" tvg-name="ESPN 3 NORTE HD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s73833_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 3 NORTE HD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169916.m3u8
+#EXTINF:-1 tvg-id="ESPN3HD" tvg-name="ESPN 3 SUR HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s73834_ll_h3_ab.png" group-title="DEPORTES LAT",ESPN 3 SUR HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169915.m3u8
+#EXTINF:-1 tvg-id="ESPNAMC" tvg-name="ESPN EXTRA HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s65930_ll_h3_ad.png" group-title="DEPORTES LAT",ESPN EXTRA HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169917.m3u8
+#EXTINF:-1 tvg-id="FOXS2AV" tvg-name="FOX SPORTS 2 SUR HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s73935_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS 2 SUR HD (D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169958.m3u8
+#EXTINF:-1 tvg-id="FOXSHD2" tvg-name="FOX SPORTS 2 NORTE HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s71328_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS 2 NORTE HD (D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169959.m3u8
+#EXTINF:-1 tvg-id="FOXS3HD" tvg-name="FOX SPORTS 3 SUR HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s79923_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS 3 SUR HD (D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169961.m3u8
+#EXTINF:-1 tvg-id="FSP3HD" tvg-name="FOX SPORTS 3 NORTE HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s79923_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS 3 NORTE HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169962.m3u8
+#EXTINF:-1 tvg-id="TYCHD" tvg-name="ARG: TYC SPORTS LOCAL HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="ARGENTINA",ARG: TYC SPORTS LOCAL HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2021/11/Sky-Sports-acquire-La-Liga-rights-for-Mexico-and-Central-America.jpg" group-title="DEPORTES LAT",SKY SPORTS LA LIGA
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169940.m3u8
+#EXTINF:-1 tvg-id="CINEAR" tvg-name="ARG: CINE AR" tvg-logo="http://fanc.tmsimg.com/assets/s81974_ll_h3_ac.png" group-title="ARGENTINA",ARG: CINE AR
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165604.m3u8
