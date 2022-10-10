@@ -1,34 +1,76 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" name="ARG: El trece HD (E)" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s16044_ll_h3_aa.png" tvg-country="ar", El trece HD (E) anda bien
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165585.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png" tvg-country="AR", CANAL 13  33.1
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:0 type="stream" channelId="2409" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" shift="-3", EL TRECE
-https://is-tucuman.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHACO" logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg", 9LINK CHACO
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://x.playerlatino.live/telefe.png" tvg-country="AR", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:0 type="stream" channelId="2546" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" shift="-3", America TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png" tvg-country="AR", CANAL 13  33.1
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="ARG: America TV FHD" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s16395_ll_h3_ac.png" tvg-country="ar", America TV FHD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165577.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" tvg-country="AR", CANAL 9 35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png", A24  36.3
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RIO NEGRO" logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg", CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png", A24  36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:0 type="stream" channelId="2844" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79899_dark_360w_270h.png", TN
+https://is-tucuman.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2726" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" shift="-3", CANAL 26
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="1456" name="History Channel HD(D)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s91933_ll_h3_aa.png", History Channel HD(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181554.m3u8
+#EXTINF:0 type="stream" channelId="2409" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" shift="-3", EL TRECE
+https://is-tucuman.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1202" name="History 2  HD(D)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s80374_ll_h3_ad.png", History 2  HD(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181552.m3u8
+#EXTINF:0 type="stream" channelId="2724" name="Discovery Home & Health HD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s24424_ll_h3_aa.png", Discovery Home & Health HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181533.m3u8
+#EXTINF:0 type="stream" channelId="56" name="National Geographic SD" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s25068_ll_h3_ab.png", National Geographic SD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181561.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="TLC SD(E)" group="ENTRETENIMIENTO" logo="http://fanc.tmsimg.com/assets/s100841_ll_h3_aa.png", TLC SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173526.m3u8
+#EXTINF:0 type="stream" channelId="240" name="Animal Planet HD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s18649_ll_h3_af.png", Animal Planet HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181521.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Animal Planet FHD (E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s18649_ll_h3_af.png", Animal Planet FHD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181520.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="NatGeo Mundo HD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s72449_ll_h3_aa.png", NatGeo Mundo HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181564.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="El Gourmet  HD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png", El Gourmet  HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181543.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="El Gourmet   HD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png", El Gourmet   HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181544.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Discovery Home & Health FHD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s24424_ll_h3_aa.png", Discovery Home & Health FHD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181534.m3u8
+#EXTINF:0 type="stream" channelId="341" name="Discovery Channel HD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s15798_ll_h3_ab.png", Discovery Channel HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181527.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Discovery World SD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s66488_ll_h3_aa.png", Discovery World SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181541.m3u8
+#EXTINF:0 type="stream" channelId="2890" name="Discovery World HD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s66488_ll_h3_aa.png", Discovery World HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181542.m3u8
+#EXTINF:0 type="stream" channelId="1508" name="Discovery Science HD (E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s48527_ll_h3_aa.png", Discovery Science HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181537.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Discovery ID SD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s25743_h3_aa.png", Discovery ID SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181531.m3u8
+#EXTINF:0 type="stream" channelId="2840" name="Discovery Turbo  HD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s46608_ll_h3_aa.png", Discovery Turbo  HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181539.m3u8
+#EXTINF:0 type="stream" channelId="2558" name="Discovery Theater HD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s65940_ll_h3_aa.png", Discovery Theater HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181538.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="NASA MEDIA" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s68211_ll_h3_aa.png", NASA MEDIA
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202872.m3u8
+#EXTINF:0 type="stream" channelId="1720" name="Food Network HD(D)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s91919_ll_h3_aa.png", Food Network HD(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181547.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="HOLA TV HD(E)" group="ENTRETENIMIENTO" logo="http://fanc.tmsimg.com/assets/s82970_ll_h3_aa.png", HOLA TV HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181865.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHACO" logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg", 9LINK CHACO
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2546" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" shift="-3", America TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png", Telefe Hits
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png", Telefe Noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="1328" group="app" logo="https://th.bing.com/th/id/Rd6ee1ce5c71fd7f2db593651f8cad295?rik=Cnxdtl56d6q6tg&pid=ImgRaw", FOX SPORTS
 http://198.255.5.106:25461/gambauserdirect/xsndjufhdhddjskdsjd/974
-#EXTINF:0 type="stream" channelId="2844" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79899_dark_360w_270h.png", TN
-https://is-tucuman.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2726" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" shift="-3", CANAL 26
-http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 type="stream" channelId="4039" group="Argentina" logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16525_dark_360w_270h.png", TV PUBLICA
@@ -85,3 +127,33 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165586.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", trece v3 a 1
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="164" name="ES: NAT GEO WILD" group="ESPAÑA" logo="http://fanc.tmsimg.com/assets/s86938_ll_h3_ab.png" tvg-country="es", NAT GEO WILD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/187023.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ARG: TN Noticias FHD" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s79899_ll_h3_aa.png" tvg-country="ar", TN Noticias FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165591.m3u8
+#EXTINF:0 type="stream" channelId="2891" name="FOX SPORTS (ARG) HD (E)" group="DEPORTES LAT" logo="http://fanc.tmsimg.com/assets/s17754_ll_h3_aa.png", FOX SPORTS (ARG) HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169955.m3u8
+#EXTINF:0 type="stream" channelId="3746" name="ESPN 2 (ARG) HD (E)" group="DEPORTES LAT" logo="http://fanc.tmsimg.com/assets/s17725_ll_h3_aa.png", ESPN 2 (ARG) HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169953.m3u8
+#EXTINF:0 type="stream" channelId="1263" name="ESPN HD (ARG)" group="DEPORTES LAT" logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png", ESPN HD (ARG)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169952.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ARG: ESPN PREMIUM HD" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" tvg-country="ar", ESPN PREMIUM HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183614.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ARG: ESPN PREMIUM SD" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" tvg-country="ar", ESPN PREMIUM SD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183613.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ARG: ESPN PREMIUM FHD." group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" tvg-country="ar", ESPN PREMIUM FHD.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183616.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ARG: TNT SPORTS FHD.." group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" tvg-country="ar", TNT SPORTS FHD..
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165665.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DIRECTV SPORTS AR(D)" group="DIRECTV SPORTS" logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png", DIRECTV SPORTS AR(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169947.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DIRECTV SPORTS 2 AR (D)" group="DIRECTV SPORTS" logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg", DIRECTV SPORTS 2 AR (D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169946.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS SUR HD (E)" group="DEPORTES LAT" logo="http://fanc.tmsimg.com/assets/s17754_ll_h3_aa.png", FOX SPORTS SUR HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169956.m3u8
+#EXTINF:0 type="stream" channelId="170" name="FOX SPORTS 2 (ARG) (E)" group="DEPORTES LAT" logo="http://fanc.tmsimg.com/assets/s71328_ll_h3_aa.png", FOX SPORTS 2 (ARG) (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169957.m3u8
+#EXTINF:0 type="stream" channelId="213" name="FOX SPORTS 3 (ARG) HD (D)" group="DEPORTES LAT" logo="http://fanc.tmsimg.com/assets/s79923_h3_aa.png", FOX SPORTS 3 (ARG) HD (D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169960.m3u8
+#EXTINF:0 type="stream" channelId="3801" name="CH: TV Chile" group="CHILE" logo="http://fanc.tmsimg.com/assets/s16046_ll_h3_aa.png" tvg-country="ch", TV Chile
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165166.m3u8
