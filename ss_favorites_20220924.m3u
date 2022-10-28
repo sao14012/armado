@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", GH_2022
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.rionegro.com.ar/wp-content/uploads/2022/05/624eea85d72b0-e1652395016751.jpg?w=920&h=517&crop=1", GH_2022
 https://siloh.pluto.tv/lilo/production/MaradonaSinCortes/LATAM/master_3.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="ARG: El trece HD (E)" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s16044_ll_h3_aa.png" tvg-country="ar", El trece HD (E) anda bien
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165585.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png", El Trece 3
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" shift="-3", El trece HD (E) anda bien
+https://is-tucuman.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="ARG: EL TRECE INTERNACIONAL (E)" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s64792_ll_h3_aa.png" aspect-ratio="16:9" tvg-country="ar", EL TRECE INTERNACIONAL (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165586.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://x.playerlatino.live/telefe.png" tvg-country="AR", TELEFE  34.1
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png", El Trece 3
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png" tvg-country="AR", CANAL 13  33.1
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://x.playerlatino.live/telefe.png" tvg-country="AR", TELEFE  34.1
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="ARG: America TV FHD" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s16395_ll_h3_ac.png" tvg-country="ar", America TV FHD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165577.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" tvg-country="AR", CANAL 9 35.1
@@ -23,8 +23,6 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 type="stream" channelId="1456" name="History Channel HD(D)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s91933_ll_h3_aa.png", History Channel HD(D)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181554.m3u8
-#EXTINF:0 type="stream" channelId="2409" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" shift="-3", EL TRECE
-https://is-tucuman.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1202" name="History 2  HD(D)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s80374_ll_h3_ad.png", History 2  HD(D)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/181552.m3u8
 #EXTINF:0 type="stream" channelId="2724" name="Discovery Home & Health HD(E)" group="CULTURA" logo="http://fanc.tmsimg.com/assets/s24424_ll_h3_aa.png", Discovery Home & Health HD(E)
@@ -137,6 +135,8 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165665.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169947.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="DIRECTV SPORTS 2 AR (D)" group="DIRECTV SPORTS" logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg", DIRECTV SPORTS 2 AR (D)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169946.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ARG: El trece HD (E)" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" tvg-country="ar", Directv Sports  (Ex Trece anda bien)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165585.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS SUR HD (E)" group="DEPORTES LAT" logo="http://fanc.tmsimg.com/assets/s17754_ll_h3_aa.png", FOX SPORTS SUR HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169956.m3u8
 #EXTINF:0 type="stream" channelId="170" name="FOX SPORTS 2 (ARG) (E)" group="DEPORTES LAT" logo="http://fanc.tmsimg.com/assets/s71328_ll_h3_aa.png", FOX SPORTS 2 (ARG) (E)
