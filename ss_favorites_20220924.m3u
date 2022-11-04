@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.rionegro.com.ar/wp-content/uploads/2022/05/624eea85d72b0-e1652395016751.jpg?w=920&h=517&crop=1", GH_2022
-https://siloh.pluto.tv/lilo/production/MaradonaSinCortes/LATAM/master_3.m3u8
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6320ddef274b1b0007b2ee88livestitch/master.m3u8?advertisingId=&appName=web&appVersion=6.6.0-a075654cc26e09de4cb79f5586422bbc2734b86d&app_name=web&clientDeviceType=0&clientID=820a14af-1d20-4a6e-b913-ec017bca4f07&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=820a14af-1d20-4a6e-b913-ec017bca4f07&deviceLat=-40.7417&deviceLon=-65.1375&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=107.0.0&marketingRegion=VE&serverSideAds=true&sessionID=4339106f-5c5c-11ed-ba75-0242ac110003&sid=4339106f-5c5c-11ed-ba75-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk0ODQ4MGViLTUwY2YtNDUzMS04NzQ4LWFiYTQzNzU0MzliNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0MzM5MTA2Zi01YzVjLTExZWQtYmE3NS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MC4xMDkuMzcuMTMxIiwiY2l0eSI6IlNhbiBBbnRvbmlvIE9lc3RlIiwicG9zdGFsQ29kZSI6Ijg1MjAiLCJjb3VudHJ5IjoiQVIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotNDAuNzQxNywiZGV2aWNlTG9uIjotNjUuMTM3NSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTA3LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNi42LjAtYTA3NTY1NGNjMjZlMDlkZTRjYjc5ZjU1ODY0MjJiYmMyNzM0Yjg2ZCIsImNsaWVudElEIjoiODIwYTE0YWYtMWQyMC00YTZlLWI5MTMtZWMwMTdiY2E0ZjA3IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvQXJnZW50aW5hL1NhbHRhIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY2NzYwNzQ4NSwianRpIjoiYjgxNDY4ZWMtZmI2NS00OGVmLWIwYTEtOTUyOGIxYTA3OTE3IiwiaWF0IjoxNjY3NTc4Njg1LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6T0RJd1lURTBZV1l0TVdReU1DMDBZVFpsTFdJNU1UTXRaV013TVRkaVkyRTBaakEzIn0.G1CZvu62hpMnWLVV-6LRjWCnGFYy66ZxlVjcUhvOMtw&masterJWTPassthrough=true&eventVOD=true&profilesFromStream=true
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" shift="-3", El trece HD (E) anda bien
 https://is-tucuman.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="ARG: EL TRECE INTERNACIONAL (E)" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s64792_ll_h3_aa.png" aspect-ratio="16:9" tvg-country="ar", EL TRECE INTERNACIONAL (E)
@@ -77,6 +77,8 @@ http://198.255.5.106:25461/gambauserdirect/xsndjufhdhddjskdsjd/974
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16525_dark_360w_270h.png", TV PUBLICA
 https://is-tucuman.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" tvg-country="AR", TV PUBLICA  23.2 OPCION 2
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 #EXTINF:0 type="stream" channelId="1455" group="app" logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png", HISTORY
 http://198.255.5.106:25461/gambauserdirect/xsndjufhdhddjskdsjd/954
 #EXTINF:0 type="stream" channelId="1456" group="DUCUMENTALES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" shift="-3", History HD
@@ -99,8 +101,6 @@ https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165581.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="ARG: ESPN PREMIUM FHD" group="DEPORTES LAT" logo="https://raw.githubusercontent.com/emmanuel14/ssiptv/master/ESPN_Premium_logo.svg.png" tvg-country="ar", ESPN PREMIUM FHD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183615.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" tvg-country="AR", TV PUBLICA  23.2 OPCION 2
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="ARG: TYC SPORTS LOCAL HD (E)" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s90677_ll_h3_aa.png" tvg-country="ar", TYC SPORTS LOCAL HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165659.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="ARG: TYC SPORTS LOCAL HD" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s90677_ll_h3_aa.png" tvg-country="ar", TYC SPORTS LOCAL HD
@@ -211,3 +211,25 @@ http://ui.mrzutv.net:8080/radhames/5591/16684
 http://ui.mrzutv.net:8080/radhames/5591/11998
 #EXTINF:0 type="stream" channelId="341" group="MUNDO Y CULTURA" logo="https://i.ibb.co/v15TVYQ/Sin-t-tulo-1.png", DISCOVERY CHANNEL HD
 http://ui.mrzutv.net:8080/radhames/5591/488
+#EXTINF:0 type="stream" channelId="-1" name="ARG: C5N FHD" group="ARGENTINA" logo="http://fanc.tmsimg.com/assets/s77601_ll_h3_aa.png" tvg-country="ar", C5N FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165596.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="AMBA" logo="https://pbs.twimg.com/profile_images/1333395540478996480/oaQIEz2x_400x400.jpg" tvg-country="AR", CANAL ENCUENTRO 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="AMBA" logo="https://pbs.twimg.com/profile_images/1417491632212037632/yLA3EMgX_400x400.jpg" tvg-country="AR", CINEAR  22.4
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="AMBA" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU", CM
+https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+#EXTINF:0 type="stream" channelId="4657" group="DEPORTES" logo="https://futbolfullenvivo.com/logos/espnextra.png" shift="-3", ESPN EXTRA
+https://is-tucuman.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1328" name="FoxSports" group="DEPORTES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59307_dark_360w_270h.png" shift="-3", FoxSports
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+#EXTINF:0 type="stream" channelId="2546", América TV (720p)
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal 10 Córdoba (1080p)
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal 10 Rio Negro (720p) [Not 24/7]
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2726", Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3789", Telefe (720p)
+https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
