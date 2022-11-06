@@ -13,8 +13,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=409070395&_cdn_timestamp=1667724534&_cdn_token=19556c16acfea2b09d20ba8da4c0384058ffdd22
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://x.playerlatino.live/telefe.png" country="AR", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png", TELEFE 34.1 TDA HD"reproducir con MX PRO"
-https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png", Telefe Hits
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png", Telefe Noticias
@@ -181,8 +179,6 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=409069155&_cdn_timestamp=1667723881&_cdn_token=4110134054ebdf383b63b5ded5203a50df46ec16
 #EXTINF:0 type="stream" channelId="-1" name="USA | ESPN Extra" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png", 208 | ESPN Extra
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=409069187&_cdn_timestamp=1667723899&_cdn_token=82f0e528e179c005c4fa102cbd1f8b583e0f4796
-#EXTINF:0 type="stream" channelId="-1" name="MX | TNT Sports" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png", 211 | TNT Sports
-http://170.79.235.29:8000/play/233
 #EXTINF:0 type="stream" channelId="-1" name="MX | Sky Sports" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/245px-Sky_Sports_logo_2017.svg.png", 220 | Sky Sports
 https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3293/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="USA | Memorias TV" group="MUSICA Y REALITIES" logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png", 237 | Memorias TV
@@ -237,23 +233,63 @@ http://ui.mrzutv.net:8080/radhames/5591/467
 http://ui.mrzutv.net:8080/radhames/5591/465
 #EXTINF:0 type="favorites" channelId="3746" group="DEPORTES MEXICO" logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png", ESPN 2 HD (ᴍx)
 http://ui.mrzutv.net:8080/radhames/5591/466
-#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 1 HD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/72a65ce068befa3d9edf31043302f2d0.png" country="ar",  FOX SPORTS 1 HD
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 1 HD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/72a65ce068befa3d9edf31043302f2d0.png" country="ar", FOX SPORTS 1 HD
 http://ui.mrzutv.net:8080/radhames/5591/69429
-#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 2 ©️" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/c60db85f10f1cb463de212f10dcacfdc.png" country="ar",  FOX SPORTS 2 ©️
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 2 ©️" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/c60db85f10f1cb463de212f10dcacfdc.png" country="ar", FOX SPORTS 2 ©️
 http://ui.mrzutv.net:8080/radhames/5591/69430
-#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS PREMIUM HD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/VfzTRWG57OhSwIK1XvZ2hyG7du2o7EvbLbDPMxdC-R7cIhnMSlIwWnZWZzNISVDqTJau4HlY5-LIEYQZJH0aIA.png" country="ar",  FOX SPORTS PREMIUM HD
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS PREMIUM HD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/VfzTRWG57OhSwIK1XvZ2hyG7du2o7EvbLbDPMxdC-R7cIhnMSlIwWnZWZzNISVDqTJau4HlY5-LIEYQZJH0aIA.png" country="ar", FOX SPORTS PREMIUM HD
 http://ui.mrzutv.net:8080/radhames/5591/69441
-#EXTINF:0 type="favorites" channelId="-1" name="TNT SPORTS FDH" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/a3c8e288f18b6cb0e60eb5c3b16e4ca4.png" country="ar",  TNT SPORTS FDH
+#EXTINF:0 type="favorites" channelId="-1" name="TNT SPORTS FDH" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/a3c8e288f18b6cb0e60eb5c3b16e4ca4.png" country="ar", TNT SPORTS FDH
 http://ui.mrzutv.net:8080/radhames/5591/69438
-#EXTINF:0 type="favorites" channelId="-1" name="TNT SPORTS FHD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/9f27721c5adba678bb39a3f4e0f3821c.png" country="ar",  TNT SPORTS FHD
+#EXTINF:0 type="favorites" channelId="-1" name="TNT SPORTS FHD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/9f27721c5adba678bb39a3f4e0f3821c.png" country="ar", TNT SPORTS FHD
 http://ui.mrzutv.net:8080/radhames/5591/69436
-#EXTINF:0 type="favorites" channelId="4668" name="TNT SPORTS SD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/a3c8e288f18b6cb0e60eb5c3b16e4ca4.png" country="ar",  TNT SPORTS SD
+#EXTINF:0 type="favorites" channelId="4668" name="TNT SPORTS SD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/a3c8e288f18b6cb0e60eb5c3b16e4ca4.png" country="ar", TNT SPORTS SD
 http://ui.mrzutv.net:8080/radhames/5591/69435
-#EXTINF:0 type="favorites" channelId="-1" name="TYC SPORTS LOCAL FHD (E)" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/YyQdAYPeejf0q8rbS3LPxEv0e4WvNjcRdDTGLcoWkE-9Y5Y4M2E4QXWqJw_4KVWApof278HhG_UCTTwBh-eYtQ.png" country="ar",  TYC SPORTS LOCAL FHD (E)
+#EXTINF:0 type="favorites" channelId="-1" name="TYC SPORTS LOCAL FHD (E)" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/YyQdAYPeejf0q8rbS3LPxEv0e4WvNjcRdDTGLcoWkE-9Y5Y4M2E4QXWqJw_4KVWApof278HhG_UCTTwBh-eYtQ.png" country="ar", TYC SPORTS LOCAL FHD (E)
 http://ui.mrzutv.net:8080/radhames/5591/69432
-#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS PREMIUM FHD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/VfzTRWG57OhSwIK1XvZ2hyG7du2o7EvbLbDPMxdC-R7cIhnMSlIwWnZWZzNISVDqTJau4HlY5-LIEYQZJH0aIA.png" country="ar",  FOX SPORTS PREMIUM FHD
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS PREMIUM FHD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/VfzTRWG57OhSwIK1XvZ2hyG7du2o7EvbLbDPMxdC-R7cIhnMSlIwWnZWZzNISVDqTJau4HlY5-LIEYQZJH0aIA.png" country="ar", FOX SPORTS PREMIUM FHD
 http://ui.mrzutv.net:8080/radhames/5591/69442
-#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS PREMIUM FHD." group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/VfzTRWG57OhSwIK1XvZ2hyG7du2o7EvbLbDPMxdC-R7cIhnMSlIwWnZWZzNISVDqTJau4HlY5-LIEYQZJH0aIA.png" country="ar",  FOX SPORTS PREMIUM FHD.
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS PREMIUM FHD." group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/VfzTRWG57OhSwIK1XvZ2hyG7du2o7EvbLbDPMxdC-R7cIhnMSlIwWnZWZzNISVDqTJau4HlY5-LIEYQZJH0aIA.png" country="ar", FOX SPORTS PREMIUM FHD.
 http://ui.mrzutv.net:8080/radhames/5591/69443
 #EXTINF:0 type="favorites" channelId="-1" group="*** ARGENTINA ***" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png", DIRECTV SPORTS PLUS EC (E)
 http://ui.mrzutv.net:8080/radhames/5591/69421
+#EXTINF:0 type="favorites" channelId="-1" name="AR | El Gourmet TV" group="GASTRONOMÍA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png", 197 | El Gourmet Televisión
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=416402931&_cdn_timestamp=1668125106&_cdn_token=c35735d120d8bd94666729fcdacdc783963dc82a
+#EXTINF:0 type="favorites" channelId="-1" name="AR | Telefe" group="INTERNACIONALES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png", 568 | Telefe Internacional || ARGENTINA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=416453235&_cdn_timestamp=1668126903&_cdn_token=def038a34e65c51d2d76223db0b6aa459a202419
+#EXTINF:0 type="favorites" channelId="-1" name="USA | TLC" group="ESTILOS DE VIDA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png", 194 | Travel & Living Channel
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TLC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=416400971&_cdn_timestamp=1668125050&_cdn_token=07736178fbb10292d2370e29662aba4f11832b7d
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Discovery Home & Health" group="ESTILOS DE VIDA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png", 195 | Discovery Home & Health
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=416402283&_cdn_timestamp=1668125088&_cdn_token=ff2a59b73917fe787196b6b7c0651e420bf6f4a2
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Fox Sports 2" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png", 202 | Fox Sports 2
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=416403811&_cdn_timestamp=1668125135&_cdn_token=e66ef61ab4c469b5316221c09c494dc9a39a5010
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Fox Sports 3" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png", 203 | Fox Sports 3
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=416404531&_cdn_timestamp=1668125159&_cdn_token=fc9a5f065b3370303e1c0dbfb1f98bcbfa3a27a9
+#EXTINF:0 type="favorites" channelId="-1" name="USA | ESPN" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png", 204 | ESPN
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=416405563&_cdn_timestamp=1668125199&_cdn_token=f1f06a686aa94db9d701c2c317108c7ade8da5f3
+#EXTINF:0 type="favorites" channelId="-1" name="USA | ESPN 2" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png", 205 | ESPN 2
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=416428883&_cdn_timestamp=1668126024&_cdn_token=20d83dd671fcf03ea4d471b662743b0c6b644fed
+#EXTINF:0 type="favorites" channelId="-1" name="USA | ESPN 3" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png", 206 | ESPN 3
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=416428747&_cdn_timestamp=1668126018&_cdn_token=1ee678dbb7b27da2aafbc8a2ca9fc03d57bd7d44
+#EXTINF:0 type="favorites" channelId="-1" name="USA | ESPN 4" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png", 207 | ESPN 4
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=416429835&_cdn_timestamp=1668126057&_cdn_token=f08259eec840fb1d22435738276d883ca7805868
+#EXTINF:0 type="favorites" channelId="-1" name="USA | ESPN Extra" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png", 208 | ESPN Extra
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=416430211&_cdn_timestamp=1668126065&_cdn_token=738dc5f73e72d898114ea19b8d1b93788011ac83
+#EXTINF:0 type="favorites" channelId="-1" name="MX | TNT Sports" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png", 211 | TNT Sports
+http://170.79.235.29:8000/play/233
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Discovery Channel" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png", 281 | Discovery Channel
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=416437675&_cdn_timestamp=1668126313&_cdn_token=3f31c5c88cb56c3977a68eacff9bd2b0ceab7ed1
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Discovery Science" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png", 282 | Discovery Science
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=416438331&_cdn_timestamp=1668126330&_cdn_token=700c5d6cc1165cc1348624405408eec16f69eb8c
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Discovery Turbo" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png", 283 | Discovery Turbo
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=416438795&_cdn_timestamp=1668126346&_cdn_token=cadcabae4ec9026c4d900028be42f46826363b74
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Animal Planet" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png", 286 | Animal Planet
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=416439427&_cdn_timestamp=1668126363&_cdn_token=31332c9715971e10c91fe4563db7b8502c92e12a
+#EXTINF:0 type="favorites" channelId="-1" name="USA | History" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png", 288 | History
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_session=416439907&_cdn_timestamp=1668126376&_cdn_token=5443d1ae74af33b2aca3d6aae4ce9b1f3eb6630a
+#EXTINF:0 type="favorites" channelId="-1" name="USA | History 2" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png", 289 | History 2
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=416440555&_cdn_timestamp=1668126403&_cdn_token=44c298f142e642dbd5ae6fadb2117b207c8b4cd9
+#EXTINF:0 type="favorites" channelId="-1" name="CA | Love Nature" group="CULTURA Y EDUCACION" logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png", 290 | Love Nature
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_session=416441859&_cdn_timestamp=1668126452&_cdn_token=f59ea1dffe0fa4ee13cab585530fa96d38f9e662
+#EXTINF:0 type="favorites" channelId="-1" name="AR | El Nueve" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png", 569 | El Nueve || ARGENTINA
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/ecfa8823-03f3-4498-8723-0712eb614171/5.m3u8
