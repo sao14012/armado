@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1,(DE) SKY SPORT 1
+http://103.166.183.78:12345/play/skysport1
+#EXTINF:-1,(DE) SKY SPORT 10
+http://103.166.183.78:12345/play/skySP10
+#EXTINF:-1,(DE) SKY SPORT 3
+http://103.166.183.78:12345/play/skysport3
+#EXTINF:-1,(DE) SKY SPORT 4
+http://103.166.183.78:12345/play/a02e
+#EXTINF:-1,(DE) SKY SPORT 5
+http://103.166.183.78:12345/play/skySP5
+#EXTINF:-1,(DE) SKY SPORT 6
+http://103.166.183.78:12345/play/skySP6
+#EXTINF:-1,(DE) SKY SPORT 7
+http://103.166.183.78:12345/play/skySP7
+#EXTINF:-1,(DE) SKY SPORT 8
+http://103.166.183.78:12345/play/skySP8
+#EXTINF:-1,(DE) SKY SPORT 9
+http://103.166.183.78:12345/play/skySP9
+#EXTINF:-1,(DE) Sky Bundesliga 1
+http://103.166.183.78:12345/play/bundesliga1
+#EXTINF:-1,(DE) Sky Bundesliga 2
+http://103.166.183.78:12345/play/skybundes2
+#EXTINF:-1,(DE) Sky Bundesliga 3
+http://103.166.183.78:12345/play/bundesliga3
+#EXTINF:-1,(GR) EURONEWS HD
+http://103.166.183.78:12345/play/eurogr
+#EXTINF:-1,(GR) COSMOTE CINEMA 3
+http://103.166.183.78:12345/play/cosmomcinema3
+#EXTINF:-1,(GR) COSMOTE Sport 1 HD
+http://103.166.183.78:12345/play/cmt1
+#EXTINF:-1,(GR) COSMOTE Sport 4 HD
+http://103.166.183.78:12345/play/cmt4
+#EXTINF:-1,(GR) COSMOTE Sport 5 HD
+http://103.166.183.78:12345/play/cmt5
+#EXTINF:-1,(GR) COSMOTE Sport 6 HD
+http://103.166.183.78:12345/play/cmt6
+#EXTINF:-1,(GR) COSMOTE Sport 7 HD
+http://103.166.183.78:12345/play/cmt7
+#EXTINF:-1,(GR) COSMOTE Sport 8 HD
+http://103.166.183.78:12345/play/cmt8
+#EXTINF:-1,(GR) COSMOTE Sport 9 HD
+http://103.166.183.78:12345/play/cms9
+#EXTINF:-1,(GR) COSMOTE Sport Hihglight
+http://103.166.183.78:12345/play/cosmotehighli
+#EXTINF:-1,(GR) NOVA SPORTS 1
+http://103.166.183.78:12345/play/ns1
+#EXTINF:-1,(GR) NOVA SPORTS 2
+http://103.166.183.78:12345/play/ns2
+#EXTINF:-1,(GR) NOVA SPORTS 3
+http://103.166.183.78:12345/play/ns3
+#EXTINF:-1,(GR) NOVA SPORTS 4
+http://103.166.183.78:12345/play/ns4
+#EXTINF:-1,(GR) NOVA SPORTS 5
+http://103.166.183.78:12345/play/ns5
+#EXTINF:-1,(GR) NOVA SPORTS PRIME
+http://103.166.183.78:12345/play/nsprime
+#EXTINF:-1,(SP) BEIN EXTRA
+http://103.166.183.78:12345/play/beinextrasp
+#EXTINF:-1,(SP) M. La Liga
+http://103.166.183.78:12345/play/a02g
+#EXTINF:-1,(SP) M. Liga de Campeones
+http://103.166.183.78:12345/play/a00g
+#EXTINF:-1,(SP) M. Liga de Campeones 2 HD
+http://103.166.183.78:12345/play/mlaliga2
+#EXTINF:-1,(SP) M. Liga de Campeones 3 HD
+http://103.166.183.78:12345/play/mlaliga1
+#EXTINF:-1,(SP) SKY LA LIGA
+http://103.166.183.78:12345/play/skysportsespa
+#EXTINF:-1,(SP) SKY PREMIER LEAGUE
+http://103.166.183.78:12345/play/skyprling
+#EXTINF:-1,(UK )BEIN SPORT
+http://103.166.183.78:12345/play/beinuk
+#EXTINF:-1,(UK) SKY SPORTS F1
+http://103.166.183.78:12345/play/f1en
+#EXTINF:-1,(UK) BT Sport 1 HD
+http://103.166.183.78:12345/play/btsport1
+#EXTINF:-1,(UK) BT Sport 2 HD
+http://103.166.183.78:12345/play/btsport2
+#EXTINF:-1,(UK) BT Sport 3 HD
+http://103.166.183.78:12345/play/a029
+#EXTINF:-1,(UK) Premier Sports 1
+http://103.166.183.78:12345/play/premiersport1
+#EXTINF:-1,(UK) Premier Sports 2
+http://103.166.183.78:12345/play/premsport
+#EXTINF:-1,(UK) SKY SPORTS MIX FHD
+http://103.166.183.78:12345/play/skysportmix
+#EXTINF:-1,(UK) SKY SPORTS MIX HD
+http://103.166.183.78:12345/play/skyeventmix
+#EXTINF:-1,(UK) SKY SPORTS PREMIER LEAGUE FHD
+http://103.166.183.78:12345/play/skysportspreimli
+#EXTINF:-1,(UK) Sky Sports F1
+http://103.166.183.78:12345/play/skyf1uk
+#EXTINF:-1,(UK) Sky Sports Football
+http://103.166.183.78:12345/play/skyuk
+#EXTINF:-1,(UK) Sky Sports Main Event
+http://103.166.183.78:12345/play/skyevent
+#EXTINF:-1,(UK) Sport1+ HD
+http://103.166.183.78:12345/play/sport1ex
+#EXTINF:-1,4K EVENT
+http://103.166.183.78:12345/play/a028
+#EXTINF:-1,BT SPORT UHD
+http://103.166.183.78:12345/play/btuhd
+#EXTINF:-1,Feed
+http://103.166.183.78:12345/play/test
+#EXTINF:-1,K+ SPORT 1
+http://103.166.183.78:12345/play/keo1
+#EXTINF:-1,Match TV
+http://103.166.183.78:12345/play/match
+#EXTINF:-1,OBS.LIVESTREAM
+http://103.166.183.78:12345/play/1
+#EXTINF:-1,On Sports News
+http://103.166.183.78:12345/play/a02j
+#EXTINF:-1,Polsat Premium 1
+http://103.166.183.78:12345/play/polsatpre1
+#EXTINF:-1,SKY EPL
+http://103.166.183.78:12345/play/a00f
+#EXTINF:-1,SKY F1
+http://103.166.183.78:12345/play/skyf1
+#EXTINF:-1,SKY SPORT UHD
+http://103.166.183.78:12345/play/a00o
+#EXTINF:-1,Setanta + HD UA
+http://103.166.183.78:12345/play/sentana
+#EXTINF:-1,Setanta UA
+http://103.166.183.78:12345/play/a02h
+#EXTINF:-1,Setanta Ukraine 1
+http://103.166.183.78:12345/play/setantaua
+#EXTINF:-1,Setanta Ukraine 2
+http://103.166.183.78:12345/play/setanta2
+#EXTINF:-1,Sportdigital
+http://103.166.183.78:12345/play/a02i
