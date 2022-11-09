@@ -25,6 +25,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c00099
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" tvg-country="AR", CANAL 9 35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75", El nueve 2
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/b00d164f-be51-473e-a47c-b33aa1f44186.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AR | El Nueve" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png", 569 | El Nueve || ARGENTINA
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/ecfa8823-03f3-4498-8723-0712eb614171/5.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AR | El Nueve" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png", 569 | El Nueve || ARGENTINA
@@ -43,10 +45,10 @@ http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/2.m3u8
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://www.m3u.cl/logo/299_Canal_10_Rio_Negro.png", Canal 10 Rio Negro | AR
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="-1", Canal 10 Córdoba (1080p)
-https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 10 Rio Negro (720p) [Not 24/7]
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal 10 Córdoba (1080p)
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="http://television.com.ar/wp-content/uploads/2020/10/IP-Informaci%C3%B3nPeriodistica-561x400.jpg" shift="-3", IP digital
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png", A24  36.3
@@ -55,6 +57,8 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 http://tvstarlife.com:25461/live/geovany/geovany/313.m3u8
 #EXTINF:0 type="stream" channelId="2844", TN
 https://www.youtube.com/watch?v=wHn1_QVoXGM
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png", TN Noticias
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/1811.m3u8
 #EXTINF:0 type="stream" channelId="1929" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png", C5N
 http://tvstarlife.com:25461/live/geovany/geovany/283.m3u8
 #EXTINF:0 type="stream" channelId="2726", Canal 26 (720p)
@@ -115,10 +119,6 @@ http://ui.mrzutv.net:8080/radhames/5591/41027
 http://ui.mrzutv.net:8080/radhames/5591/16715
 #EXTINF:0 type="stream" channelId="-1" group="MUSICA" logo="https://www.diario26.com/images/tierramia-icon.png", TERRAMIA TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png", DEPORT TV 24.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/250px-Logo_de_Claro.svg.png" shift="-3", CLARO SPORTS 2
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CINE" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s24553_dark_360w_270h.png" shift="-3", HBO HD LATINO
 https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="935" group="CINE" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" shift="-3", HBO2
@@ -151,8 +151,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="AMBA" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU", CM
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
-#EXTINF:0 type="stream" channelId="1328" name="FoxSports" group="DEPORTES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59307_dark_360w_270h.png" shift="-3", FoxSports
-http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/206638151_10223169123710059_3666810289391430657_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=825194&_nc_eui2=AeGxugJ54qa7RhgKBnLTrHOu14OonvQq8lrXg6ie9CryWkCQzaYyrufVmZGkiprZVM0&_nc_ohc=dbLCQPiMFxEAX9X0jrT&_nc_ht=scontent.fepa11-1.fna&oh=afeef92e5377cb7720df7b2f4afc60c8&oe=6127F95F", SSIPTV ARG TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d530-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec2383fd-6e28-4df5-9d1c-b66eee700e0c&userId=&serverSideAds=true
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://www.m3u.cl/logo/294_Terramia_TV.png", Terramia TV | AR
@@ -165,6 +163,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1925" group="DEPORTES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87430_dark_360w_270h.png" shift="-3", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png", DEPORT TV 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg", DIRECTV SPORTS
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/150px-ESPN_Premium_logo.svg.png" shift="-3", ESPN PREMIUM ARGENTINA (se ve bien partidos)
@@ -205,6 +205,8 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 http://ui.mrzutv.net:8080/radhames/5591/69441
 #EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS PREMIUM FHD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/VfzTRWG57OhSwIK1XvZ2hyG7du2o7EvbLbDPMxdC-R7cIhnMSlIwWnZWZzNISVDqTJau4HlY5-LIEYQZJH0aIA.png" tvg-country="ar", FOX SPORTS PREMIUM FHD
 http://ui.mrzutv.net:8080/radhames/5591/69442
+#EXTINF:0 type="stream" channelId="1328" name="FoxSports" group="DEPORTES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59307_dark_360w_270h.png" shift="-3", FoxSports
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 1 HD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/72a65ce068befa3d9edf31043302f2d0.png" tvg-country="ar", FOX SPORTS 1 HD
 http://ui.mrzutv.net:8080/radhames/5591/69429
 #EXTINF:0 type="stream" channelId="-1" name="USA | Fox Sports 2" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png", 202 | Fox Sports 2
@@ -231,3 +233,5 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 http://ui.mrzutv.net:8080/radhames/5591/69432
 #EXTINF:0 type="stream" channelId="-1" group="*** ARGENTINA ***" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png", DIRECTV SPORTS PLUS EC (E)
 http://ui.mrzutv.net:8080/radhames/5591/69421
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/250px-Logo_de_Claro.svg.png" shift="-3", CLARO SPORTS 2
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
