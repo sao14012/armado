@@ -10,7 +10,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png" tvg-country="AR", CANAL 13  33.1
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AR | El Trece Internacional" group="INTERNACIONALES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png", 570.2 | El TRECE INTERNACIONAL
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=409070395&_cdn_timestamp=1667724534&_cdn_token=19556c16acfea2b09d20ba8da4c0384058ffdd22
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://x.playerlatino.live/telefe.png" tvg-country="AR", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AR | Telefe" group="INTERNACIONALES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png", 568 | Telefe Internacional || ARGENTINA
@@ -235,3 +235,65 @@ http://ui.mrzutv.net:8080/radhames/5591/69432
 http://ui.mrzutv.net:8080/radhames/5591/69421
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/250px-Logo_de_Claro.svg.png" shift="-3", CLARO SPORTS 2
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="USA | Star Channel" group="PELICULAS Y SERIES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png", 98 | Star Channel
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=416389595&_cdn_timestamp=1668124626&_cdn_token=7354f4fe98551a28358e1a492ababb93598b7230
+#EXTINF:0 type="stream" channelId="-1" name="AR | El Trece Internacional" group="INTERNACIONALES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png", 570.2 | El Trece Internacional || ARGENTINA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=416454723&_cdn_timestamp=1668126945&_cdn_token=b95eca0a8692d907121832da18f36af51d33bed4
+#EXTINF:0 type="stream" channelId="4654" name="TV Publica" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/08-TVP.png", TV Pública
+https://is-tucuman.cdn.rcs.net.ar/mnp/tvp/output.mpd
+#EXTINF:0 type="stream" channelId="2546" name="America TV" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/16-America.png", América
+https://is-tucuman.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:0 type="stream" channelId="1455" name="History Channel" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/50-History.png", History
+https://is-tucuman.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:0 type="stream" channelId="1201" name="History 2" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/51-History2.png", History 2
+https://is-tucuman.cdn.rcs.net.ar/mnp/h2/output.mpd
+#EXTINF:0 type="stream" channelId="56" name="Nat Geo" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/52-NatGeo.png", National Geographic
+https://is-tucuman.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
+#EXTINF:0 type="stream" channelId="1200" name="Lifetime" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/54-Lifetime.png", Lifetime
+https://is-tucuman.cdn.rcs.net.ar/mnp/lifetime/output.mpd
+#EXTINF:0 type="stream" channelId="1208" name="A&E" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/70-A%26E.png", A&E
+https://is-tucuman.cdn.rcs.net.ar/mnp/ae/output.mpd
+#EXTINF:0 type="stream" channelId="3228" name="TBS" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/116-TBS.png", TBS
+https://is-tucuman.cdn.rcs.net.ar/mnp/tbs/output.mpd
+#EXTINF:0 type="stream" channelId="2626" name="Tru TV" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/71-TruTV.png", Tru TV
+https://is-tucuman.cdn.rcs.net.ar/mnp/trutv/output.mpd
+#EXTINF:0 type="stream" channelId="57" name="Discovery Channel" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/46-Discovery.png" audio-track="spa", Discovery Channel
+https://is-tucuman.cdn.rcs.net.ar/mnp/discovery/output.mpd
+#EXTINF:0 type="stream" channelId="67" name="Discovery TLC" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/47-DiscoveryTLC.png" audio-track="spa", Discovery TLC
+https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
+#EXTINF:0 type="stream" channelId="2840" name="Discovery Turbo" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/48-DiscoveryTurbo.png", Discovery Turbo
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo.m3u8
+#EXTINF:0 type="stream" channelId="2540" name="ESPN" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/57-ESPN.png", ESPN
+https://is-tucuman.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:0 type="stream" channelId="344" name="ESPN2" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/58-ESPN2.png", ESPN 2
+https://is-tucuman.cdn.rcs.net.ar/mnp/espn2/output.mpd
+#EXTINF:0 type="stream" channelId="355" name="ESPN3" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/59-ESPN3.png", ESPN 3
+https://is-tucuman.cdn.rcs.net.ar/mnp/espn3/output.mpd
+#EXTINF:0 type="stream" channelId="3747" name="ESPN+" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/61-ESPN%2B.png", ESPN Extra
+https://is-tucuman.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+#EXTINF:0 type="stream" channelId="1328" name="FOX Sports" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/65-FoxSports.png", FOX Sports
+https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:0 type="stream" channelId="170" name="FOX Sports 2" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports2.png", FOX Sports 2
+https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:0 type="stream" channelId="180" name="FOX Sports 3" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports3.png", FOX Sports 3
+https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+#EXTINF:0 type="stream" channelId="4039" name="Garage TV" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/25-GarageTV.png", Garage TV
+https://is-tucuman.cdn.rcs.net.ar/mnp/garage_hls/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4659" name="CINE.AR" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/72-CineAr.png", CINE.AR
+https://is-tucuman.cdn.rcs.net.ar/mnp/cinear/output.mpd
+#EXTINF:0 type="stream" channelId="2638" name="i-Sat" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/120-iSat.png", i-Sat
+https://is-tucuman.cdn.rcs.net.ar/mnp/isat/output.mpd
+#EXTINF:0 type="stream" channelId="-1" name="LA | DIRECTV SPORT 2" group="LATINO" logo="https://www.directv.com.ve/img/directv-logo-fb-150x150.jpg", LA | DIRECTV SPORT 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38635
+#EXTINF:0 type="stream" channelId="-1" name="LA | DIRECTV SPORT PLUS" group="LATINO" logo="https://www.directv.com.ve/img/directv-logo-fb-150x150.jpg", LA | DIRECTV SPORT PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38638
+#EXTINF:0 type="stream" channelId="-1" name="LA | FOX SPORTS" group="LATINO" logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png", LA | FOX SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38698
+#EXTINF:0 type="stream" channelId="-1" name="LA | FOX SPORTS 1" group="LATINO" logo="https://static.businessinsider.com/image/520cea5f6bb3f77d30000010/image.jpg", LA | FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/38699
+#EXTINF:0 type="stream" channelId="-1" name="LA | FOX SPORTS 3" group="LATINO" logo="https://www.newslinereport.com/online/nota_la-frmula-1-estar-en-la-pantalla-de-fox-sports-3.jpg", LA | FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38701
+#EXTINF:0 type="stream" channelId="-1" name="LA | TYC SPORTS" group="LATINO" logo="https://p-img.movetv.com/cms/images/764a4325e7d7d4005bc2b3e03f9815352b54a717.jpg", LA | TYC SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38892
+#EXTINF:0 type="stream" channelId="-1" name="LA | GOURMET" group="LATINO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_2013-10-26_21-48.png", LA | GOURMET
+http://185.134.22.150:8080/jokertv/streaming@2021/38659
