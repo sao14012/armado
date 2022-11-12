@@ -7,11 +7,11 @@ http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/4.m3u8
 https://is-tucuman.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png", El Trece 3
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png" tvg-country="AR", CANAL 13  33.1
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png" country="AR", CANAL 13  33.1
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AR | El Trece Internacional" group="INTERNACIONALES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png", 570.2 | El TRECE INTERNACIONAL
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://x.playerlatino.live/telefe.png" tvg-country="AR", TELEFE  34.1
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://x.playerlatino.live/telefe.png" country="AR", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AR | Telefe" group="INTERNACIONALES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png", 568 | Telefe Internacional || ARGENTINA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=416453235&_cdn_timestamp=1668126903&_cdn_token=def038a34e65c51d2d76223db0b6aa459a202419
@@ -23,7 +23,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c00099104
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png", Telefe Noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" tvg-country="AR", CANAL 9 35.1
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" country="AR", CANAL 9 35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75", El nueve 2
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/b00d164f-be51-473e-a47c-b33aa1f44186.m3u8
@@ -35,7 +35,7 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", AMERICA HD  36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" tvg-country="AR", TV PUBLICA  23.2 OPCION 2
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" country="AR", TV PUBLICA  23.2 OPCION 2
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16525_dark_360w_270h.png", TV PUBLICA
 https://is-tucuman.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
@@ -145,9 +145,9 @@ https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png", CITY SPORTS TV
 https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="AMBA" logo="https://pbs.twimg.com/profile_images/1333395540478996480/oaQIEz2x_400x400.jpg" tvg-country="AR", CANAL ENCUENTRO 22.1
+#EXTINF:0 type="stream" channelId="-1" group="AMBA" logo="https://pbs.twimg.com/profile_images/1333395540478996480/oaQIEz2x_400x400.jpg" country="AR", CANAL ENCUENTRO 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="AMBA" logo="https://pbs.twimg.com/profile_images/1417491632212037632/yLA3EMgX_400x400.jpg" tvg-country="AR", CINEAR  22.4
+#EXTINF:0 type="stream" channelId="-1" group="AMBA" logo="https://pbs.twimg.com/profile_images/1417491632212037632/yLA3EMgX_400x400.jpg" country="AR", CINEAR  22.4
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="AMBA" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU", CM
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
@@ -201,35 +201,35 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-hls/live-media.m
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=416430211&_cdn_timestamp=1668126065&_cdn_token=738dc5f73e72d898114ea19b8d1b93788011ac83
 #EXTINF:0 type="stream" channelId="4657" group="DEPORTES" logo="https://futbolfullenvivo.com/logos/espnextra.png" shift="-3", ESPN EXTRA
 https://is-tucuman.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS PREMIUM HD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/VfzTRWG57OhSwIK1XvZ2hyG7du2o7EvbLbDPMxdC-R7cIhnMSlIwWnZWZzNISVDqTJau4HlY5-LIEYQZJH0aIA.png" tvg-country="ar", FOX SPORTS PREMIUM HD
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS PREMIUM HD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/VfzTRWG57OhSwIK1XvZ2hyG7du2o7EvbLbDPMxdC-R7cIhnMSlIwWnZWZzNISVDqTJau4HlY5-LIEYQZJH0aIA.png" country="ar", FOX SPORTS PREMIUM HD
 http://ui.mrzutv.net:8080/radhames/5591/69441
-#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS PREMIUM FHD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/VfzTRWG57OhSwIK1XvZ2hyG7du2o7EvbLbDPMxdC-R7cIhnMSlIwWnZWZzNISVDqTJau4HlY5-LIEYQZJH0aIA.png" tvg-country="ar", FOX SPORTS PREMIUM FHD
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS PREMIUM FHD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/VfzTRWG57OhSwIK1XvZ2hyG7du2o7EvbLbDPMxdC-R7cIhnMSlIwWnZWZzNISVDqTJau4HlY5-LIEYQZJH0aIA.png" country="ar", FOX SPORTS PREMIUM FHD
 http://ui.mrzutv.net:8080/radhames/5591/69442
 #EXTINF:0 type="stream" channelId="1328" name="FoxSports" group="DEPORTES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59307_dark_360w_270h.png" shift="-3", FoxSports
 http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 1 HD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/72a65ce068befa3d9edf31043302f2d0.png" tvg-country="ar", FOX SPORTS 1 HD
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 1 HD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/72a65ce068befa3d9edf31043302f2d0.png" country="ar", FOX SPORTS 1 HD
 http://ui.mrzutv.net:8080/radhames/5591/69429
 #EXTINF:0 type="stream" channelId="-1" name="USA | Fox Sports 2" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png", 202 | Fox Sports 2
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=416403811&_cdn_timestamp=1668125135&_cdn_token=e66ef61ab4c469b5316221c09c494dc9a39a5010
 #EXTINF:0 type="stream" channelId="179" name="Fox Sports2 HD" group="DEPORTES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73935_dark_360w_270h.png" shift="-3", Fox Sports2 HD
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 2 ©️" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/c60db85f10f1cb463de212f10dcacfdc.png" tvg-country="ar", FOX SPORTS 2 ©️
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 2 ©️" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/c60db85f10f1cb463de212f10dcacfdc.png" country="ar", FOX SPORTS 2 ©️
 http://ui.mrzutv.net:8080/radhames/5591/69430
 #EXTINF:0 type="stream" channelId="-1" name="USA | Fox Sports 3" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png", 203 | Fox Sports 3
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=416404531&_cdn_timestamp=1668125159&_cdn_token=fc9a5f065b3370303e1c0dbfb1f98bcbfa3a27a9
-#EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS FDH" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/a3c8e288f18b6cb0e60eb5c3b16e4ca4.png" tvg-country="ar", TNT SPORTS FDH
+#EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS FDH" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/a3c8e288f18b6cb0e60eb5c3b16e4ca4.png" country="ar", TNT SPORTS FDH
 http://ui.mrzutv.net:8080/radhames/5591/69438
 #EXTINF:0 type="stream" channelId="4668" group="DEPORTES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" shift="-3", TNT Sports
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS FHD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/9f27721c5adba678bb39a3f4e0f3821c.png" tvg-country="ar", TNT SPORTS FHD
+#EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS FHD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/9f27721c5adba678bb39a3f4e0f3821c.png" country="ar", TNT SPORTS FHD
 http://ui.mrzutv.net:8080/radhames/5591/69436
-#EXTINF:0 type="stream" channelId="4668" name="TNT SPORTS SD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/a3c8e288f18b6cb0e60eb5c3b16e4ca4.png" tvg-country="ar", TNT SPORTS SD
+#EXTINF:0 type="stream" channelId="4668" name="TNT SPORTS SD" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/a3c8e288f18b6cb0e60eb5c3b16e4ca4.png" country="ar", TNT SPORTS SD
 http://ui.mrzutv.net:8080/radhames/5591/69435
 #EXTINF:0 type="stream" channelId="-1" name="MX | TNT Sports" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png", 211 | TNT Sports
 http://170.79.235.29:8000/play/233
 #EXTINF:0 type="stream" channelId="3802" name="TYC SPORTS" group="DEPORTES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" shift="-3", TYC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="TYC SPORTS LOCAL FHD (E)" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/YyQdAYPeejf0q8rbS3LPxEv0e4WvNjcRdDTGLcoWkE-9Y5Y4M2E4QXWqJw_4KVWApof278HhG_UCTTwBh-eYtQ.png" tvg-country="ar", TYC SPORTS LOCAL FHD (E)
+#EXTINF:0 type="stream" channelId="-1" name="TYC SPORTS LOCAL FHD (E)" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/YyQdAYPeejf0q8rbS3LPxEv0e4WvNjcRdDTGLcoWkE-9Y5Y4M2E4QXWqJw_4KVWApof278HhG_UCTTwBh-eYtQ.png" country="ar", TYC SPORTS LOCAL FHD (E)
 http://ui.mrzutv.net:8080/radhames/5591/69432
 #EXTINF:0 type="stream" channelId="-1" group="*** ARGENTINA ***" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png", DIRECTV SPORTS PLUS EC (E)
 http://ui.mrzutv.net:8080/radhames/5591/69421
@@ -297,3 +297,5 @@ http://185.134.22.150:8080/jokertv/streaming@2021/38701
 http://185.134.22.150:8080/jokertv/streaming@2021/38892
 #EXTINF:0 type="stream" channelId="-1" name="LA | GOURMET" group="LATINO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_2013-10-26_21-48.png", LA | GOURMET
 http://185.134.22.150:8080/jokertv/streaming@2021/38659
+#EXTINF:0 type="favorites" channelId="-1" name="AR | El Gourmet TV" group="GASTRONOMÍA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png", 197 | El Gourmet Televisión
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=423381211&_cdn_timestamp=1668499343&_cdn_token=68bfa22726ae062c9136f0b42bfec24e0a5ae060
