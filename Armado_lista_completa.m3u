@@ -1,34 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="TELEFE" tvg-name="ARG: TELEFE" tvg-logo="http://fanc.tmsimg.com/assets/s100066_ll_h3_ab.png" group-title="ARGENTINA",ARG: TELEFE
+#EXTINF:-1 tvg-id="URBANA PLAY" tvg-name="ARG: TELEFE" tvg-logo="http://fanc.tmsimg.com/assets/s100066_ll_h3_ab.png" group-title="ARGENTINA",ARG: TELEFE
 https://youtu.be/8yvZ1RHBM2g
-
-#EXTINF:-1 tvg-id="TRESAT" tvg-name="ARG: El trece HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s16044_ll_h3_aa.png" group-title="ARGENTINA",ARG: El trece HD (E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165585.m3u8
-
-#EXTINF:-1 tvg-id="CANL9HD" tvg-name="ARG: El Nueve FHD" tvg-logo="http://fanc.tmsimg.com/assets/s16882_ll_h3_aa.png" group-title="ARGENTINA",ARG: El Nueve FHD
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165580.m3u8
-
-#EXTINF:-1 tvg-id="AMETVHD" tvg-name="ARG: America TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s16395_ll_h3_ac.png" group-title="ARGENTINA",ARG: America TV FHD
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165577.m3u8
-
-#EXTINF:-1 tvg-id="TVPUHD" tvg-name="ARG: Television Publica HD" tvg-logo="http://fanc.tmsimg.com/assets/s16525_ll_h3_ab.png" group-title="ARGENTINA",ARG: Television Publica HD
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165588.m3u8
-
-#EXTINF:-1 tvg-id="C5NARGH" tvg-name="ARG: C5N FHD" tvg-logo="http://fanc.tmsimg.com/assets/s77601_ll_h3_aa.png" group-title="ARGENTINA",ARG: C5N FHD
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165596.m3u8
-#EXTINF:-1 tvg-id="CRONHD" tvg-name="ARG: CRONICA HD" tvg-logo="http://fanc.tmsimg.com/assets/s106730_ll_h3_ac.png" group-title="ARGENTINA",ARG: CRONICA HD
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165594.m3u8
-#EXTINF:-1 tvg-id="CAN26HD" tvg-name="ARG: CANAL 26" tvg-logo="http://fanc.tmsimg.com/assets/s103103_ll_h3_aa.png" group-title="ARGENTINA",ARG: CANAL 26
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165597.m3u8
-#EXTINF:-1 tvg-id="NACIONP" tvg-name="ARG: LN+" tvg-logo="http://fanc.tmsimg.com/assets/s101238_ll_h3_aa.png" group-title="ARGENTINA",ARG: LN+
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal IP HD  (informacion periodistica)" tvg-logo="https://pbs.twimg.com/profile_images/1331719340228538372/bL0dogdb_400x400.jpg" group-title="ARGENTINA",ARG: Canal IP HD  (informacion periodistica)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165599.m3u8
-#EXTINF:-1 tvg-id="AMR24HD" tvg-name="ARG: A24 HD" tvg-logo="http://fanc.tmsimg.com/assets/s16272_ll_h3_ab.png" group-title="ARGENTINA",ARG: A24 HD
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165593.m3u8
-#EXTINF:-1 tvg-id="NETTVA" tvg-name="ARG: NET TV" tvg-logo="http://fanc.tmsimg.com/assets/s109331_ll_h3_aa.png" group-title="ARGENTINA",ARG: NET TV
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165600.m3u8
-#EXTINF:-1 tvg-id="ENCUA" tvg-name="ARG: ENCUENTRO" tvg-logo="http://fanc.tmsimg.com/assets/s75767_h3_aa.png" group-title="ARGENTINA",ARG: ENCUENTRO
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165602.m3u8
