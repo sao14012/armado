@@ -3,3 +3,6 @@
 
 #EXTINF:-1 tvg-id="URBANA PLAY" tvg-name="ARG: TELEFE" tvg-logo="http://fanc.tmsimg.com/assets/s100066_ll_h3_ab.png" group-title="ARGENTINA",ARG: TELEFE
 https://youtu.be/8yvZ1RHBM2g
+
+#EXTINF:-1 group-title="NOTICIAS", KZO
+https://www.youtube.com/watch?v=7XcXOybnyvY
