@@ -229,6 +229,8 @@ http://170.79.235.29:8000/play/233
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="TYC SPORTS LOCAL FHD (E)" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/YyQdAYPeejf0q8rbS3LPxEv0e4WvNjcRdDTGLcoWkE-9Y5Y4M2E4QXWqJw_4KVWApof278HhG_UCTTwBh-eYtQ.png" tvg-country="ar", TYC SPORTS LOCAL FHD (E)
 http://ui.mrzutv.net:8080/radhames/5591/69432
+#EXTINF:0 type="stream" channelId="3802" group="DEPORTES LATINOS" logo="http://sinlimitestv.com:8080/images/YyQdAYPeejf0q8rbS3LPxEv0e4WvNjcRdDTGLcoWkE-9Y5Y4M2E4QXWqJw_4KVWApof278HhG_UCTTwBh-eYtQ.png", TYC SPORTS HD (anda HD)
+http://ui.mrzutv.net:8080/radhames/5591/62986
 #EXTINF:0 type="stream" channelId="-1" group="*** ARGENTINA ***" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png", DIRECTV SPORTS PLUS EC (E)
 http://ui.mrzutv.net:8080/radhames/5591/69421
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/250px-Logo_de_Claro.svg.png" shift="-3", CLARO SPORTS 2
