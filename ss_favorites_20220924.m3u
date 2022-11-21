@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="3802" group="LATINO SPORTS" logo="https://i.imgur.com/I7Lhgej.png", TyC Sports ANDA BIEN
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" tvg-country="AR", TV PUBLICA  23.2 OPCION 2
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://i.imgur.com/RUTTTOw.png", DP: DEPORTV  HD [ARG] ..
+http://ui.mrzutv.net:8080/radhames/5591/43441
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DIRECTV SPORT HD [CO]
+http://ui.mrzutv.net:8080/radhames/5591/54601
+#EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png", CITY SPORTS TV
+https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.rionegro.com.ar/wp-content/uploads/2022/05/624eea85d72b0-e1652395016751.jpg?w=920&h=517&crop=1", GH_2022
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" shift="-3", El trece HD (E) anda bien
@@ -35,8 +45,6 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", AMERICA HD  36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" tvg-country="AR", TV PUBLICA  23.2 OPCION 2
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AR | TVP" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png", 567 | Televisión Pública || ARGENTINA
 http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/2.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RIO NEGRO" logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg", CANAL 10 RIO NEGRO
@@ -141,8 +149,6 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png", CIUDAD MAGICA TV
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png", CITY SPORTS TV
-https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="AMBA" logo="https://pbs.twimg.com/profile_images/1333395540478996480/oaQIEz2x_400x400.jpg" tvg-country="AR", CANAL ENCUENTRO 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="AMBA" logo="https://pbs.twimg.com/profile_images/1417491632212037632/yLA3EMgX_400x400.jpg" tvg-country="AR", CINEAR  22.4
@@ -163,8 +169,6 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png", DEPORT TV 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg", DIRECTV SPORTS
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/150px-ESPN_Premium_logo.svg.png" shift="-3", ESPN PREMIUM ARGENTINA (se ve bien partidos)
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png", ESPN PREMIUM (ᴀʀɢ)
@@ -225,10 +229,6 @@ http://ui.mrzutv.net:8080/radhames/5591/69436
 http://ui.mrzutv.net:8080/radhames/5591/69435
 #EXTINF:0 type="stream" channelId="-1" name="MX | TNT Sports" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png", 211 | TNT Sports
 http://170.79.235.29:8000/play/233
-#EXTINF:0 type="stream" channelId="3802" name="TYC SPORTS" group="DEPORTES" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" shift="-3", TYC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="TYC SPORTS LOCAL FHD (E)" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/YyQdAYPeejf0q8rbS3LPxEv0e4WvNjcRdDTGLcoWkE-9Y5Y4M2E4QXWqJw_4KVWApof278HhG_UCTTwBh-eYtQ.png" tvg-country="ar", TYC SPORTS LOCAL FHD (E)
-http://ui.mrzutv.net:8080/radhames/5591/69432
 #EXTINF:0 type="stream" channelId="3802" group="DEPORTES LATINOS" logo="http://sinlimitestv.com:8080/images/YyQdAYPeejf0q8rbS3LPxEv0e4WvNjcRdDTGLcoWkE-9Y5Y4M2E4QXWqJw_4KVWApof278HhG_UCTTwBh-eYtQ.png", TYC SPORTS HD (anda HD)
 http://ui.mrzutv.net:8080/radhames/5591/62986
 #EXTINF:0 type="stream" channelId="-1" group="*** ARGENTINA ***" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png", DIRECTV SPORTS PLUS EC (E)
@@ -301,19 +301,41 @@ http://185.134.22.150:8080/jokertv/streaming@2021/38659
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=423381211&_cdn_timestamp=1668499343&_cdn_token=68bfa22726ae062c9136f0b42bfec24e0a5ae060
 #EXTINF:0 type="stream" channelId="-1" name="USA | ESPN Extra" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png", 208 | ESPN Extra
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=423382235&_cdn_timestamp=1668499493&_cdn_token=0b254349fa33fcdd04ec38e1f4603cf48870bcff
-#EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DIRECTV SPORT HD [CO]
-http://ui.mrzutv.net:8080/radhames/5591/54601
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DIRECTV SPORT PLUS HD (ᴀʀɢ)
 http://ui.mrzutv.net:8080/radhames/5591/43443
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://i.ibb.co/y0ZnwXH/Sin-t-tulo-1.png", DIRECTV SPORTS 1 HD (ᴀʀɢ)
 http://ui.mrzutv.net:8080/radhames/5591/365
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DIRECTV SPORTS 2 HD (ᴀʀɢ)
 http://ui.mrzutv.net:8080/radhames/5591/65462
-#EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://i.imgur.com/RUTTTOw.png", DP: DEPORTV  HD [ARG] ..
-http://ui.mrzutv.net:8080/radhames/5591/43441
 #EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://images.pluto.tv/channels/6140a074a99e79000738162a/colorLogoPNG.png", Fitness
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="2826" group="CURIOSIDAD" logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png", Historia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16525_dark_360w_270h.png", TV PUBLICA
 https://is-tucuman.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="AR | Telefe" group="INTERNACIONALES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png", 568 | Telefe Internacional || ARGENTINA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=430670203&_cdn_timestamp=1668897120&_cdn_token=20097f83ad3b290908be04cd45cc55ed5f878d58
+#EXTINF:0 type="stream" channelId="-1" name="PE | Documentales E +" group="CULTURA Y EDUCACION" logo="https://pbs.twimg.com/media/FSNTiYiXwAEcuyN?format=jpg&name=240x240", 292 | Documentales E +
+https://stream.plixitv.live/docue2/docue2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="287" group="DEPORTES LATINOS" logo="https://i.ibb.co/cLk91MN/Sin-t-tulo-1.png", CLARO SPORTS HD
+http://ui.mrzutv.net:8080/radhames/5591/11925
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://lh3.googleusercontent.com/-o5sVEsBwvlw/YeGDCkkVGdI/AAAAAAAABO4/kd0nFGck6Cc8fvgwlktNeEeJH7IfYULxACNcBGAsYHQ/s16000/image.png", DIRECTV eventos 6
+http://ui.mrzutv.net:8080/radhames/5591/93391
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://i.ibb.co/cLk91MN/Sin-t-tulo-1.png", ESPN 4 CLARO SPORT
+http://ui.mrzutv.net:8080/radhames/5591/16634
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://i.ibb.co/nwQVch5/Sin-t-tulo-1.png", BEIN SPORT HD
+http://ui.mrzutv.net:8080/radhames/5591/54608
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png", TNT SPORTS HD (ᴀʀɢ)
+http://ui.mrzutv.net:8080/radhames/5591/501
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES MEXICO" logo="https://i.ibb.co/3RwgyKN/Sin-t-tulo-1.png", FORMULA 1
+http://ui.mrzutv.net:8080/radhames/5591/41489
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png", FOX SPORTS 1 HD (ᴍx)
+http://ui.mrzutv.net:8080/radhames/5591/383
+#EXTINF:0 type="stream" channelId="179" group="DEPORTES MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png", FOX SPORTS 2 HD (ᴍx)
+http://ui.mrzutv.net:8080/radhames/5591/384
+#EXTINF:0 type="stream" channelId="213" group="DEPORTES MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png", FOX SPORTS 3 HD (ᴍx)
+http://ui.mrzutv.net:8080/radhames/5591/385
+#EXTINF:0 type="stream" channelId="-1" name="TYC SPORTS LOCAL FHD (E)" group="*** ARGENTINA ***" logo="http://sinlimitestv.com:8080/images/YyQdAYPeejf0q8rbS3LPxEv0e4WvNjcRdDTGLcoWkE-9Y5Y4M2E4QXWqJw_4KVWApof278HhG_UCTTwBh-eYtQ.png" tvg-country="ar", TYC SPORTS LOCAL FHD (E)
+http://ui.mrzutv.net:8080/radhames/5591/69432
+#EXTINF:0 type="stream" channelId="-1" name="AR | TyC Sports" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png", 212 | TyC Sports
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662.m3u8
