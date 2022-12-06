@@ -13,6 +13,10 @@ https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" shift="-3", El trece HD (E) anda bien
 https://is-tucuman.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" name="AR | EL TRECE Buenos Aires" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png", 570 | El Canal 13 de Buenos Aires || ARGENTINA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061403
 #EXTINF:0 type="stream" channelId="-1" name="AR | El Canal 13 de Buenos Aires" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png", 570 | El Canal 13 de Buenos Aires || ARGENTINA
 http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/4.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png", El Trece 3
