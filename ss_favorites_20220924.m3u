@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="3802" group="LATINO SPORTS" logo="https://i.imgur.com/I7Lhgej.png", TyC Sports ANDA BIEN
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" tvg-country="AR", TV PUBLICA  23.2 OPCION 2
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/499
+
+
 #EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://i.imgur.com/RUTTTOw.png", DP: DEPORTV  HD [ARG] ..
 http://ui.mrzutv.net:8080/radhames/5591/43441
 
@@ -14,38 +15,23 @@ http://castlempire.site:8080/cliente3226/123456/170111
 https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.rionegro.com.ar/wp-content/uploads/2022/05/624eea85d72b0-e1652395016751.jpg?w=920&h=517&crop=1", GH_2022
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
-#EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" shift="-3", El trece HD (E) anda bien
-https://is-tucuman.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" name="AR | EL TRECE Buenos Aires" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png", 570 | El Canal 13 de Buenos Aires || ARGENTINA
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061403
-#EXTINF:0 type="stream" channelId="-1" name="AR | El Canal 13 de Buenos Aires" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png", 570 | El Canal 13 de Buenos Aires || ARGENTINA
-http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/4.m3u8
 
 
 
-#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png", El Trece bueno
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16044_dark_360w_270h.png", EL TRECE
 http://stalkertvlatinopanel.com:8080/RestreamUsa69858/RestreamUsa69858/6887.ts
 
 
 
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png" tvg-country="AR", CANAL 13  33.1
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="AR | El Trece Internacional" group="INTERNACIONALES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png", 570.2 | El Trece Internacional || ARGENTINA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=430670475&_cdn_timestamp=1668897142&_cdn_token=be1446727a1a2901b8c7d50ab0eb9a874f0ec5bd
+
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://x.playerlatino.live/telefe.png" tvg-country="AR", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="AR | Telefe" group="INTERNACIONALES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png", 568 | Telefe Internacional || ARGENTINA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=416453235&_cdn_timestamp=1668126903&_cdn_token=def038a34e65c51d2d76223db0b6aa459a202419
-#EXTINF:0 type="stream" channelId="3789", Telefe (720p)
-https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png", Telefe Hits
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="http://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png", TELEFÉ CLÁSICO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
-#EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png", Telefe Noticias
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
 #EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" tvg-country="AR", CANAL 9 35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75", El nueve 2
