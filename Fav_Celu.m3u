@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", GH_2022
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6320ddef274b1b0007b2ee88livestitch/823489/playlist.m3u8?terminate=false&embedPartner=&serverSideAd
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.rionegro.com.ar/wp-content/uploads/2022/05/624eea85d72b0-e1652395016751.jpg?w=920&h=517&crop=1", GH_2022
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1", EL TRECE HD
+http://stalkertvlatinopanel.com:8080/RestreamUsa69858/RestreamUsa69858/6887.ts
+#EXTINF:0 type="stream" channelId="-1" name="AR | El Trece HD op2" group="ARGENTINA" logo="http://51.222.43.170:8001/images/def1c2b912f50e686acbc33ce3ebe342.png", AR | El Trece HD op2
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/240910
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://x.playerlatino.live/telefe.png" tvg-country="AR", TELEFE  34.1
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="AR | TELEFE" group="ARGENTINA" logo="http://51.222.43.170:8001/images/b23769b2195f69b07b5dbf6dae5a25aa.png", AR | TELEFE
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/492
+#EXTINF:0 type="stream" channelId="-1" name="AR | Telefe SD*" group="ARGENTINA" logo="http://51.222.43.170:8001/images/b23769b2195f69b07b5dbf6dae5a25aa.png", AR | Telefe SD*
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/265947
+#EXTINF:0 type="stream" channelId="-1" name="AR | EL NUEVE" group="ARGENTINA" logo="http://51.222.43.170:8001/images/7fbf7d985a056d89b083a24e18e28b56.jpg", AR | EL NUEVE
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/495
+#EXTINF:0 type="stream" channelId="-1" name="AR | TV PUBLICA*" group="ARGENTINA" logo="http://51.222.43.170:36995/images/cd005759ff7c2b3b2f9c6558b9905a46.png", AR | TV PUBLICA*
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/499
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" tvg-country="AR", TV PUBLICA  23.2 OPCION 2
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="AR | A24" group="ARGENTINA" logo="http://51.222.43.170:36995/images/b9ebef771b9c403eef68b635f2a5fc28.png", AR | A24
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/501
+#EXTINF:0 type="stream" channelId="-1" name="AR | Canal-26-HD" group="ARGENTINA" logo="https://pbs.twimg.com/profile_images/973622001708552193/iMJ7wjf6_400x400.jpg", AR | Canal-26-HD
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/505
+#EXTINF:0 type="stream" channelId="-1" name="AR | Cronica-HD" group="ARGENTINA" logo="https://media.licdn.com/dms/image/C4E0BAQHDrsd2L9KtCA/company-logo_200_200/0?e=2159024400&v=beta&t=prWZt5DZi74eloOPeM4o173eKrfbF_yFwQ03AvRHjOg", AR | Cronica-HD
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/514
+#EXTINF:0 type="stream" channelId="4668" name="TNT Sports" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/63-TNTSports.png", TNT Sports
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ESPN Premium" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/64-ESPNPremium.png", ESPN Premium
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+#EXTINF:0 type="stream" channelId="310" name="El Gourmet" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/95-ElGourmet.png" audio-track="spa", El Gourmet
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="AR | DirectV Sports SD" group="ARGENTINA" logo="http://51.222.43.170:8001/images/18f6aff9afb17570d96fb7cf520765e8.jpg", AR | DirectV Sports SD
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/294584
+#EXTINF:0 type="stream" channelId="-1" name="AR | DirectV Sports **" group="DEPORTES" logo="http://51.222.43.170:8001/images/18f6aff9afb17570d96fb7cf520765e8.jpg", AR | DirectV Sports **
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/294582
+#EXTINF:0 type="stream" channelId="-1" name="AR | TyC Sports Argentina" group="DEPORTES" logo="http://51.222.43.170:36995/images/76567423925bcfbce1f36c3f27ae8444.png", AR | TyC Sports Argentina
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/262180
+#EXTINF:0 type="stream" channelId="-1" name="DE | TYC" group="DEPORTES" logo="http://51.222.43.170:36995/images/698b5e254af6858ea88637b768cd13e0.jpg", DE | TYC
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/277940
+#EXTINF:0 type="stream" channelId="-1" name="AR | TyC Sports" group="DEPORTES" logo="http://51.222.43.170:36995/images/76567423925bcfbce1f36c3f27ae8444.png", AR | TyC Sports
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/262179
+#EXTINF:0 type="stream" channelId="1925" name="DEPORTV" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/56-Deportv.png", DEPORTV
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES LATINOS" logo="https://i.imgur.com/RUTTTOw.png", DP: DEPORTV  HD [ARG] ..
+http://ui.mrzutv.net:8080/radhames/5591/43441
+#EXTINF:0 type="stream" channelId="1456", HISTORY CHANNEL HD
+http://stalkertvlatinopanel.com:8080/RestreamUsa69858/RestreamUsa69858/6284.ts
+#EXTINF:0 type="stream" channelId="1456", HISTORY CHANNEL HD
+http://stalkertvlatinopanel.com:8080/RestreamUsa69858/RestreamUsa69858/6278.ts
+#EXTINF:0 type="stream" channelId="1455", HISTORY CHANNEL SD
+http://stalkertvlatinopanel.com:8080/RestreamUsa69858/RestreamUsa69858/66.ts
+#EXTINF:0 type="stream" channelId="-1" name="MX | History 2" group="MUNDO & CULTURA" logo="http://51.222.43.170:36995/images/7dacd2ff1a0e6315afbaf2dd862df248.png", MX | History 2
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/1510
+#EXTINF:0 type="stream" channelId="-1" name="MX | History" group="MUNDO & CULTURA" logo="http://51.222.43.170:36995/images/559f0f212b642b3e2c79a3f0a89912e1.png", MX | History
+http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/75
