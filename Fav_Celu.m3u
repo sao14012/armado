@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", GH_2022
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6320ddef274b1b0007b2ee88livestitch/823489/playlist.m3u8?terminate=false&embedPartner=&serverSideAd
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.rionegro.com.ar/wp-content/uploads/2022/05/624eea85d72b0-e1652395016751.jpg?w=920&h=517&crop=1", GH_2022
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
 #EXTINF:0 type="stream" channelId="-1", EL TRECE HD
