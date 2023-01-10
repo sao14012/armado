@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.rionegro.com.ar/wp-content/uploads/2022/05/624eea85d72b0-e1652395016751.jpg?w=920&h=517&crop=1", GH_2022
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/telefe.png" tvg-country="AR", TELEFE  34.1 OPCION 2
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/telefe.png" country="AR", TELEFE  34.1 OPCION 2
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AR | Telefe SD*" group="ARGENTINA" logo="http://51.222.43.170:8001/images/b23769b2195f69b07b5dbf6dae5a25aa.png", AR | Telefe SD*
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/265947
 #EXTINF:0 type="stream" channelId="-1" name="AR | TELEFE SD" group="ARGENTINA" logo="http://51.222.43.170:8001/images/b23769b2195f69b07b5dbf6dae5a25aa.png", AR | TELEFE SD
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/498
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png" tvg-country="AR", CANAL 13  Sin Publicidad
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png" country="AR", CANAL 13  Sin Publicidad
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AR | El Trece HD op2" group="ARGENTINA" logo="http://51.222.43.170:8001/images/def1c2b912f50e686acbc33ce3ebe342.png", AR | El Trece HD op2
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/240910
@@ -21,7 +21,7 @@ http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/240911
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/495
 #EXTINF:0 type="stream" channelId="-1" name="AR | TV PUBLICA*" group="ARGENTINA" logo="http://51.222.43.170:36995/images/cd005759ff7c2b3b2f9c6558b9905a46.png", AR | TV PUBLICA*
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/499
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" tvg-country="AR", TV PUBLICA  23.2 OPCION 2
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" country="AR", TV PUBLICA  23.2 OPCION 2
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AR | Canal-26-HD" group="ARGENTINA" logo="https://pbs.twimg.com/profile_images/973622001708552193/iMJ7wjf6_400x400.jpg", AR | Canal-26-HD
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/505
@@ -49,11 +49,11 @@ http://ui.mrzutv.net:8080/radhames/5591/43441
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/1510
 #EXTINF:0 type="stream" channelId="-1" name="MX | History" group="MUNDO & CULTURA" logo="http://51.222.43.170:36995/images/559f0f212b642b3e2c79a3f0a89912e1.png", MX | History
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/75
-#EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" tvg-country="AR", A24  36.3
+#EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" country="AR", A24  36.3
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg", TODO NOTICIAS OPCION 3
 https://livetrx02.vodgc.net/TN24_2/tracks-v2a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" tvg-country="AR", CANAL 26  24.2
+#EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" country="AR", CANAL 26  24.2
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="FHD | El Gourmet" group="CANALES FHD" logo="http://51.222.43.170:36995/images/b30679b0c94d8e4a5bf177ca652f63f7.png", FHD | El Gourmet
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/263444
@@ -79,3 +79,7 @@ http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/111
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/263294
 #EXTINF:0 type="stream" channelId="-1" name="FHD | Animal Planet" group="CANALES FHD" logo="http://51.222.43.170:8001/images/5e5eab8ff59dbc806a151fe6255b76fc.png", FHD | Animal Planet
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/263295
+#EXTINF:0 type="favorites" channelId="4651" group="Argentina" logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75", El nueve
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Argentina" logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" country="AR", CANAL 9 35.1
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
