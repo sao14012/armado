@@ -1,9 +1,12 @@
-
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.rionegro.com.ar/wp-content/uploads/2022/05/624eea85d72b0-e1652395016751.jpg?w=920&h=517&crop=1", GH_2022
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/telefe.png" country="AR", TELEFE  34.1 OPCION 2
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/telefe.png" group-title="NACIONALES", TELEFE  34.1
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8   
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/telefe.png" group-title="NACIONALES", TELEFE  34.1 OPCION 2
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+
 #EXTINF:0 type="stream" channelId="-1" name="AR | Telefe SD*" group="ARGENTINA" logo="http://51.222.43.170:8001/images/b23769b2195f69b07b5dbf6dae5a25aa.png", AR | Telefe SD*
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/265947
 #EXTINF:0 type="stream" channelId="-1" name="AR | TELEFE SD" group="ARGENTINA" logo="http://51.222.43.170:8001/images/b23769b2195f69b07b5dbf6dae5a25aa.png", AR | TELEFE SD
