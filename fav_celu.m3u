@@ -87,3 +87,6 @@ http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/263295
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Argentina" logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" country="AR", CANAL 9 35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" country="AR", A24  ver
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1673409986/ei/YuG9Y469E62R6QK-pIvIBQ/ip/13.66.10.112/id/o8JBz0XFS_k.1/s
