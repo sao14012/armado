@@ -87,5 +87,5 @@ http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/263295
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Argentina" logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" country="AR", CANAL 9 35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
-
-evideo.com/api/manifest/hls_variant/expire/1673409986/ei/YuG9Y469E62R6QK-pIvIBQ/ip/13.66.10.112/id/o8JBz0XFS_k.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp
+#EXTINF:0
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1673409986/ei/YuG9Y469E62R6QK-pIvIBQ/ip/13.66.10.112/id/o8JBz0XFS_k.1/s
