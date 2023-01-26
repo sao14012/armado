@@ -15,7 +15,7 @@ http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/498
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AR | El Trece HD op2" group="ARGENTINA" logo="http://51.222.43.170:8001/images/def1c2b912f50e686acbc33ce3ebe342.png", AR | El Trece HD op2
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/240910
-#EXTINF:0 type="stream" channelId="-1" name="AR | El trece BA" group="ARGENTINA" logo="http://51.222.43.170:8001/images/def1c2b912f50e686acbc33ce3ebe342.png", AR | El trece SD
+#EXTINF:0 type="stream" channelId="-1" name="AR | El trece BA" group="ARGENTINA" logo="http://51.222.43.170:8001/images/def1c2b912f50e686acbc33ce3ebe342.png", AR | El trece BA
 http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/12.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AR | EL TRECE" group="ARGENTINA" logo="http://51.222.43.170:8001/images/def1c2b912f50e686acbc33ce3ebe342.png", AR | EL TRECE
 http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/496
@@ -87,4 +87,3 @@ http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/263295
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Argentina" logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" country="AR", CANAL 9 35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
-
