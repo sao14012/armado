@@ -215,3 +215,9 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 #EXTINF:0 type="favorites" channelId="-1" name="AR | El Trece Internacional" group="INTERNACIONALES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png", 636.2 | El Trece Internacional || ARGENTINA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=708920451&_cdn_timestamp=1681581395&_cdn_token=f2d6e6519437e75f3ba963368045ba17bb3591e3
+#EXTINF:0 type="favorites" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" country="AR", CANAL 13  33.1 OPCION 3
+https://cotesma02.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Discovery Channel" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png", 311 | Discovery Channel
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=719650707&_cdn_timestamp=1681948025&_cdn_token=1ebbe97875669d00297eaa0757297436ed0389e5
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Discovery Theater" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png", 315 | Discovery Theater
+http://181.78.105.146:9000/play/a03j
