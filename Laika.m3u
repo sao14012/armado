@@ -263,7 +263,7 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 http://45.190.13.50:8002/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://181.78.75.11:9500/play/a03c/index.m3u8
+http://170.83.242.8:5350/play/a00u
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
 http://45.190.13.50:8002/play/a01k/index.m3u8  
