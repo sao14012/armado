@@ -1,0 +1,243 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2409" name="El Trece" group="Argentina" logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png", EL TRECE 4
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52506.ts
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/telefe.jpg" tvg-country="AR", TELEFE  34.1
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="AR | TVP" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png", 571 | Televisión Pública || ARGENTINA
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="USA | Space" group="PELICULAS Y SERIES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png", 71 | Space
+http://45.160.15.130:2909/play/119
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png", TERRAMIA TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3802" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg", TyC SPORTS
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+#EXTINF:0 type="stream" channelId="4039" group="NACIONALES" logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png", GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w501244001_b1296000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="4650" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1080451967829327872/SS4LrhOa_400x400.jpg", AMERICA SPORTS
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCnx743KuO_16sCMIbEg7Y7Q.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/NET_TV.jpg" tvg-country="AR", NET TV 27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="http://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png", TELEFÉ CLÁSICO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png", A24  36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="AR | Tierra Mia TV" group="MUSICA Y REALITIES" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/298052f7d0c144e82b2750ad55289082.webp", 251 | Tierra Mía TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1801551224_b1864000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ES | Historia" group="ESPAÑA" logo="https://amcnetworks.es/wp-content/uploads/2022/10/Nuevo-logo-Canal-HISTORIA.png", En prueba | Historia || ESPAÑA
+http://51.158.36.81:18000/Historia/hls/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="AR| America TV" group="TV | Argentina" logo="http://l3d.us:25461/images/47b13ab301e00251bd2f5bbe9e8bfd13.png", AR| America TV
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210836
+#EXTINF:0 type="stream" channelId="-1" name="AR| Canal 26 HD" group="TV | Argentina" logo="http://l3d.us:25461/images/dfe5de137080b6340d68c03ce35e5ae7.png", AR| Canal 26 HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210841
+#EXTINF:0 type="stream" channelId="-1" name="AR| America TV HD" group="TV | Argentina" logo="http://l3d.us:25461/images/47b13ab301e00251bd2f5bbe9e8bfd13.png", AR| America TV HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210835
+#EXTINF:0 type="stream" channelId="-1" name="AR| DEPORTV" group="TV | Argentina" logo="http://l3d.us:8080/images/cc2d8b5521b26272929e8d935fff1fde.png", AR| DEPORTV
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210849
+#EXTINF:0 type="stream" channelId="-1" name="AR| El Nueve" group="TV | Argentina" logo="http://l3d.us:8080/images/db1cb80e83ac8ffb0d1344ece5b47fca.png", AR| El Nueve
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210850
+#EXTINF:0 type="stream" channelId="-1" name="AR| El Nueve HD" group="TV | Argentina" logo="http://l3d.us:8080/images/db1cb80e83ac8ffb0d1344ece5b47fca.png", AR| El Nueve HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210851
+#EXTINF:0 type="stream" channelId="-1" name="AR| A24" group="TV | Argentina" logo="http://l3d.us:8080/images/a43c7f3d9d0f4a718450633e3765b67c.png", AR| A24
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210833
+#EXTINF:0 type="stream" channelId="-1" name="AR| C5N" group="TV | Argentina" logo="http://l3d.us:8080/images/91884081faa9d3f2c5e473e7a52dc598.png", AR| C5N
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210834
+#EXTINF:0 type="stream" channelId="-1" name="AR| TNT Sports HD" group="TV | Argentina", AR| TNT Sports HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2140800
+#EXTINF:0 type="stream" channelId="-1" name="D| Claro Sports Latinoamerica FHD" group="TV | Deportes" logo="http://l3d.us:25461/images/f5a1944259815fd00c2f57062e414b8a.png", D| Claro Sports Latinoamerica FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10923
+#EXTINF:0 type="stream" channelId="-1" name="D| DIRECTV SPORTS" group="TV | Deportes" logo="http://l3d.us:25461/images/706bde645b1385e141c934c6cfe3c429.png", D| DIRECTV SPORTS
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/202157
+#EXTINF:0 type="stream" channelId="-1" name="D| DIRECTV SPORTS +" group="TV | Deportes" logo="http://l3d.us:25461/images/706bde645b1385e141c934c6cfe3c429.png", D| DIRECTV SPORTS +
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/203186
+#EXTINF:0 type="stream" channelId="-1" name="D| DIRECTV SPORTS 2" group="TV | Deportes" logo="http://l3d.us:25461/images/706bde645b1385e141c934c6cfe3c429.png", D| DIRECTV SPORTS 2
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/203187
+#EXTINF:0 type="stream" channelId="-1" name="D| DIRECTV SPORTS FHD" group="TV | Deportes" logo="http://l3d.us:25461/images/706bde645b1385e141c934c6cfe3c429.png", D| DIRECTV SPORTS FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/203185
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn 2 | ARG" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn 2 | ARG
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/181346
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn 2 | ARG HD" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn 2 | ARG HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/181332
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn 2 | MX" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn 2 | MX
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10939
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn 2 | MX FHD" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn 2 | MX FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10962
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn 3 | COL HD" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn 3 | COL HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/202088
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn 2 | COL HD" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn 2 | COL HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/202084
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn 3 | MX HD" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn 3 | MX HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155474
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn Deportes" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn Deportes
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/202473
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn EXTRA" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn EXTRA
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/181370
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn EXTRA FHD" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn EXTRA FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/181378
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn Plus | MX FHD" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn Plus | MX FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10964
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn | ARG" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn | ARG
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/181047
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn | ARG FHD" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn | ARG FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/202064
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn | COL" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn | COL
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/181016
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn | COL HD" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn | COL HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/181347
+#EXTINF:0 type="stream" channelId="-1" name="D| Espn | MX" group="TV | Deportes" logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png", D| Espn | MX
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10940
+#EXTINF:0 type="stream" channelId="-1" name="D| Eurosport 2" group="TV | Deportes" logo="http://l3d.us:25461/images/8935dbe13acecf9626d81408c8d5258b.png", D| Eurosport 2
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/158481
+#EXTINF:0 type="stream" channelId="-1" name="D| FOX Deportes | USA" group="TV | Deportes" logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png", D| FOX Deportes | USA
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/200284
+#EXTINF:0 type="stream" channelId="-1" name="D| Fox Sports 2 | ARG" group="TV | Deportes" logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png", D| Fox Sports 2 | ARG
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/183215
+#EXTINF:0 type="stream" channelId="-1" name="D| Fox Sports 2 | CL FHD" group="TV | Deportes" logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png", D| Fox Sports 2 | CL FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/183333
+#EXTINF:0 type="stream" channelId="-1" name="D| Fox Sports 3 | ARG" group="TV | Deportes" logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png", D| Fox Sports 3 | ARG
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10958
+#EXTINF:0 type="stream" channelId="-1" name="D| FOX Sports Premium Arg" group="TV | Deportes" logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png", D| FOX Sports Premium Arg
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/195839
+#EXTINF:0 type="stream" channelId="-1" name="D| Fox Sports | ARG FHD" group="TV | Deportes" logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png", D| Fox Sports | ARG FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10959
+#EXTINF:0 type="stream" channelId="-1" name="D| Fox Sports | CL HD" group="TV | Deportes" logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png", D| Fox Sports | CL HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/183330
+#EXTINF:0 type="stream" channelId="-1" name="D| TNT Sports" group="TV | Deportes" logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png", D| TNT Sports
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155677
+#EXTINF:0 type="stream" channelId="-1" name="D| TYC Sports" group="TV | Deportes" logo="http://l3d.us:25461/images/2aaf0c473413e80cde32fcf546039218.png", D| TYC Sports
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/25279
+#EXTINF:0 type="stream" channelId="-1" name="D| TYC Sports HD" group="TV | Deportes" logo="http://l3d.us:25461/images/2aaf0c473413e80cde32fcf546039218.png", D| TYC Sports HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/199511
+#EXTINF:0 type="stream" channelId="-1" name="D| TyC Sports Internacional HD" group="TV | Deportes" logo="http://l3d.us:25461/images/2aaf0c473413e80cde32fcf546039218.png", D| TyC Sports Internacional HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155679
+#EXTINF:0 type="stream" channelId="-1" name="C | El Gourmet" group="TV | Cultura" logo="http://l3d.us:25461/images/c81b0147c1bafa607d2c3f8e080cbdad.png", C | El Gourmet
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/12255
+#EXTINF:0 type="stream" channelId="-1" name="C | El Gourmet FHD" group="TV | Cultura" logo="http://l3d.us:25461/images/c81b0147c1bafa607d2c3f8e080cbdad.png", C | El Gourmet FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/148709
+#EXTINF:0 type="stream" channelId="1201" name="H2" group="Entretenimiento" logo="http://movies.iptvhn.net/chlogos/h2.png", H2
+http://go.iptvhn.net:25461/Denis/Denis123/6568
+#EXTINF:0 type="stream" channelId="-1" name="C | H2 HD" group="TV | Cultura" logo="http://l3d.us:25461/images/490b2834e65737c1fce95e468cc8b8bf.png", C | H2 HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/16080
+#EXTINF:0 type="stream" channelId="-1" name="C | H2" group="TV | Cultura" logo="http://l3d.us:25461/images/490b2834e65737c1fce95e468cc8b8bf.png", C | H2
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/154074
+#EXTINF:0 type="stream" channelId="-1" name="C | History" group="TV | Cultura" logo="http://l3d.us:25461/images/c8758e00d94541adc2266ee5929ce9c2.png", C | History
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10423
+#EXTINF:0 type="stream" channelId="1456" name="History HD" group="Entretenimiento" logo="http://movies.iptvhn.net/chlogos/history.png", History HD
+http://go.iptvhn.net:25461/Denis/Denis123/6575
+#EXTINF:0 type="stream" channelId="-1" name="C | History FHD" group="TV | Cultura" logo="http://l3d.us:25461/images/c8758e00d94541adc2266ee5929ce9c2.png", C | History FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/148711
+#EXTINF:0 type="stream" channelId="-1" name="C | History en Español FHD" group="TV | Cultura" logo="http://l3d.us:25461/images/c8758e00d94541adc2266ee5929ce9c2.png", C | History en Español FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/192976
+#EXTINF:0 type="stream" channelId="-1" name="C | Nat Geo" group="TV | Cultura" logo="http://l3d.us:25461/images/1e01e63e3d890408725310cd6c01960a.png", C | Nat Geo
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10413
+#EXTINF:0 type="stream" channelId="-1" name="C | TLC" group="TV | Cultura" logo="http://l3d.us:25461/images/017a544acb713ac3b4c46402c94a07fc.png", C | TLC
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10431
+#EXTINF:0 type="stream" channelId="-1" name="C | El Gourmet HD" group="TV | Cultura" logo="http://l3d.us:25461/images/c81b0147c1bafa607d2c3f8e080cbdad.png", C | El Gourmet HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/12256
+#EXTINF:0 type="stream" channelId="-1" name="USA | ID" group="DOCUMENTALES Y SERIES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png", 68 | Investigation Discovery
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=627884171&_cdn_timestamp=1678388816&_cdn_token=60ec2f29f759b7f3e8193dabf7c90b48cf78517e
+#EXTINF:0 type="stream" channelId="-1" name="USA | Discovery Home & Health" group="ESTILOS DE VIDA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png", 198 | Discovery Home & Health
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=627913555&_cdn_timestamp=1678390000&_cdn_token=eac24d4a9d96952b0ebce4afeb63a1ec519f0eef
+#EXTINF:0 type="stream" channelId="-1" name="USA | Discovery Channel" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png", 278 | Discovery Channel
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=627926379&_cdn_timestamp=1678390433&_cdn_token=90bd64b9c7588262851a4c039c33d875e51f11f5
+#EXTINF:0 type="stream" channelId="-1" name="USA | Discovery Science" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png", 279 | Discovery Science
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=604725651&_cdn_timestamp=1677155071&_cdn_token=54ee8fba1d6134ceda0a46e4645f30383da18471
+#EXTINF:0 type="stream" channelId="-1" name="USA | Discovery Science" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png", 279 | Discovery Science
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=630845683&_cdn_timestamp=1678542764&_cdn_token=e261462463b4055e66a5a2374e21ac9cdff0222e
+#EXTINF:0 type="stream" channelId="-1" name="USA | Discovery Turbo" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png", 280 | Discovery Turbo
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=627926659&_cdn_timestamp=1678390452&_cdn_token=5c69fa87ade06a00493401d602c0b7ebb5dbaef6
+#EXTINF:0 type="stream" channelId="-1" name="C | Discovery Channel" group="TV | Cultura" logo="http://l3d.us:25461/images/2bffe8e99bded440c9a326cd6751a23d.png", C | Discovery Channel
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10409
+#EXTINF:0 type="stream" channelId="-1" name="C | Discovery Channel FHD" group="TV | Cultura" logo="http://l3d.us:25461/images/2bffe8e99bded440c9a326cd6751a23d.png", C | Discovery Channel FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/148703
+#EXTINF:0 type="stream" channelId="-1" name="C | Discovery H&H" group="TV | Cultura" logo="http://l3d.us:25461/images/ef3cb160026aa53be9dc13e3f1844e25.png", C | Discovery H&H
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10419
+#EXTINF:0 type="stream" channelId="-1" name="C | Discovery Investigation FHD" group="TV | Cultura" logo="http://l3d.us:25461/images/5a6898640e865b337ed19248dd0cafde.png", C | Discovery Investigation FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/148705
+#EXTINF:0 type="stream" channelId="-1" name="C | Discovery Investigation" group="TV | Cultura" logo="http://l3d.us:25461/images/5a6898640e865b337ed19248dd0cafde.png", C | Discovery Investigation
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10427
+#EXTINF:0 type="stream" channelId="-1" name="C | Discovery SCI" group="TV | Cultura" logo="http://l3d.us:25461/images/09189c6bda55b3b599b52db11f3541fd.png", C | Discovery SCI
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10412
+#EXTINF:0 type="stream" channelId="-1" name="C | Discovery Theater" group="TV | Cultura" logo="http://l3d.us:25461/images/c02e20b3a5e776914050a01c27e07146.png", C | Discovery Theater
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10426
+#EXTINF:0 type="stream" channelId="-1" name="C | Discovery Turbo FHD" group="TV | Cultura" logo="http://l3d.us:25461/images/c5e6bf72241158f09aa30e9c966269a3.png", C | Discovery Turbo FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/148707
+#EXTINF:0 type="stream" channelId="-1" name="C | Discovery World" group="TV | Cultura" logo="http://l3d.us:25461/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png", C | Discovery World
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10416
+#EXTINF:0 type="stream" channelId="-1" name="C | Discovery World HD" group="TV | Cultura" logo="http://l3d.us:25461/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png", C | Discovery World HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10415
+#EXTINF:0 type="stream" channelId="57" name="CA: Discovery Channel" group="TV | Canada" logo="http://vaktar.vip:8080/images/ee8286fe29df0a7d2849198df49d1daf.png" tvg-country="ca", Discovery Channel
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2090336
+#EXTINF:0 type="stream" channelId="-1" name="C | Discovery en Español" group="TV | Cultura" logo="http://l3d.us:25461/images/2bffe8e99bded440c9a326cd6751a23d.png", C | Discovery en Español
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/26760
+#EXTINF:0 type="stream" channelId="-1" name="24H Kids | Tom y Jerry" group="TV | 24/7" logo="http://51.222.43.170:36995/images/64aa1e7410773eaa5043635c42623cc6.png", 24H Kids | Tom y Jerry
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67772
+#EXTINF:0 type="stream" channelId="-1" name="24H | Los Picapiedra" group="TV | 24/7" logo="https://images2.coveralia.com/dvd/l/Los_Picapiedra_Volumen_1_Episodios_1_7_(Edicion_Coleccionista)-DVD.jpg", 24H | Los Picapiedra
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67747
+#EXTINF:0 type="stream" channelId="-1" name="24h Kids | Don gato y su Pandilla" group="TV | 24/7" logo="http://51.222.43.170:36995/images/299e6f4ba1be6746978a410b5d08da78.png", 24h Kids | Don gato y su Pandilla
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67774
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | El Coyote y el Correcaminos" group="TV | 24/7 Retro" logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png", 24/7 | El Coyote y el Correcaminos
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2090952
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | La Pantera Rosa" group="TV | 24/7 Retro" logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png", 24/7 | La Pantera Rosa
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2090971
+#EXTINF:0 type="stream" channelId="-1" name="24/7 El Auto Fantastico" group="TV | 24/7 Retro" logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png", 24/7 El Auto Fantastico
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2090982
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Los Supersonicos" group="TV | 24/7 Retro" logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png", 24/7 Los Supersonicos
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2090990
+#EXTINF:0 type="stream" channelId="-1" name="AR | Telefe" group="INTERNACIONALES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png", 634 | Telefe Internacional || ARGENTINA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=694652003&_cdn_timestamp=1681141875&_cdn_token=d3d4430f9435d9af76effea2c568a3e02271ea63
+#EXTINF:0 type="stream" channelId="-1" name="USA | Discovery Channel" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png", 311 | Discovery Channel
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=694647147&_cdn_timestamp=1681141626&_cdn_token=e9dafe4ef33a51d6252dfec96a361fc6fbe37eb4
+#EXTINF:0 type="stream" channelId="310" group="TELECARPINCHO" logo="http://127.0.0.1/", El Gourmet
+https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+#EXTINF:0 type="stream" channelId="2839" group="TELECARPINCHO" logo="http://127.0.0.1/", Discovery World
+https://cotesma02.cdn.rcs.net.ar/mnp/disc_world/output.mpd
+#EXTINF:0 type="stream" channelId="-1" group="TELECARPINCHO" logo="http://127.0.0.1/", Discovery H&H
+https://cotesma02.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+#EXTINF:0 type="stream" channelId="1455" group="TELECARPINCHO" logo="http://127.0.0.1/", History
+https://cotesma02.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:0 type="stream" channelId="1201" group="TELECARPINCHO" logo="http://127.0.0.1/", History 2
+http://tvstarlife.com:25461/live/geovany/geovany/172.m3u8
+#EXTINF:0 type="stream" channelId="57" group="TELECARPINCHO" logo="http://127.0.0.1/", Discovery
+https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" tvg-country="AR", TELEFE  34.1 OPCION 2
+https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" tvg-country="AR", CANAL 9  35.1 OPCION 2
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="AR | El Trece Internacional" group="INTERNACIONALES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png", 636.2 | El Trece Internacional || ARGENTINA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=708920451&_cdn_timestamp=1681581395&_cdn_token=f2d6e6519437e75f3ba963368045ba17bb3591e3
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" tvg-country="AR", CANAL 13  33.1 OPCION 3
+https://cotesma02.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:0 type="stream" channelId="-1" name="USA | Discovery Channel" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png", 311 | Discovery Channel
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=719650707&_cdn_timestamp=1681948025&_cdn_token=1ebbe97875669d00297eaa0757297436ed0389e5
+#EXTINF:0 type="stream" channelId="-1" name="USA | Discovery Theater" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png", 315 | Discovery Theater
+http://181.78.105.146:9000/play/a03j
+#EXTINF:0 type="stream" channelId="-1" name="C | Discovery Channel CO FHD" group="TV | Cultura" logo="http://l3d.us:25461/images/2bffe8e99bded440c9a326cd6751a23d.png", C | Discovery Channel CO FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/183443
+#EXTINF:0 type="stream" channelId="-1" name="USA | Discovery Channel" group="CULTURA Y EDUCACION" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png", 317 | Discovery Channel
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=733433579&_cdn_timestamp=1682391957&_cdn_token=91c3dba3836045352acefa4532223269f1938f19
+#EXTINF:0 type="stream" channelId="-1" name="USA | Discovery Home & Health" group="ESTILOS DE VIDA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png", 219 | Discovery Home & Health
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=733405603&_cdn_timestamp=1682391555&_cdn_token=d68f2149dc702275af5c35e7efd750b4b4caed2e
+#EXTINF:0 type="stream" channelId="-1" name="PREMIUN| TNT SPORTS HD" group="➤ ZONA DEPORTES LATINOS  ⚽⚾" logo="http://iptvglobal.site:25461/images/c62074f50d17a61094dfc41685d7b766.png", PREMIUN| TNT SPORTS HD
+http://playhispano.org:8080/Casjahj/Jhajsac/149627
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" tvg-country="AR", CANAL 13  33.1 OPCION 2
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="AR | Canal 13 de Buenos Aires" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png", 784 | Canal 13 de Buenos Aires || ARGENTINA
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/12.m3u8
+#EXTINF:0 type="stream" channelId="2546", América TV (720p)
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:0 type="stream" channelId="1929", C5N (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:0 type="stream" channelId="2726", Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2694", El Doce (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+#EXTINF:0 type="stream" channelId="4651", El Nueve (1080p)
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:0 type="stream" channelId="2409", El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHACO" logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg", 9LINK CHACO
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4035", trece
+http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/43314.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/AMERICA.png" tvg-country="AR", AMERICA HD  36.1
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
