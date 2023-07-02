@@ -70,6 +70,17 @@ http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/43314
 
 
 
+
+#EXTINF:-1 tvg-id="AR | Canal 13 de Buenos Aires" tvg-name="AR | Canal 13 de Buenos Aires" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA", 784 | Canal 13 de Buenos Aires || ARGENTINA
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/12.m3u8
+
+#EXTINF:-1 tvg-id="AR | El Trece Internacional" tvg-name="AR | El Trece Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png" group-title="INTERNACIONALES", 784.2 | El Trece Internacional || ARGENTINA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=932322067&_cdn_timestamp=1688435987&_cdn_token=e860b3f690912216d0e28ab5f257c93e9e304c0b
+
+
+
+
+
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 
 https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
