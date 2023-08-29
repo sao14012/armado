@@ -1,7 +1,4 @@
-#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",Telefe
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d83e2e0cb9735bea9fc9f0b90cea1e14:4125e40800a08bbc66cf27756a5ab283
-https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="123dtv.ar", tvg-logo="https://i.imgur.com/zdQ0Sh1.png", Telefe
 #KODIPROP:inputstreamaddon=inputstream.adaptive
