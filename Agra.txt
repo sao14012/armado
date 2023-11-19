@@ -1,6 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="LaNacionPlus.ar", tvg-logo="https://i.imgur.com/s4ejT3k.png", La Nacion +
-
-https://edge-live17-sl.cvattv.com.ar/live/c7eds/
+#EXTINF:-1 tvg-chno="113" tvg-id="ElTrece.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Nacionales", Eltrece
+https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
