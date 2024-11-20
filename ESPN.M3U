@@ -1,0 +1,145 @@
+#EXTINF:-1,ESPN 2 HD
+http://181.78.82.6:46090/play/a00i/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://181.78.82.6:46090/play/a01l/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://181.78.82.6:46090/play/a01c/index.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:-1,ESPN 7 HD
+http://181.78.82.6:46090/play/a01d/index.m3u8
+#EXTINF:-1,ESPN COL HD
+http://181.78.82.6:46090/play/a04f/index.m3u8
+#EXTINF:-1,ESPN ARG HD
+http://181.78.82.6:46090/play/a00q/index.m3u8
+#EXTINF:-1,ESPN CHI HD
+http://181.78.82.6:46090/play/a03d/index.m3u8
+#EXTINF:-1,ESPN PREMIUM HD
+http://181.78.82.6:46090/play/a02g/index.m3u8
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1,ESPN PREMIUM OP2
+https://cdn.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/40.png" group-title="DEPORTES", TYC SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zCPqH7MmKfnh9IyN7q4+Ww","kid":"KyHI+poynM4xGkxKSqmWoQ"}]}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/18.png" group-title="DEPORTES", ESPN 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y4nuOWFZnj5kilqtYIlfNA","kid":"6IS3EasRG+uKe6HnvL3Jvw"}]}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/229.png" group-title="DEPORTES", ESPN 2 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C0Cun3inusO1fsv3LTwIHg","kid":"ZaW/o8enLd5gvpsMdAbI/A"}]}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2005.png" group-title="DEPORTES", ESPN 3 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F0PNA9/jc2ssldqRp4OvOA","kid":"9Mn5fio2/qsOUHfytEy8Tg"}]}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/18.png" group-title="DEPORTES", ESPN 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+4XQWWh6sPxngFgGIE7b3w","kid":"zI1EQG7WvxiYrZ96LWTyng"}]}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="DEPORTES", ESPN PREMIUM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QYanwqFfWQqTmYhv6uxCVw","kid":"TCMNvH9qS/pq0Kpz/3kjdA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://edge-mix01-coe.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1132.png" group-title="DEPORTES", ESPN Extra
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+4XQWWh6sPxngFgGIE7b3w","kid":"zI1EQG7WvxiYrZ96LWTyng"}]}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3950.png" group-title="DEPORTES", TNT SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6kbk6fETLo3XH7d/fVUFig","kid":"vID6PaaW5QP5QP3l9oGhxQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://edge-live02-cen.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" group-title="DEPORTES", FOX SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qsYbcw4qwd8j8ehy51QcGw","kid":"y8Kgx6ON8KozM81xhB07DQ"}]}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1606.png" group-title="DEPORTES", FOX SPORTS 2 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UIbTcOhAAQIyz0UysW4Zfw","kid":"yY3f/EcP5EmuGo1kkhFpdg"}]}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/607.png" group-title="DEPORTES", FOX SPORTS 3 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+jnoVVQ8XXDzBgDVnl5MGw","kid":"VbRzkM+eSZfa5trIXgV4dQ"}]}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
+
+#EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/dsports1.png" group-title="DEPORTES", D Sports ar
+###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l48HPu4yYGo/JUQwb7Gnsw","kid":"PhwN2NlRM12djFNNKSd8kQ"}],"type":"temporary"}###
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey###
+https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
+###https://1059-vos.dtvott.com/DASH/manifest.mpd###
+
+#EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/dsports1.png" group-title="DEPORTES", D Sports +
+###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dACp+QXxctXXTX3EQHJMjg","kid":"8Zw6jGONUsKrd7lWa8splg"}],"type":"temporary"}###
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey###
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
+###https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd###
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/629.png" group-title="DEPORTES", TyC DTV
+#EXTVLCOPT:http-user-agent="FireFox"
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+###https://1240-vos.dtvott.com/DASH/manifest.mpd###
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1621.png" group-title="DEPORTES", ESPN DTV
+#EXTVLCOPT:http-user-agent="FireFox"
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" group-title="DEPORTES", Fox Sports DTV
+#EXTVLCOPT:http-user-agent="FireFox"
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
