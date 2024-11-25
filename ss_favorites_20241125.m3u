@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="4039" group="NACIONALES" logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png", GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="➤ ZONA 4K", El Gourmet 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156146
+#EXTINF:0 type="stream" channelId="4669" group="Deportes" logo="https://i.ibb.co/2K96Pnq/Fox-Sports-Premium.jpg", Fox Sports Premium
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/13775
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://i.ibb.co/41tgcGZ/ESPNPremium.png", ESPN Premium HD
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/13774
+#EXTINF:0 type="stream" channelId="2891" group="Deportes" logo="https://i.ibb.co/NrnK18q/foxsport.png", Fox Sports HD
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1280
+#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://i.ibb.co/NrnK18q/foxsport.png", Fox Sports
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1275
+#EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://i.ibb.co/ScsjHxD/foxsport3.jpg", Fox Sports 3 HD
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/36389
+#EXTINF:0 type="stream" channelId="310" group="Cocina" logo="https://i.ibb.co/vDjGjxS/gourmet.png", Gourmet
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/557
+#EXTINF:0 type="stream" channelId="1455" group="Educativos" logo="https://i.ibb.co/QMb31rJ/history.png", History Channel
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3163
+#EXTINF:0 type="stream" channelId="57" group="Educativos" logo="https://i.ibb.co/SyyDDQB/discovery.png", Discovery Channel
+http://190.102.246.93:9005/play/a00w
+#EXTINF:0 type="stream" channelId="2620" group="Educativos" logo="https://i.ibb.co/9GkYvsp/h-h.jpg", Discovery Home & Health
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/411
+#EXTINF:0 type="stream" channelId="-1" group="Educativos" logo="https://i.ibb.co/6PPyvXN/id.png", Discovery ID FHD
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/2542
+#EXTINF:0 type="stream" channelId="59" group="Educativos" logo="https://i.ibb.co/6PPyvXN/id.png", Discovery ID
+http://168.181.122.234:8000/play/a01l/index.m3u8
+#EXTINF:0 type="stream" channelId="58" group="Educativos" logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png", Discovery Science
+http://fastream.xyz:8080/998229534tv/9lwd49/414
+#EXTINF:0 type="stream" channelId="2840" group="Educativos" logo="https://i.ibb.co/N18qmB3/dturbo.png", Discovery Turbo
+http://45.181.122.201:8081/play/a033
+#EXTINF:0 type="favorites" channelId="3802" group="Deportes" logo="https://i.ibb.co/MN7HcLq/tycsports.png", TyC Sports HD
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/40460
+#EXTINF:0 type="favorites" channelId="3802", TyC Sports HD
+http://45.169.39.162:8000/play/a043/index.m3u8
+#EXTINF:0 type="favorites" channelId="326" group="Cine y Series" logo="https://i.ibb.co/HPXHSQp/europa.png", Europa Europa
+http://fastream.xyz:8080/alealejandra/bgZS147/59495
+#EXTINF:0 type="favorites" channelId="-1" group="ARGENTINA" logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png", El Trece HD
+http://181.13.173.86:8000/play/a06d/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="DEPORTES", DIRECTV.SPORT1(PE)HD1
+http://161.132.54.176:8000/play/a00t/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="DEPORTES", Directv1(PRUEBAS)HD0.1
+http://00322.xyz:8000/live/Q3FBGWUU0F/I3N4WGD6QY/132282.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="DEPORTES", Liga1.HD1
+http://38.187.3.110:8000/play/a04m/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="DEPORTES", Liga1.HD2
+http://209.45.30.135:8000/play/a0bz/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="DEPORTES", MOVISTAR DEPORTES HD1
+http://181.176.153.106:8090/play/a0fp/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="DEPORTES", ElCanaldelFutbol.HD2
+http://181.176.153.106:8090/play/a0x1/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="DEPORTES", ESPN1-HD2
+http://181.176.153.106:8090/play/a0rs/index.m3u8
+#EXTINF:0 type="favorites" channelId="2540" name="DEP| ESPN" group="TV | Deportes", ESPN
+http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330763
+#EXTINF:0 type="favorites" channelId="344" name="DEP| ESPN 2" group="TV | Deportes" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png", ESPN 2
+http://tvlatino.live:8080/RobertoV12/EmFeJsjK6EVz/638549
+#EXTINF:0 type="favorites" channelId="-1" name="DEP| ESPN PREMIUM" group="TV | Deportes", ESPN PREMIUM ARG
+http://ultrapremium.cloud:8080/973315751tv/i5f7ik/542
+#EXTINF:0 type="favorites" channelId="3748" name="DEP| ESPN DEPORTES" group="TV | Deportes", ESPN DEPORTES
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19888
+#EXTINF:0 type="favorites" channelId="-1" name="DEP| FOX SPORT 1 ARG" group="TV | Deportes", FOX SPORT 1 ARG
+http://ultrapremium.cloud:8080/984497471tv/8h2sd8/457
+#EXTINF:0 type="favorites" channelId="-1" name="DEP| FOX SPORT 2 HD" group="TV | Deportes", FOX SPORT 2 HD
+http://216.244.200.34:8000/play/a030/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DEP| FOX SPORT 3 HD" group="TV | Deportes", FOX SPORT 3 HD
+http://home-playtv.com:8080/marcelalopez/CHXRH/19496
+#EXTINF:0 type="favorites" channelId="-1" name="DEP| FOX SPORTS PREMIUM MEX" group="TV | Deportes", FOX SPORTS PREMIUM MEX
+http://home-playtv.com:8080/marcelalopez/CHXRH/21298
+#EXTINF:0 type="favorites" channelId="-1" name="DEP| DSPORTS 1" group="TV | Deportes", DSPORTS 1
+http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/330777
+#EXTINF:0 type="favorites" channelId="-1" name="DEP| CLARO SPORT" group="TV | Deportes", CLARO SPORT
+http://ultrapremium.cloud:8080/973315751tv/i5f7ik/463
+#EXTINF:0 type="favorites" channelId="-1" name="DEP| CLARO SPORT HD" group="TV | Deportes", CLARO SPORT HD
+http://home-playtv.com:8080/marcelalopez/CHXRH/164262
+#EXTINF:0 type="favorites" channelId="-1" name="DEP| DZ FORMULA 1" group="TV | Deportes", DZ FORMULA 1
+http://837387629149165418.ofd0126.xyz:80/play/FALEXQ5RQR/wudjKJK8DqM/165418.ts
+#EXTINF:0 type="favorites" channelId="-1" name="DEP| FORMULA 1" group="TV | Deportes", FORMULA 1
+http://ultrapremium.cloud:8080/973315751tv/i5f7ik/456
+#EXTINF:0 type="favorites" channelId="-1" group="DEPORTES IPTV" logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png", ESPN PREMIUM 3
+http://45.5.151.151:8000/play/a0fe/index.m3u8
