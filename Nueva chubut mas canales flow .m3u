@@ -8,6 +8,7 @@
 
 #EXTM3U
 
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml" 
 
 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"
 
