@@ -5,12 +5,40 @@
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| Espn PREMIUM##" tvg-logo="" group-title="ESPN SPORTS",Espn PREMIUM ARG 1
+#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| Espn PREMIUM##" tvg-logo=""https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="ESPN SPORTS",Espn PREMIUM ARG 1
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50839
 
 
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="ESPN SPORTS",ESPN PREMIUM ARG 2
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo=""https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="ESPN SPORTS",ESPN PREMIUM ARG 2
 http://ultrapremium.cloud:8080/973315751tv/i5f7ik/542
 
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="ESPN SPORTS",ESPN PREMIUM ARG 3
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo=""https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="ESPN SPORTS",ESPN PREMIUM ARG 3
 http://181.13.173.86:8000/play/a078/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="ESPNPremium.ar" tvg-logo=""https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="ESPN SPORTS", ESPN Premium 🇦🇷 SV4
+http://supernovatv.info:8080/res119df/dxStCkB9CkAV/99
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" tvg-logo=""https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="ESPN SPORTS",ESPN.Premium-HD1
+http://177.53.155.236:8000/play/a0c4/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo=""https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="ESPN SPORTS",ESPN.Premium-HD3
+http://38.56.113.50:11211/play/a0p9/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo=""https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="ESPN SPORTS",ESPN.Premium-HD4
+http://200.59.188.3:8000/play/a0gh
+#EXTINF:0 tvg-id="ext" tvg-logo=""https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="ESPN SPORTS",ESPN.Premium-HD5
+http://190.216.112.169:8000/play/a02w
+#EXTINF:0 tvg-id="ext" tvg-logo=""https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="ESPN SPORTS",ESPN.Premium-HD6
+http://45.71.37.194:8010/play/a03f/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo=""https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="ESPN SPORTS",ESPN.Premium-HD7
+http://200.10.67.170:8000/play/a2w8/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo=""https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="ESPN SPORTS",ESPN.Premium-HD8
+http://204.199.174.71:8000/play/a045/index.m3u8
