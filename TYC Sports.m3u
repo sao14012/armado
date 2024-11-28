@@ -13,3 +13,6 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1120342
 
 #EXTINF:-1 tvg-ID="" tvg-name="TYC SPORT" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="TYC SPORTS",TYC Sports Opc 5
 http://home-playtv.com:8080/marcelalopez/CHXRH/188939
+
+#EXTINF:-1 tvg-ID="" tvg-name="TYC SPORT" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="TYC SPORTS",TYC Sports Opc 6
+http://181.13.173.86:8000/play/a02s/index.m3u8
