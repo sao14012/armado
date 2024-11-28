@@ -19,7 +19,7 @@ http://181.13.173.86:8000/play/a078/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="ESPNPremium.ar" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="ESPN SPORTS", ESPN Premium 🇦🇷 SV4
+#EXTINF:-1 tvg-name="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="ESPN SPORTS", ESPN Premium 🇦🇷 SV4
 http://supernovatv.info:8080/res119df/dxStCkB9CkAV/99
 
 
