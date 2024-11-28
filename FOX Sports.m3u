@@ -2,15 +2,32 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 2 (opc 2)
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="FOX SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 2 (opc 2)
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22097
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1 (opc 3)
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="FOX SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1 (opc 3)
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22098
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1 (opc2)
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="FOX SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1 (opc2)
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1115228
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="FOX SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1
 http://181.13.173.86:8000/play/a07j/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" group-title="FOX SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
 http://181.13.173.86:8000/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" group-title="FOX SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
 http://181.13.173.86:8000/play/a02t/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="FoxSports.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="FOX SPORTS", Fox Sports 🇦🇷 SV2
+http://supernovatv.info:8080/res119df/dxStCkB9CkAV/144
+#EXTINF:-1 tvg-name="FoxSports2.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="FOX SPORTS", Fox Sports 2 🇦🇷 SV1
+https://848b3516657c-argentinatv.baby-beamup.club/public/m3u/788.m3u8
+#EXTINF:-1 tvg-name="FoxSports2.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="FOX SPORTS", Fox Sports 2 🇦🇷 SV2
+http://supernovatv.info:8080/res119df/dxStCkB9CkAV/85
+#EXTINF:-1 tvg-name="FoxSports3Panregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="FOX SPORTS", Fox Sports 3 🇦🇷 SV2
+http://supernovatv.info:8080/res119df/dxStCkB9CkAV/84
+
+
