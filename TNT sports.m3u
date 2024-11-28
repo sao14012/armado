@@ -2,7 +2,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TNT SPORTS##" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="TNT SPORTS",TNT SPORTS 1
+#EXTINF:-1 tvg-ID="TNT SPORTS 1" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="TNT SPORTS",TNT SPORTS 1
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50841
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TNT SPORTS#" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="TNT SPORTS",TNT SPORTS 2
+#EXTINF:-1 tvg-ID="TNT SPORTS 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="TNT SPORTS",TNT SPORTS 2
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50842
+#EXTINF:-1 tvg-ID="TNT SPORTS 3" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="TNT SPORTS",TNT SPORTS 3
+http://181.13.173.86:8000/play/a02u/index.m3u8
