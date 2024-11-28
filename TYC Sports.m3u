@@ -1,12 +1,12 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina" tvg-logo="" group-title="Sport", TYC SPORTS opc 1
+#EXTINF:-1 tvg-ID="" tvg-name="Argentina" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Sport", TYC SPORTS opc 1
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22077
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina" tvg-logo="" group-title="Sport", TYC SPORTS opc 2
+#EXTINF:-1 tvg-ID="" tvg-name="Argentina" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Sport", TYC SPORTS opc 2
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50624
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina" tvg-logo="" group-title="Sport", TYC SPORTS opc 3
+#EXTINF:-1 tvg-ID="" tvg-name="Argentina" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Sport", TYC SPORTS opc 3
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1116305
 
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina" tvg-logo="" group-title="Sport", TYC Sports Opc 4
+#EXTINF:-1 tvg-ID="" tvg-name="Argentina" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Sport", TYC Sports Opc 4
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1120342
