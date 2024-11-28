@@ -1,0 +1,16 @@
+
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| Espn PREMIUM##" tvg-logo="" group-title="ESPN SPORTS",Espn PREMIUM ARG 1
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50839
+
+
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="ESPN SPORTS",ESPN PREMIUM ARG 2
+http://ultrapremium.cloud:8080/973315751tv/i5f7ik/542
+
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="ESPN SPORTS",ESPN PREMIUM ARG 3
+http://181.13.173.86:8000/play/a078/index.m3u8
