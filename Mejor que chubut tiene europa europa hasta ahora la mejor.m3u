@@ -1578,7 +1578,7 @@ https://edge-live02-mun.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc/Film
 ####https://edge-live02-mun.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_2A/Film_Arts.mpd
 
 #EXTINF:-1 tvg-logo="https://heroeip.github.io/logo/Europa.png", EUROPA EUROPA
-#EXTGRP:JORGE NEMAN
+#EXTGRP:PELICULAS
 #EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="Firefox"
