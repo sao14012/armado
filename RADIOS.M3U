@@ -1,0 +1,827 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LS4.png" group-title="CD Cd Aut Bs As",LS4 Continental - 590 TV - CABA AM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LS5.png" group-title="CD Cd Aut Bs As",LS5 Rivadavia - 630 TV - CABA AM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----10.png" group-title="CD Cd Aut Bs As",LRL202 Radio 10 - 710 TV - CABA AM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0003
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LR6.png" group-title="CD Cd Aut Bs As",LR6 Mitre - 790 TV - CABA AM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LR4.png" group-title="CD Cd Aut Bs As",LR4 Splendid - 990 TV - CABA AM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0005
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIONDALA.png" group-title="CD Cd Aut Bs As",Onda Latina - 1010 TV - CABA AM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0006
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS10.png" group-title="CD Cd Aut Bs As",LS10 Del Plata - 1030 TV - CABA AM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ECOAM.png" group-title="CD Cd Aut Bs As",LRI224 Eco Medios - 1220 TV - CABA AM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0008
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-MARIA.png" group-title="CD Cd Aut Bs As",Maria - 88.5 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0009
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-NEURA.png" group-title="CD Cd Aut Bs As",Neura - 89.7 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0010
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIRCV899.png" group-title="CD Cd Aut Bs As",Radio con Vos - 89.9 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0011
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIVORTER.png" group-title="CD Cd Aut Bs As",Vorterix - 92.1 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRL331.png" group-title="CD Cd Aut Bs As",LRL331 Jai - 96.3 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0013
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRL321.png" group-title="CD Cd Aut Bs As",LRL321 Vale - 97.5 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0014
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRL312.png" group-title="CD Cd Aut Bs As",LRL312 Mega - 98.3 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0015
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-LA100.png" group-title="CD Cd Aut Bs As",La 100 - 99.9 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0016
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRL318.png" group-title="CD Cd Aut Bs As",LRL318 Latina - 101.1 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0017
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---POP.png" group-title="CD Cd Aut Bs As",Pop TV - 101.5 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0018
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI711.png" group-title="CD Cd Aut Bs As",LRI711 Radio One - 103.7 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0019
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIURBPLY.png" group-title="CD Cd Aut Bs As",Urbana Play - 104.3 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0020
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-EXTRA.png" group-title="CD Cd Aut Bs As",Extra! TV - 107.5 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0021
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI710.png" group-title="CD Cd Aut Bs As",LRI710 El Observador - 107.9 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---AMC.png" group-title="CD Cd Aut Bs As",AMC - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0023
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ARGTV.png" group-title="CD Cd Aut Bs As",Argentinisima - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0024
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIBSHARK.png" group-title="CD Cd Aut Bs As",Baby Shark - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIBLOOMB.png" group-title="CD Cd Aut Bs As",Bloomberg - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0026
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICDADAB.png" group-title="CD Cd Aut Bs As",Canal de la Ciudad - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0027
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----CM.png" group-title="CD Cd Aut Bs As",Canal de la Musica - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICRURAL.png" group-title="CD Cd Aut Bs As",Canal Rural - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--CGTN.png" group-title="CD Cd Aut Bs As",CGTN Espa ol - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICHCRTV.png" group-title="CD Cd Aut Bs As",chTV Chacra TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0031
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---CNN.png" group-title="CD Cd Aut Bs As",CNN International - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0032
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----DW.png" group-title="CD Cd Aut Bs As",DW Espa ol - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0033
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="CD Cd Aut Bs As",Estrella Games - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0034
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="CD Cd Aut Bs As",Estrella News - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0035
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="CD Cd Aut Bs As",Estrella TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIEURONW.png" group-title="CD Cd Aut Bs As",Euronews - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0037
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---FTV.png" group-title="CD Cd Aut Bs As",Fashion TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0038
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--FOXN.png" group-title="CD Cd Aut Bs As",FOX News - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0039
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--FOXW.png" group-title="CD Cd Aut Bs As",FOX Weather - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIFRANCE.png" group-title="CD Cd Aut Bs As",France24 English - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0041
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGALICI.png" group-title="CD Cd Aut Bs As",Galicia TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0042
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGARAGE.png" group-title="CD Cd Aut Bs As",Garage TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIHISPAN.png" group-title="CD Cd Aut Bs As",Hispan TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---KBS.png" group-title="CD Cd Aut Bs As",KBS K-Pop - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0045
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---KBS.png" group-title="CD Cd Aut Bs As",KBS World - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0046
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMUSTOP.png" group-title="CD Cd Aut Bs As",Musictop - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---NHK.png" group-title="CD Cd Aut Bs As",NHK World - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0048
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIQMUSIC.png" group-title="CD Cd Aut Bs As",Quiero Musica - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0049
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---RAI.png" group-title="CD Cd Aut Bs As",Rai 3 - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---RAI.png" group-title="CD Cd Aut Bs As",Rai News24 - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELEMU.png" group-title="CD Cd Aut Bs As",Telemundo California - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELEMU.png" group-title="CD Cd Aut Bs As",Telemundo Florida - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0053
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELEMU.png" group-title="CD Cd Aut Bs As",Telemundo New York - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0054
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELEMU.png" group-title="CD Cd Aut Bs As",Telemundo Texas - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---TWC.png" group-title="CD Cd Aut Bs As",The Weather Channel - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITIEMIA.png" group-title="CD Cd Aut Bs As",TierraMia - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----TN.png" group-title="CD Cd Aut Bs As",TN Todo Noticias - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----TN.png" group-title="CD Cd Aut Bs As",TN Todo Noticias YT - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0059
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITVE24h.png" group-title="CD Cd Aut Bs As",TVE 24h - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0060
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIUNIVIS.png" group-title="CD Cd Aut Bs As",Univision 24/7 ViX - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0061
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----WN.png" group-title="CD Cd Aut Bs As",WeatherNation - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-GENTV.png" group-title="CD Cd Aut Bs As",GenTV - 17.3TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CARAS.png" group-title="CD Cd Aut Bs As",Caras TV - 21.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRL456.png" group-title="CD Cd Aut Bs As",LRL456 Orbe 21 - 21.2TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0065
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIENCUEN.png" group-title="CD Cd Aut Bs As",Encuentro - 22.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0066
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIPAKAPA.png" group-title="CD Cd Aut Bs As",Paka Paka - 22.2TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-AUNAR.png" group-title="CD Cd Aut Bs As",Aunar - 22.3TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0068
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICINEAR.png" group-title="CD Cd Aut Bs As",CINE.AR - 22.4TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0069
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-TECTV.png" group-title="CD Cd Aut Bs As",TECtv - 22.5TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0070
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---TVP.png" group-title="CD Cd Aut Bs As",LS82 TVP - 23.2TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0071
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--DXTV.png" group-title="CD Cd Aut Bs As",DeporTV - 24.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIFRANCE.png" group-title="CD Cd Aut Bs As",France24 Espa ol - 24.3TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0073
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICRONIC.png" group-title="CD Cd Aut Bs As",Cronica - 24.4TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0074
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIELDEST.png" group-title="CD Cd Aut Bs As",El Destape - 24.6TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C5N.png" group-title="CD Cd Aut Bs As",C5N - 25.2TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0076
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----LN.png" group-title="CD Cd Aut Bs As",LN+ - 25.3TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----LN.png" group-title="CD Cd Aut Bs As",LN+ 2 - 25.3TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0078
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----LN.png" group-title="CD Cd Aut Bs As",LN+ 3 - 25.3TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0079
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELESU.png" group-title="CD Cd Aut Bs As",Telesur - 25.4TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----RT.png" group-title="CD Cd Aut Bs As",RT - 25.5TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0081
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICANALE.png" group-title="CD Cd Aut Bs As",Canal-E - 25.6TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--26TV.png" group-title="CD Cd Aut Bs As",Canal 26 - 26.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---TLX.png" group-title="CD Cd Aut Bs As",Telemax - 26.3TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0084
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-NETTV.png" group-title="CD Cd Aut Bs As",NET TV - 27.2TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0085
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIURTEVE.png" group-title="CD Cd Aut Bs As",Urbana TeVe - 32.2TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS85.png" group-title="CD Cd Aut Bs As",LS85 El Trece - 33.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELEFE.png" group-title="CD Cd Aut Bs As",LS84 Telefe - 34.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0088
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELEFE.png" group-title="CD Cd Aut Bs As",LS84 Telefe Noticias - 34.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0089
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS86.png" group-title="CD Cd Aut Bs As",LS86 America - 36.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0090
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---A24.png" group-title="CD Cd Aut Bs As",A24 - 36.3TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0091
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---A24.png" group-title="CD Cd Aut Bs As",A24 YT - 36.3TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0092
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-EARTH.png" group-title="CD Cd Aut Bs As",1 EarthTV - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0093
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-EARTH.png" group-title="CD Cd Aut Bs As",2 EarthTV Showcase - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0094
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISKYLIN.png" group-title="CD Cd Aut Bs As",3 Live World Cams - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0095
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISKYLIN.png" group-title="CD Cd Aut Bs As",4 The Good Life - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0096
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINASATV.png" group-title="CD Cd Aut Bs As",5 NASA ISS Views - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0097
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIALERTN.png" group-title="CD Cd Aut Bs As",AN24 TV - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0098
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C22.png" group-title="CD Cd Aut Bs As",Canal 22 - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0099
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C72.png" group-title="CD Cd Aut Bs As",Canal 72 - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0100
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---DTV.png" group-title="CD Cd Aut Bs As",DTV Diputados - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0101
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILUZUTV.png" group-title="CD Cd Aut Bs As",Luzu TV - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0102
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMAGICK.png" group-title="CD Cd Aut Bs As",Magic Kids - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0103
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----PP.png" group-title="CD Cd Aut Bs As",Perfectos Pekadores - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0104
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGALACT.png" group-title="CD Cd Aut Bs As",Radio Galactica - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0105
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGALACT.png" group-title="CD Cd Aut Bs As",Radio Galactica - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0106
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISENADO.png" group-title="CD Cd Aut Bs As",Senado TV - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0107
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOLITV.png" group-title="GB Gran Bs As",Solidaria TV - 19.1TV - Caseros - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0108
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-NEOTV.png" group-title="GB Gran Bs As",NEO TV - 16.1TV - Florencio Varela - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0109
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIQUANTV.png" group-title="GB Gran Bs As",Quantica TV - 16.3TV - Florencio Varela - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0110
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIOK1057.png" group-title="GB Gran Bs As",OK FM - 105.7 TV - Florencio Varela - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0111
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITR1340.png" group-title="GB Gran Bs As",Tradicional - 1340 TV - Florida - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0112
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIFIVETV.png" group-title="GB Gran Bs As",Five TV - 16.1TV - G de Laferrere - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0113
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--41GL.png" group-title="GB Gran Bs As",Bayres tv - 41.1TV - G de Laferrere - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0114
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISC1120.png" group-title="GB Gran Bs As",Santiago y Copla - 1130 TV - G de Laferrere - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0115
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELMIX.png" group-title="GB Gran Bs As",Telemix - 50 TV - Glew - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0116
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELEC5.png" group-title="GB Gran Bs As",Telecreativa - 5 TV - Lanus - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0117
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIANTE91.png" group-title="GB Gran Bs As",Antena 91 - 90.9 TV - Lomas de Zamora - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-UNQTV.png" group-title="GB Gran Bs As",UNQtv - ITV - Quilmes - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0119
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---FMQ.png" group-title="GB Gran Bs As",FM Q - 93.5 TV - Quilmes - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0120
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---KOA.png" group-title="GB Gran Bs As",KOA Radio - 107.1 TV - Rafael Castillo - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0121
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRL714.png" group-title="GB Gran Bs As",LRL714 Class - 91.9 TV - Saenz Pe a - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0122
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIHIPOSI.png" group-title="GB Gran Bs As",Hipodromo San Isidro - ITV - San Isidro - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0123
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--UNLM.png" group-title="GB Gran Bs As",LRI427 Universidad - 89.1 TV - San Justo - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0124
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----C4.png" group-title="GB Gran Bs As",C4 Teleaire - 4 TV - San Martin - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0125
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIC2PROV.png" group-title="GB Gran Bs As",Provincial - 2CTV - San Miguel - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0126
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISANTAM.png" group-title="GB Gran Bs As",Santa Maria - 21CTV - San Miguel - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0127
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--TV33.png" group-title="GB Gran Bs As",Television 33 - WebTV - Sarandi - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI5TIGRE.png" group-title="GB Gran Bs As",Cinco TV - 30.1TV - Tigre - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0129
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-BEATS.png" group-title="GB Gran Bs As",Beats - 100.5 TV - Tigre - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0130
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---6MO.png" group-title="GB Gran Bs As",Canal 6 Trujui - 6 TV - Trujui - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0131
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITRUJUI.png" group-title="GB Gran Bs As",LRI404 Trujui - 90.1 TV - Trujui - GB Gran Bs As
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0132
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIURB991.png" group-title="BA Buenos Aires",Urbana - 99.1 TV - 25 de Mayo - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0133
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI974.png" group-title="BA Buenos Aires",LRI974 Mega - 90.9 TV - Azul - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0134
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--4BVC.png" group-title="BA Buenos Aires",BVC 4 - 4CTV - Bahia Blanca - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0135
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--HMTV.png" group-title="BA Buenos Aires",Hit Music - 93.5 TV - Balcarce - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0136
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--CVNB.png" group-title="BA Buenos Aires",CVN - 4CTV - Bragado - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0137
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-EPSTV.png" group-title="BA Buenos Aires",EPS TV - 5 TV - Bragado - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0138
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---DSR.png" group-title="BA Buenos Aires",Canal DSR - 3CTV - Carhu  - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---2CP.png" group-title="BA Buenos Aires",Canal 2 CCTV - 2CTV - Coronel Pringles - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0140
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="BA Buenos Aires",Pringles en Vivo - CamTV - Coronel Pringles - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0141
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIESTV12.png" group-title="BA Buenos Aires",El Sello TV - 12CTV - Gral Madariaga - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0142
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITJUNIN.png" group-title="BA Buenos Aires",TeleJun n - 7CTV - Jun n - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRH450.png" group-title="BA Buenos Aires",LRH450 Canal 10 - 10 TV - Jun n - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISICARD.png" group-title="BA Buenos Aires",Sicardi TV - 15.3TV - La Plata - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0145
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITVUNLP.png" group-title="BA Buenos Aires",TV Universidad - 32.1TV - La Plata - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ROCHA.png" group-title="BA Buenos Aires",Rocha - 1570 TV - La Plata - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0147
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--3CTV.png" group-title="BA Buenos Aires",Color Visi n - 3CTV - Las Flores - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0148
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--MASL.png" group-title="BA Buenos Aires",LRP973 Mas - 96.3 TV - Lincoln - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0149
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMARCHI.png" group-title="BA Buenos Aires",Marchi TV - 2CTV - Mar Chiquita - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0150
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-LV879.png" group-title="BA Buenos Aires",La Voz - 87.9 TV - Mar Chiquita - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0151
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--11MA.png" group-title="BA Buenos Aires",Canal 11 - 11 TV - Mar de Aj  - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0152
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--ETER.png" group-title="BA Buenos Aires",Eter - 90.5 TV - Mar del Plata - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0153
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI999MDQ.png" group-title="BA Buenos Aires",99.9 Radio - 99.9 TV - Mar del Plata - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0154
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIVORMDQ.png" group-title="BA Buenos Aires",Vorterix - 104.5 TV - Mar del Plata - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0155
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIALTERN.png" group-title="BA Buenos Aires",AlternaTV - ITV - Mar del Plata TV - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0156
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--2MDP.png" group-title="BA Buenos Aires",Canal 2 MDP - 2 TV - Mar del Plata TV - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0157
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--6MDP.png" group-title="BA Buenos Aires",Canal 6 MDP - 6 TV - Mar del Plata TV - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0158
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="BA Buenos Aires",Clima + Servicios - 69CTV - Mar del Plata TV - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0159
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI486.png" group-title="BA Buenos Aires",LRI486 Mi8 Canal 8 - 20.1TV - Mar del Plata TV - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0160
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LU82.png" group-title="BA Buenos Aires",LU82 Canal 10 - 27.1TV - Mar del Plata TV - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0161
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LU82.png" group-title="BA Buenos Aires",LU82 Canal 10 YT - 27.1TV - Mar del Plata TV - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0162
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="BA Buenos Aires",Monte Hermoso - CamTV - Monte Hermoso - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0163
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="BA Buenos Aires",Monte Hermoso 2 - CamTV - Monte Hermoso - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0164
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="BA Buenos Aires",Necochea - CamTV - Necochea - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0165
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----K2.png" group-title="BA Buenos Aires",LRM381 Estacion K2 - 96.3 TV - Necochea - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0166
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI966.png" group-title="BA Buenos Aires",LRI966 Cadena 103 - 103.1 TV - Olavarr a - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0167
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C21P.png" group-title="BA Buenos Aires",Canal 21 - 21.1TV - Pehuaj  - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0168
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRP926.png" group-title="BA Buenos Aires",LRP926 Urban - 98.5 TV - Pehuaj  - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0169
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C10P.png" group-title="BA Buenos Aires",Canal 10 - 10 TV - Pergamino - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0170
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="BA Buenos Aires",Botavara - ITV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0171
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="BA Buenos Aires",Bunge y El Mar - ITV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0172
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="BA Buenos Aires",Bunge-Libertador - ITV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0173
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="BA Buenos Aires",Ostende-La Rambla - ITV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0174
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELPIN.png" group-title="BA Buenos Aires",Pinamar Golf - ITV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0175
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----T2.png" group-title="BA Buenos Aires",Telpin t2 - 2CTV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0176
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--3PIN.png" group-title="BA Buenos Aires",CN3 - 3 TV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0177
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-POWER.png" group-title="BA Buenos Aires",LRI875 Power - 100.3 TV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0178
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="BA Buenos Aires",Clima + Servicios - 79CTV - Pu n - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0179
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="BA Buenos Aires",Canal 79 - 69CTV - S Clara del Mar - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0180
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---EDP.png" group-title="BA Buenos Aires",Sierra de la Ventana - CamTV - Sa de la Ventana - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0181
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-MUNDO.png" group-title="BA Buenos Aires",LRV729 Mundo - 102.1 TV - San A de Giles - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0182
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="BA Buenos Aires",ATCCO - 69CTV - San Cte del Tuy  - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0183
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--SPTV.png" group-title="BA Buenos Aires",SPTV - 32.1TV - San Pedro - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0184
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ECOTV.png" group-title="BA Buenos Aires",Eco TV - 2CTV - Tandil - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0185
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C5T.png" group-title="BA Buenos Aires",Canal 5 - 5 TV - Tandil - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0186
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICELTTV.png" group-title="BA Buenos Aires",CELT TV - 2CTV - Tornquist - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0187
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LU91.png" group-title="BA Buenos Aires",LU91 TVP Canal 12 - 24.4TV - Trenque Lauquen - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0188
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI9CELTA.png" group-title="BA Buenos Aires",Celta TV - 9 TV - Tres Arroyos - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0189
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISENALU.png" group-title="BA Buenos Aires",Se al Urbana + - 15.2 TV - Veronica - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0190
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="BA Buenos Aires",Clima + Servicios - 79CTV - Villa Maza - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0191
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ROCKZ.png" group-title="BA Buenos Aires",Rock - 103.3 TV - Z rate - BA Buenos Aires
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0192
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIVALVIE.png" group-title="CA Catamarca",Valle Viejo - 104.1 TV - San Isidro - CA Catamarca
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0193
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRK471.png" group-title="CA Catamarca",LRK471 Provincia - 7.1TV - SFV de Catamarca - CA Catamarca
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0194
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIARGENT.png" group-title="CC Chaco",Resistencia Camaras - WebTV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0195
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICIURES.png" group-title="CC Chaco",Ciudad TV - 27.1TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0196
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----NG.png" group-title="CC Chaco",NG Federal - 27.2TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0197
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----9R.png" group-title="CC Chaco",LT81 Nordeste 9 - 28.1TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0198
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICC2802.png" group-title="CC Chaco",CHTV - 29.1TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0199
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMST899.png" group-title="CC Chaco",Master - 89.9 TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0200
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-TIVTV.png" group-title="CC Chaco",TIV - 10 TV - Tres Isletas - CC Chaco
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0201
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRF405.png" group-title="CH Chubut",LRF405 Universo - 89.5 TV - Cdro Rivadavia - CH Chubut
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0202
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---ETC.png" group-title="CH Chubut",ETC - 4CTV - Esquel - CH Chubut
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0203
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--12PM.png" group-title="CH Chubut",Madryn TV - 12CTV - Puerto Madryn - CH Chubut
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0204
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---5TW.png" group-title="CH Chubut",Telecinco - 5 TV - Trelew - CH Chubut
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0205
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--IRTV.png" group-title="CO Cordoba",Imagen Regional TV - TV - Alejo Ledesma - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0206
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIOKFMAR.png" group-title="CO Cordoba",OK FM - 95.5 TV - Arroyito - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0207
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICM1051.png" group-title="CO Cordoba",Ciudad Magica - 105.1 TV - Ausonia - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0208
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRJ955.png" group-title="CO Cordoba",LRJ955 Comunicar TV - 907CTV - Colonia Caroya - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0209
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LV3.png" group-title="CO Cordoba",LV3 Cordoba C3 - 700 TV - Cordoba - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0210
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIC3HEAT.png" group-title="CO Cordoba",Cadena Heat - 91.9 TV - Cordoba - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0211
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIC3POPU.png" group-title="CO Cordoba",La Popu - 92.3 TV - Cordoba - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0212
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LV81.png" group-title="CO Cordoba",LV81 12 El Doce - 27.1TV - Cordoba  TV - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0213
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LV85.png" group-title="CO Cordoba",LV85 8 Teleocho - 29.1TV - Cordoba  TV - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=TEAR0214
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LV80.png" group-title="CO Cordoba",LV80 10 SRT - 30.1TV - Cordoba  TV - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0215
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICANALU.png" group-title="CO Cordoba",Canal U - 30.2TV - Cordoba  TV - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0216
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--GOOD.png" group-title="CO Cordoba",Good Radio - 101.1 TV - Jes s Mar a - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0217
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOLELH.png" group-title="CO Cordoba",Soledad - 88.5 TV - Las Higueras - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0218
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRT778.png" group-title="CO Cordoba",LRT778 Cardinal - 89.7 TV - Miramar - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0219
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C50M.png" group-title="CO Cordoba",Canal 50 Cooptel - 50 TV - Morteros - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0220
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITVURBA.png" group-title="CO Cordoba",Urbana TV - 651CTV - Morteros - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0221
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIQUATRO.png" group-title="CO Cordoba",Quatro TV - 4 TV - Rio Cuarto - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0222
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---9RC.png" group-title="CO Cordoba",Rio Cuarto TV - 9 TV - Rio Cuarto - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0223
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIUNIRIO.png" group-title="CO Cordoba",UniR o TV - 31.1TV - Rio Cuarto - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0224
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIROESTE.png" group-title="CO Cordoba",Del Oeste - 91.5 TV - Va Cura Brochero - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0225
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--CPTV.png" group-title="CO Cordoba",CPTV - 2CTV - Villa Carlos Paz - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0226
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI5900TV.png" group-title="CO Cordoba",Somos TV - CTV - Villa Maria - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0227
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-UNITV.png" group-title="CO Cordoba",Uniteve - 34.1TV - Villa Maria - CO Cordoba
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0228
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMAXITV.png" group-title="CR Corrientes",Maxima TV - ITV - Corrientes - CR Corrientes
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0229
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---5TV.png" group-title="CR Corrientes",5tv - 5 TV - Corrientes - CR Corrientes
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0230
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITLNORD.png" group-title="CR Corrientes",Telenord - 21CTV - Corrientes - CR Corrientes
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0231
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-13MAX.png" group-title="CR Corrientes",13 Max - 31.1TV - Corrientes - CR Corrientes
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0232
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--CTV7.png" group-title="CR Corrientes",CTV Canal 7 - 35.1TV - Corrientes - CR Corrientes
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0233
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIAZAHJP.png" group-title="CR Corrientes",LRR778 Azahares - 101.5 TV - Juan Pujol - CR Corrientes
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0234
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--10PL.png" group-title="CR Corrientes",Tele Diez - 5 TV - Ps de los Libres - CR Corrientes
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0235
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIBRASIL.png" group-title="ER Entre Rios",Brasilera - 106.7 TV - Aldea Brasilera - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0236
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICRIBOV.png" group-title="ER Entre Rios",Cristal - 94.9 TV - Bovril - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0237
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRM774.png" group-title="ER Entre Rios",LRM774 Genesis - 102.5 TV - Caseros - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--ITEL.png" group-title="ER Entre Rios",Itel - 2CTV - Chajar  - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0239
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-5CAVE.png" group-title="ER Entre Rios",Canal 5 - 5 TV - Cnia Avellaneda - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0240
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIPARTUR.png" group-title="ER Entre Rios",Paralelo Turistico - WebTV - Concordia - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0241
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIZONACO.png" group-title="ER Entre Rios",Zona - 99.7 TV - Concordia - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0242
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEONET.png" group-title="ER Entre Rios",NNM Neo Net Music - WebTV - Diamante - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0243
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--2GTC.png" group-title="ER Entre Rios",Canal 2 Gualeguay TC - 2CTV - Gualeguay - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0244
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CEROG.png" group-title="ER Entre Rios",Cero - 104.1 TV - Gualeguaych  - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0245
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMULTMG.png" group-title="ER Entre Rios",Multimedios MG - CamTV - Maria Grande - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0246
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--4NOG.png" group-title="ER Entre Rios",Canal 4 - 4CTV - Nogoy  - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0247
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIOV1045.png" group-title="ER Entre Rios",Oro Verde - 104.5 TV - Oro Verde - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0248
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI450.png" group-title="ER Entre Rios",LRI450 TV 9 Litoral - 9.1TV - Paran  - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0249
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIELONCE.png" group-title="ER Entre Rios",El Once TV 11 - 21.1TV - Paran  - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0250
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILATIPA.png" group-title="ER Entre Rios",Latina - 87.5 TV - Paran  - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0251
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICOSTAP.png" group-title="ER Entre Rios",Costa Paran  - 88.1 TV - Paran  - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0252
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIDLP947.png" group-title="ER Entre Rios",Plaza - 94.7 TV - Paran  - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0253
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIPLA951.png" group-title="ER Entre Rios",Planet - 95.1 TV - Paran  - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0254
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---RMU.png" group-title="ER Entre Rios",RMU - 107.5 TV - Paran  - ER Entre Rios
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0255
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---3FO.png" group-title="FO Formosa",FTC - 3 TV - Formosa - FO Formosa
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0256
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGRACIA.png" group-title="FO Formosa",Sublime Gracia - WebTV - Formosa - FO Formosa
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0257
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT88.png" group-title="FO Formosa",LT88 Lapacho 11 - 29.1TV - Formosa - FO Formosa
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0258
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---6LQ.png" group-title="JU Jujuy",Canal 6 - 6CTV - La Quiaca - JU Jujuy
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0259
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-4TVJU.png" group-title="JU Jujuy",Canal 4 - 4CTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0260
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI13TVJU.png" group-title="JU Jujuy",Canal 13 - 13 TV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0261
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LW80.png" group-title="JU Jujuy",LW80 Canal 7 - 36.1TV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0262
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISILCHA.png" group-title="JU Jujuy",Tahos - 103.7 TV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0263
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOMOLP.png" group-title="LP La Pampa",Somos La Pampa - CTV - Santa Rosa - LP La Pampa
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0264
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CPETV.png" group-title="LP La Pampa",CPEtv - 2CTV - Santa Rosa - LP La Pampa
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0265
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LU89.png" group-title="LP La Pampa",LU89 Canal 3 - 30.1TV - Santa Rosa - LP La Pampa
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0266
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITVOCHO.png" group-title="LR La Rioja",Teve Ocho - 8CTV - Chepes - LR La Rioja
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0267
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIFENILR.png" group-title="LR La Rioja",Fenix - 11 TV - La Rioja - LR La Rioja
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0268
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--13LR.png" group-title="LR La Rioja",Canal 13 - 13 TV - La Rioja - LR La Rioja
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0269
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICIU947.png" group-title="LR La Rioja",Ciudad - 94.7 TV - La Rioja - LR La Rioja
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0270
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ECOOP.png" group-title="ME Mendoza",Coope TV - 102.7 TV - Godoy Cruz - ME Mendoza
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0271
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIJAR879.png" group-title="ME Mendoza",Jardin - 87.9 TV - Junin - ME Mendoza
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0272
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-VTVTV.png" group-title="ME Mendoza",VTV - 19.2TV - Mendoza - ME Mendoza
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0273
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---JTV.png" group-title="ME Mendoza",JTA TV - 21.1TV - Mendoza - ME Mendoza
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0274
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LV83.png" group-title="ME Mendoza",LV83 Televida 9 - 28.1TV - Mendoza - ME Mendoza
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0275
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIACEQUI.png" group-title="ME Mendoza",Acequia - 29.1TV - Mendoza - ME Mendoza
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0276
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LV89.png" group-title="ME Mendoza",LV89 Canal 7 - 31.1TV - Mendoza - ME Mendoza
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0277
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICIUDME.png" group-title="ME Mendoza",Ciudad - 90.5 TV - Mendoza - ME Mendoza
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0278
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRJ362.png" group-title="ME Mendoza",LRJ362 Amadeus - 91.9 TV - Rivadavia - ME Mendoza
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0279
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---UEL.png" group-title="ME Mendoza",Unidos en Libertad - 104.7 TV - San Mart n - ME Mendoza
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0280
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIDIALTV.png" group-title="ME Mendoza",LRJ818 Dial - 101.1 TV - San Rafael - ME Mendoza
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0281
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--8VDU.png" group-title="ME Mendoza",Valle de Uco - 8 TV - Tunuy n - ME Mendoza
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0282
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIFULLTV.png" group-title="MI Misiones",Full TV - 4CTV - 25 de Mayo - MI Misiones
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0283
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIARGENT.png" group-title="MI Misiones",Montecarlo Live - WebTV - Montecarlo - MI Misiones
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0284
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRH393.png" group-title="MI Misiones",LRH393 SMdl Misiones - 89.3 TV - Posadas - MI Misiones
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0285
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT17.png" group-title="MI Misiones",LT17 Top - 107.3 TV - Posadas - MI Misiones
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0286
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---2MI.png" group-title="MI Misiones",Canal 2 - 2 TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0287
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---4PO.png" group-title="MI Misiones",Canal 4 - 4 TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0288
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C6P.png" group-title="MI Misiones",Noticias del 6 - 6 TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0289
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---4MI.png" group-title="MI Misiones",Misiones Cuatro - 8 TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0290
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI21POSA.png" group-title="MI Misiones",Canal 21 - 21 TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0291
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT85.png" group-title="MI Misiones",LT85 Canal 12 - 30.1TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0292
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---TUM.png" group-title="MI Misiones",TUM - 34.2TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0293
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIIGUAZU.png" group-title="MI Misiones",Iguaz  TV - 99.9 TV - Puerto Iguaz  - MI Misiones
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0294
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRR962.png" group-title="MI Misiones",LRR962 La Retro - 102.1 TV - Puerto Rico - MI Misiones
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0295
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILID897.png" group-title="NQ Neuquen",Lider - 89.7 TV - Caviahue-Copahue - NQ Neuquen
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0296
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI9VALLE.png" group-title="NQ Neuquen",Valle TV - 9 TV - Neuqu n - NQ Neuquen
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0297
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITV10NQ.png" group-title="NQ Neuquen",TV 10 - 10 TV - Neuqu n - NQ Neuquen
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0298
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CN247.png" group-title="NQ Neuquen",CN 24/7 - 17CTV - Neuqu n - NQ Neuquen
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0299
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--RTN8.png" group-title="NQ Neuquen",RTN - 28.1TV - Neuqu n - NQ Neuquen
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0300
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LU84.png" group-title="NQ Neuquen",LU84 Canal 7 - 34.1TV - Neuqu n - NQ Neuquen
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0301
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICAP885.png" group-title="NQ Neuquen",Capital - 88.5 TV - Neuqu n - NQ Neuquen
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0302
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICRITNQ.png" group-title="NQ Neuquen",Cadena Ritmo - 101.1 TV - Neuqu n - NQ Neuquen
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0303
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---RTN.png" group-title="NQ Neuquen",LRG720 RTN - 104.9 TV - Neuqu n - NQ Neuquen
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0304
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILA105N.png" group-title="NQ Neuquen",La 105 Libertad - 105.1 TV - Neuqu n - NQ Neuquen
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0305
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICHANAR.png" group-title="NQ Neuquen",LRU400 Cha ar - 87.9 TV - San P del Cha ar - NQ Neuquen
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0306
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISE10TV.png" group-title="NQ Neuquen",Senillosa TV - 10 TV - Senillosa - NQ Neuquen
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0307
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----AN.png" group-title="RN Rio Negro",Frecuencia AN - 99.5 TV - All n - RN Rio Negro
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0308
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ZEROC.png" group-title="RN Rio Negro",Zero - 94.5 TV - Catriel - RN Rio Negro
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0309
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIARGENT.png" group-title="RN Rio Negro",Cipolletti Live - WebTV - Cipolletti - RN Rio Negro
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0310
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LU92.png" group-title="RN Rio Negro",LU92 TVRionegrina 31 - 10 TV - General Roca - RN Rio Negro
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0311
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIPUNTUA.png" group-title="RN Rio Negro",LRG929 La Puntual - 97.1 TV - Viedma - RN Rio Negro
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0312
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--MTVC.png" group-title="SA Salta",Mosconi TVC - CTV - General Mosconi - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0313
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINORVIS.png" group-title="SA Salta",Nortevisi n - 10 TV - Rosario de Lerma - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0314
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI2SALTA.png" group-title="SA Salta",TV dos - 2 TV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0315
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---4SA.png" group-title="SA Salta",Milenium TV - 17 TV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0316
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEOXTV.png" group-title="SA Salta",Neox TV - 37 TV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0317
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEOXTV.png" group-title="SA Salta",1 Mansion Embrujada - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0318
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEOXTV.png" group-title="SA Salta",2 Juegos del Hambre - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0319
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEOXTV.png" group-title="SA Salta",3 LosIndestructibles - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0320
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEOXTV.png" group-title="SA Salta",4 The Marvels - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0321
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEOXTV.png" group-title="SA Salta",5 Rey de Asesinos - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0322
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEOXTV.png" group-title="SA Salta",6 The Burial - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0323
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI7SALTA.png" group-title="SA Salta",Canal 7 - 28.1TV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0324
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LW82.png" group-title="SA Salta",LW82 El Once TV - 31.1TV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0325
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI9SALTA.png" group-title="SA Salta",Multivisi n 9 - 35.1TV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0326
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELE10.png" group-title="SA Salta",Tele 10 - 35.2TV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0327
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRF319.png" group-title="SC Santa Cruz",LRF319 San Jorge - 96.5 TV - Caleta Olivia - SC Santa Cruz
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0328
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---3LH.png" group-title="SC Santa Cruz",Canal 3 Paralelo 46 - 3CTV - Las Heras - SC Santa Cruz
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0329
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---5PT.png" group-title="SC Santa Cruz",Canal 5 Paralelo 46 - 5CTV - Pico Truncado - SC Santa Cruz
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0330
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICROSTV.png" group-title="SC Santa Cruz",Crossing TV - WebTV - Rio Gallegos - SC Santa Cruz
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0331
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-PNEWS.png" group-title="SC Santa Cruz",Plus News - WebTV - Rio Gallegos - SC Santa Cruz
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0332
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMEDIAT.png" group-title="SC Santa Cruz",Mediatica - 98.9 TV - Rio Gallegos - SC Santa Cruz
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0333
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LW81.png" group-title="SE S del Estero",LW81 Canal 7 - 42.1TV - Stgo del Estero - SE S del Estero
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0334
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--ABTV.png" group-title="SJ San Juan",Albardon TV - TV - Albardon - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0335
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--40SJ.png" group-title="SJ San Juan",Canal 40 - 28.4TV - Caucete - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0336
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRN341.png" group-title="SJ San Juan",Del Sol - 91.9 TV - San Juan - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0337
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICOSMSJ.png" group-title="SJ San Juan",Cosmos TV - 93.5 TV - San Juan - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0338
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="SJ San Juan",Canal 79 - 79CTV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0339
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-99BLU.png" group-title="SJ San Juan",Canal Blu - 29.1TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0340
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ONESJ.png" group-title="SJ San Juan",One TV - 29.4TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0341
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI13TVSJ.png" group-title="SJ San Juan",San Juan 13 TV - 30.1TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0342
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LV82.png" group-title="SJ San Juan",LV82 Canal 8 - 31.1TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0343
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRJ518.png" group-title="SJ San Juan",LRJ518 Canal 4 - 32.2TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0344
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--XAMA.png" group-title="SJ San Juan",XAMA UNSJ - 33.1TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0345
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C34.png" group-title="SJ San Juan",Canal 34 - 34.1TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0346
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ZONDA.png" group-title="SJ San Juan",Zonda TV - 35.1TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0347
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---TLS.png" group-title="SJ San Juan",TLS 5 Telesol - 36.1TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0348
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-MIL20.png" group-title="SJ San Juan",LRJ214 Mil20 - 36.2TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0349
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIDELSUR.png" group-title="SJ San Juan",Del Sur TV - 36.4TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0350
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--2CTV.png" group-title="SL San Luis",CTV - 2CTV - San Luis - SL San Luis
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0351
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LV90.png" group-title="SL San Luis",LV90 Canal 13 - 28.1TV - San Luis - SL San Luis
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0352
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---9SL.png" group-title="SL San Luis",LV99 Canal 9 - 54.1TV - San Luis - SL San Luis
+https://radiosargentina.com.ar/php/tvm3uTW.php?id=TWAR0353
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRJ825.png" group-title="SL San Luis",LRJ825 Masi - 92.7 TV - San Luis - SL San Luis
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C5DP.png" group-title="ST Santa Fe",Canal 5 del Pueblo - 5 TV - Alcorta - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0355
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----CR.png" group-title="ST Santa Fe",LRS354 Cdna Regional - 105.9 TV - Alcorta - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0356
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---CIA.png" group-title="ST Santa Fe",Cable Imagen - CTV - Armstrong - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0357
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--10NM.png" group-title="ST Santa Fe",Nuevo Mundo - 10CTV - Carcara   - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0358
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI863.png" group-title="ST Santa Fe",LRI863 RC - 91.1 TV - Casilda - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0359
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI9CHABA.png" group-title="ST Santa Fe",Canal 9 - 9 TV - Chab s - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3uTW.php?id=TWAR0360
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICORREA.png" group-title="ST Santa Fe",Correa Radiovision - 12CTV - Correa - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0361
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILINKTV.png" group-title="ST Santa Fe",Link TV - ITV - Esperanza - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0362
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIPLAYTV.png" group-title="ST Santa Fe",Play TV - 2CTV - Esperanza - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0363
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---TDC.png" group-title="ST Santa Fe",TDC HD - CTV - Firmat - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0364
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIVIVETV.png" group-title="ST Santa Fe",ViveTV - 36.1TV - Funes - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0365
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIDIE939.png" group-title="ST Santa Fe",Diez - 93.9 TV - Funes - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0366
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----CR.png" group-title="ST Santa Fe",LRS769 Cdna Regional - 96.5 TV - Maximo Paz - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0367
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT28.png" group-title="ST Santa Fe",LT28 Rafaela - 1470 TV - Rafaela - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0368
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRM869.png" group-title="ST Santa Fe",LRM869 Power Max - 104.5 TV - Recreo - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0369
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIAM1330.png" group-title="ST Santa Fe",AM 1330 - 1330 TV - Rosario - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0370
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---WOX.png" group-title="ST Santa Fe",WOX - 88.3 TV - Rosario - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0371
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICLA907.png" group-title="ST Santa Fe",Rosario Clasica - 90.7 TV - Rosario - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0372
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C3R.png" group-title="ST Santa Fe",LRI766 Cadena 3 - 100.1 TV - Rosario - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0373
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---RVR.png" group-title="ST Santa Fe",Radio Voz Rosario - ITV - Rosario  TV - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0374
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LUZR.png" group-title="ST Santa Fe",Canal Luz - STV - Rosario  TV - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0375
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT83.png" group-title="ST Santa Fe",LT83 El Tres - 32.1TV - Rosario  TV - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0376
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT84.png" group-title="ST Santa Fe",LT84 Canal 5 - 38.1TV - Rosario  TV - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=TEAR0377
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIPANAME.png" group-title="ST Santa Fe",LRM421 Panamericana - 105.7 TV - Rufino - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0378
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRM707.png" group-title="ST Santa Fe",LRM707 Cadena 2000 - 106.1 TV - San Guillermo - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0379
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIAIRESF.png" group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0380
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOLSPO.png" group-title="ST Santa Fe",Sol - 91.5 TV - Santa Fe - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0381
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-MASFM.png" group-title="ST Santa Fe",Mas TV - 95.9 TV - Santa Fe - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0382
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C3ST.png" group-title="ST Santa Fe",LRI752 Cadena 3 - 101.7 TV - Santa Fe - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0383
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C5SF.png" group-title="ST Santa Fe",C5SF - 5 TV - Santa Fe  TV - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0384
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-LITUS.png" group-title="ST Santa Fe",Litus TV - 28.1TV - Santa Fe  TV - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0385
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT82.png" group-title="ST Santa Fe",LT82 Canal 13 - 29.1TV - Santa Fe  TV - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=TEAR0386
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--5RTV.png" group-title="ST Santa Fe",RTS - 29.2TV - Santa Fe  TV - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=LVAR0387
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--5RTV.png" group-title="ST Santa Fe",RTS - 29.2TV - Santa Fe  TV - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0388
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-VEOTV.png" group-title="ST Santa Fe",Veo Santo Tom  - 2CTV - Santo Tom  - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0389
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--TVES.png" group-title="ST Santa Fe",TVES - CTV - SJ de la Esquina - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0390
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C3T.png" group-title="ST Santa Fe",Canal 3 - 3CTV - Tacural - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0391
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--12VT.png" group-title="ST Santa Fe",Canal 12 - 12 TV - Venado Tuerto - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0392
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-VERTV.png" group-title="ST Santa Fe",Ver TV - 98CTV - Venado Tuerto - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0393
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--CTVO.png" group-title="ST Santa Fe",Televideo CTVO - CTV - Villa Ocampo - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0394
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI713.png" group-title="ST Santa Fe",LRI713 Zona - 101.7 TV - Vla Constitucion - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0395
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" group-title="ST Santa Fe",Ivisi n TV - CTV - Vlla Gdor G lvez - ST Santa Fe
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0396
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIARGENT.png" group-title="TF T del Fuego",Rio Grande Live - WebTV - Rio Grande - TF T del Fuego
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0397
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICABINN.png" group-title="TF T del Fuego",The Cabinn - 91.9 TV - Rio Grande - TF T del Fuego
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0398
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRF361.png" group-title="TF T del Fuego",LRF361 Aire Libre - 96.3 TV - Rio Grande - TF T del Fuego
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0399
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRF363.png" group-title="TF T del Fuego",LRF363 Est del Siglo - 105.3 TV - Rio Grande - TF T del Fuego
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0400
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIARGENT.png" group-title="TF T del Fuego",Tolhuin Live - WebTV - Tolhuin - TF T del Fuego
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0401
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-TV2US.png" group-title="TF T del Fuego",TV2 - 2 TV - Ushuaia - TF T del Fuego
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0402
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIARGENT.png" group-title="TF T del Fuego",Ushuaia Live - WebTV - Ushuaia - TF T del Fuego
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0403
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRF785.png" group-title="TF T del Fuego",LRF785 RMX - 105.1 TV - Ushuaia - TF T del Fuego
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0404
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIELPATV.png" group-title="TU Tucuman",El Palomar TV - 21.1TV - Bda del R o Sal  - TU Tucuman
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0405
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-C5INT.png" group-title="TU Tucuman",Canal 5 Interior - 5 TV - Concepci n - TU Tucuman
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0406
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOLIVE.png" group-title="TU Tucuman",SOLive - WebTV - Concepci n - TU Tucuman
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0407
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRK458.png" group-title="TU Tucuman",LRK458 El Ocho - 8 TV - San M de Tucuman - TU Tucuman
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0408
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILVOZTU.png" group-title="TU Tucuman",La Voz - WebTV - San M de Tucuman - TU Tucuman
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0409
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI12TVTU.png" group-title="TU Tucuman",Metro 12 TV - 18.1TV - San M de Tucuman - TU Tucuman
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0410
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIAMETUC.png" group-title="TU Tucuman",America Tucuman - 28.1TV - San M de Tucuman - TU Tucuman
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0411
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRK363.png" group-title="TU Tucuman",LRK363 Mi - 92.7 TV - San M de Tucuman - TU Tucuman
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0412
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILVOZTU.png" group-title="TU Tucuman",La Voz TV - 101.3 TV - San M de Tucuman - TU Tucuman
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0413
