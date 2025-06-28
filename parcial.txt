@@ -1,0 +1,393 @@
+
+
+
+
+------------------------------------------------server HHTP--------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
+
+
+#EXTINF:-1  group-logo="https://magistvs.download/wp-content/uploads/2024/11/magis-tv-logo.png"    tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="MAGIS TV" , #️⃣    El Trece
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="MAGIS TV" ,#️⃣     Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="MAGIS TV" , #️⃣   El Nueve
+http://181.209.95.29:8000/play/a0a9/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="MAGIS TV", #️⃣   ESPN Premium 
+http://181.13.173.86:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="MAGIS TV",#️⃣ TNT Sports 
+http://181.13.173.86:8000/play/a02u/index.m3u8
+
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="MAGIS TV",#️⃣ FOX Sports
+http://181.13.173.86:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png" group-title="MAGIS TV",#️⃣ FOX Sports 2
+http://181.13.173.86:8000/play/a0ai/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="MAGIS TV" , Love Nature
+http://160.20.165.246:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="MAGIS TV" , ANTENA TRES
+http://160.20.165.246:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MAGIS TV" , caracol
+http://160.20.165.246:8000/play/a00h/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="-" group-title="MAGIS TV" , a&e
+http://160.20.165.246:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFnYypcCifV4uGjQ7qVHBnaiVJLnOo18b5o6heeVQSb9yM19osnTKFqOnG7SdWfdpdlg&usqp=CAU"  ,️ Abc Tv
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a05r/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/800px-Logo_del_canal_Encuentro.svg.png"  ,#️⃣   ENCUENTRO HD
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a04t/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,   Discovery Cha
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a05y/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXOhnR4FnioU5Bfk1s1GCjQT7E3EqDpFGQ4GPx5ve0Yxk4MnTaAtgAIEuEBYYondmhBFc&usqp=CAU"  ,#️⃣ IP
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a055/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://pbs.twimg.com/profile_images/978088312429858816/5QYhbEew_400x400.jpg"  ,#️⃣ LAPACHO TV
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a04o/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png"  , SNT
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,   Discovery Turbo
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a05x/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Albavisi%C3%B3n.png"  , Canal AlbNET
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a05p/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="h-"  ,AMC
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a04w/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cn23.png"  ,CN23
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a04r/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png"  ,CRONICA TV
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a04k/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,Cinecanal
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a061/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png"  , Univision
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.106.127:9000/play/ca024/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-"  ,RCN COLOMBIA
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch59
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" ,Caracol Colombia
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.23.26:45000/play/a02g
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" , RCN
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.23.26:45000/play/a02h
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" , Señal Colombia
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.23.26:45000/play/a02m
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Canal_ZOOM_2008.png/revision/latest?cb=20210501194336&path-prefix=es" , Canal Soom
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.23.26:45000/play/a02s
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" ,🐾 Discovery
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch22
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/641/CH_LOGO/60/40/0/0/52117167073223.png" ,🐾 Discovery turbo
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch24
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/272/CH_LOGO/60/40/0/0/84821268072218.png" ,🐾 Discovery h&h
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch25
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/295/CH_LOGO/60/40/0/0/9907571507125.png" ,Gourmet
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch27
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/301/CH_LOGO/60/40/0/0/68362124075201.png" ,🐾 history
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch30
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,📔⚽ ESPN  
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch16
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,📔⚽ ESPN FHD 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch17
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,📔⚽ ESPN 3 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch18
+
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,📔⚽ ESPN 5 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch19
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,📔⚽ ESPN 6 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch21
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  ,📔⚽ ESPN 7 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch20
+
+
+
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,📕⚽ ESPN  (test1)
+http://200.60.124.19:29000/play/a016/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,📕⚽ ESPN 2 (test2)
+http://200.60.124.19:29000/play/a015/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,📕⚽ ESPN 3 (test3)
+http://200.60.124.19:29000/play/a02e/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,📕⚽ ESPN 5 (test4)
+http://200.60.124.19:29000/play/a04y/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,📕⚽ ESPN 6  (test5)
+http://200.60.124.19:29000/play/a01f/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="MAGIS TV" ,📕⚽ ESPN 7  (test6)
+http://200.60.124.19:29000/play/a01e/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",📘⚽ sky esp
+http://181.78.106.127:9000/play/ca028/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",📘⚽ sky eng
+http://181.78.106.127:9000/play/ca029/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",📘⚽ sky 2 esp
+http://181.78.106.127:9000/play/ca030/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",📘⚽ fox sports mex
+http://181.78.106.127:9000/play/ca031/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",📘⚽ fox sports 2 mex
+http://181.78.106.127:9000/play/ca032/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",📘⚽ espn mex
+http://181.78.106.127:9000/play/ca033/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",📘⚽ espn 2 mex
+http://181.78.106.127:9000/play/ca034/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",📘⚽ espn 3 mex
+http://181.78.106.127:9000/play/ca035/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV",📘⚽ espn 4 mex
+http://181.78.106.127:9000/play/ca036/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="MAGIS TV" ,📘⚽ ESPN 4 
+http://181.176.153.107:8090/play/a0rl/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,📗⚽ espn 7 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch20
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,📗⚽ espn 5 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch19
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,📗⚽ espn 3 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch18
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,📗⚽ espn 2 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch17
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,📗⚽ espn  
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch16
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,📗⚽ espn 6 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch21
+
+#EXTINF:-1   group-title="MAGIS TV"  tvg-name="test" tvg-id="None" tvg-logo="-",📓⚽ ESPN 4 (test26)
+http://45.228.233.93:8000/play/ca033/index.m3u8
+
+#EXTINF:-1   group-title="MAGIS TV"  tvg-name="test" tvg-id="None" tvg-logo="-",📓⚽ ESPN 
+http://45.228.233.93:8000/play/ca032/index.m3u8
+
+#EXTINF:-1   group-title="MAGIS TV"  tvg-name="test" tvg-id="None" tvg-logo="-",📓⚽ ESPN 5
+http://45.228.233.93:8000/play/ca034/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1   group-title="MAGIS TV"  tvg-name="test" tvg-id="None" tvg-logo="-",⚽ TyC sports
+http://45.228.233.93:8000/play/ca031/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"  ,⚽ TUDN
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.106.127:9000/play/ca025/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png"  ,⚽ DAZN la liga
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.106.127:9000/play/ca027/index.m3u8
+
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  ,⚽ Directv sports
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.106.127:9000/play/ca026/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  ,⚽ Directv sports 1
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://200.60.124.19:29000/play/a081/index.m3u8
+
+#EXTINF:-1   group-title="MAGIS TV"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",⚽ Directv opc 2
+http://181.78.106.127:9000/play/ca026/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  ,⚽ Directv sports 3
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  ,⚽ Directv sports 4
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.51.136.19:8000/play/a112/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  ,⚽ Directv +
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://190.216.162.157:8001/play/a05h/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  ,⚽ Directv Sports 6
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://190.216.162.157:8001/play/a09s/index.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  ,⚽ Directv dos opc 2
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://190.216.162.157:8001/play/a05g/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 NOVELAS DRAMA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
+
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 NOVELAS ROMANCE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
+
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 NOVELISIMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 TELEVISA NOVELAS
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 NOVELAS 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 NOVELAS TURCAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="MAGIS TV",💞 SONY NOVELAS
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/6619/CH_LOGO/60/40/0/0/93318670071976.png" ,💞 pasiones
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch35
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/9737/CH_LOGO/60/40/0/0/3871340007170.png" ,💞 telenovelas
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch45
+
+#EXTINF:-1 group-title="MAGIS TV" tvg-logo="-" ,💞 RCN
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch59
+
+
