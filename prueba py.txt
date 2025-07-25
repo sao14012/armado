@@ -131,122 +131,122 @@ https://cdn-py.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
-#EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-name="TV Ciudad HD.uy" tvg-logo="https://dl.dropbox.com/scl/fi/xb8mxyjfndxc2a8b26s94/tvciudad.png?rlkey=tdm6cihv0v8kpneo2t8m3j2hv&dl=1" group-title="Uruguay" ch-number="61" type="channel",TV Ciudad Uruguay
+#EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-name="TV Ciudad HD.uy" tvg-logo="https://dl.dropbox.com/scl/fi/xb8mxyjfndxc2a8b26s94/tvciudad.png?rlkey=tdm6cihv0v8kpneo2t8m3j2hv&dl=1" group-title="ARG" ch-number="61" type="channel",TV Ciudad Uruguay
 https://cdn-py.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UCLTV.png?raw=true" group-title="Uruguay" ch-number="62" type="channel",UCL Uruguay
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UCLTV.png?raw=true" group-title="ARG" ch-number="62" type="channel",UCL Uruguay
 https://cdn-py.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a
-#EXTINF:-1 tvg-id="VTV HD.uy" tvg-name="VTV HD.uy" tvg-logo="https://dl.dropbox.com/scl/fi/j4p5brzwswii95bs08b2g/vtv.png?rlkey=dqxls5mo4n3idcc6rajqyeawd&dl=1" group-title="Uruguay" ch-number="63" type="channel",VTV Uruguay
+#EXTINF:-1 tvg-id="VTV HD.uy" tvg-name="VTV HD.uy" tvg-logo="https://dl.dropbox.com/scl/fi/j4p5brzwswii95bs08b2g/vtv.png?rlkey=dqxls5mo4n3idcc6rajqyeawd&dl=1" group-title="ARG" ch-number="63" type="channel",VTV Uruguay
 https://cdn-py.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
-#EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-name="Canal 4 HD.uy" tvg-logo="https://dl.dropbox.com/scl/fi/7ef5e0zgop0g50xhxbiqo/canal4uy.png?rlkey=00sjjzd95ouch0csx3guddlip&dl=1" group-title="Uruguay" ch-number="64" type="channel",Canal 4 Uruguay
+#EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-name="Canal 4 HD.uy" tvg-logo="https://dl.dropbox.com/scl/fi/7ef5e0zgop0g50xhxbiqo/canal4uy.png?rlkey=00sjjzd95ouch0csx3guddlip&dl=1" group-title="ARG" ch-number="64" type="channel",Canal 4 Uruguay
 https://cdn-py.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c50518d7f59f4c0aa9a3079fe2b014fd&key=96038f76a2ba33866ea54eb4b260573f
-#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-name="Canal 5 HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png" group-title="Uruguay" ch-number="65" type="channel",Canal 5 Uruguay
+#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-name="Canal 5 HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png" group-title="ARG" ch-number="65" type="channel",Canal 5 Uruguay
 https://cdn-py.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=6fb97467c0f0ea13f86d41a70e029c51
-#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-name="Canal 10 HD.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ttrrell21rdfzeoakfbfp/canal10uy.png?rlkey=5rhflccdyhxpytvvyhn82xk6r&dl=1" group-title="Uruguay" ch-number="70" type="channel",Canal 10 Uruguay
+#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-name="Canal 10 HD.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ttrrell21rdfzeoakfbfp/canal10uy.png?rlkey=5rhflccdyhxpytvvyhn82xk6r&dl=1" group-title="ARG" ch-number="70" type="channel",Canal 10 Uruguay
 https://cdn-py.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfdf61da5dfac0557c1&key=acb13370c03a7254e2bb9cc9d2125017
-#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-name="La Tele HD.uy" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png" group-title="Uruguay" ch-number="72" type="channel",Canal 12 Uruguay
+#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-name="La Tele HD.uy" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png" group-title="ARG" ch-number="72" type="channel",Canal 12 Uruguay
 https://cdn-py.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff
-#EXTINF:-1 tvg-id="ABC TV.py" tvg-name="Abc Tv" tvg-logo="https://i.postimg.cc/FHKcZz0c/93493116074020.png" group-title="Paraguay" ch-number="80" type="channel",ABC TV
+#EXTINF:-1 tvg-id="ABC TV.py" tvg-name="Abc Tv" tvg-logo="https://i.postimg.cc/FHKcZz0c/93493116074020.png" group-title="ARG" ch-number="80" type="channel",ABC TV
 https://cdn-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8df0f1a1e05e9c6a438e23a87c9d06ea:5df74d374a2a8a871463e7c438fa3ba7
-#EXTINF:-1 tvg-id="CANAL PRO.py" tvg-logo="https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg" group-title="Paraguay" ch-number="81" type="channel",Canal Pro
+#EXTINF:-1 tvg-id="CANAL PRO.py" tvg-logo="https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg" group-title="ARG" ch-number="81" type="channel",Canal Pro
 https://cdn-py.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
-#EXTINF:-1 tvg-id="GEN TV.py" tvg-logo="https://dl.dropbox.com/scl/fi/voc1uulutjp06zsd5qs5q/gen-py.png?rlkey=6rqkkc62l9c18y60r7buu4bn4&dl=1" group-title="Paraguay" ch-number="82" type="channel",Gen TV
+#EXTINF:-1 tvg-id="GEN TV.py" tvg-logo="https://dl.dropbox.com/scl/fi/voc1uulutjp06zsd5qs5q/gen-py.png?rlkey=6rqkkc62l9c18y60r7buu4bn4&dl=1" group-title="ARG" ch-number="82" type="channel",Gen TV
 https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
-#EXTINF:-1 tvg-id="latele.py" tvg-name="La Tele" tvg-logo="https://i.ibb.co/Zg861M4/latele.png" group-title="Paraguay" ch-number="83" type="channel",La Tele
+#EXTINF:-1 tvg-id="latele.py" tvg-name="La Tele" tvg-logo="https://i.ibb.co/Zg861M4/latele.png" group-title="ARG" ch-number="83" type="channel",La Tele
 https://cdn-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80
-#EXTINF:-1 tvg-id="MEGA TV.py" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="Paraguay" ch-number="84" type="channel",Mega
+#EXTINF:-1 tvg-id="MEGA TV.py" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="ARG" ch-number="84" type="channel",Mega
 https://cdn-py.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
-#EXTINF:-1 tvg-id="5 DIAS.py" tvg-logo="https://i.ibb.co/k48NKrR/5diaspy.png" group-title="Paraguay" ch-number="85" type="channel",5 Días
+#EXTINF:-1 tvg-id="5 DIAS.py" tvg-logo="https://i.ibb.co/k48NKrR/5diaspy.png" group-title="ARG" ch-number="85" type="channel",5 Días
 https://cdn-py.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
-#EXTINF:-1 tvg-id="Red Guaraní.py" tvg-logo="https://dl.dropbox.com/scl/fi/1rqhr8ip2cepj3n89eh9z/noticiaspy.png?rlkey=9xapdgt9oyh5sy7pn9lkx3cb3&dl=1" group-title="Paraguay" ch-number="86" type="channel",Noticias Paraguay
+#EXTINF:-1 tvg-id="Red Guaraní.py" tvg-logo="https://dl.dropbox.com/scl/fi/1rqhr8ip2cepj3n89eh9z/noticiaspy.png?rlkey=9xapdgt9oyh5sy7pn9lkx3cb3&dl=1" group-title="ARG" ch-number="86" type="channel",Noticias Paraguay
 https://cdn-py.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
-#EXTINF:-1 tvg-id="Paraguay TV.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PYTV.png?raw=true" group-title="Paraguay" ch-number="87" type="channel",Paraguay TV
+#EXTINF:-1 tvg-id="Paraguay TV.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PYTV.png?raw=true" group-title="ARG" ch-number="87" type="channel",Paraguay TV
 https://cdn-py.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
-#EXTINF:-1 tvg-id="Paravision.py" tvg-name="Canal 5 Paravision" tvg-logo="https://dl.dropbox.com/scl/fi/kl3rp5h3no5qhnerm0hjj/paravision.png?rlkey=l1wl9amldkm07v2lj59wqkmub&dl=1" group-title="Paraguay" ch-number="88" type="channel",Paravisión
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="Canal 5 Paravision" tvg-logo="https://dl.dropbox.com/scl/fi/kl3rp5h3no5qhnerm0hjj/paravision.png?rlkey=l1wl9amldkm07v2lj59wqkmub&dl=1" group-title="ARG" ch-number="88" type="channel",Paravisión
 https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
-#EXTINF:-1 tvg-id="C9N.py" tvg-name="Parana Tv" tvg-logo="https://dl.dropbox.com/scl/fi/z09fuqglafyl8xw7bb4o9/c9n-py.png?rlkey=ixxffkxfslc3awi3ogy129ewo&dl=1" group-title="Paraguay" ch-number="89" type="channel",C9N 
+#EXTINF:-1 tvg-id="C9N.py" tvg-name="Parana Tv" tvg-logo="https://dl.dropbox.com/scl/fi/z09fuqglafyl8xw7bb4o9/c9n-py.png?rlkey=ixxffkxfslc3awi3ogy129ewo&dl=1" group-title="ARG" ch-number="89" type="channel",C9N 
 https://cdn-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
-#EXTINF:-1 tvg-id="SNT.py" tvg-name="Canal 9 Snt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es" group-title="Paraguay" ch-number="90" type="channel",SNT
+#EXTINF:-1 tvg-id="SNT.py" tvg-name="Canal 9 Snt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es" group-title="ARG" ch-number="90" type="channel",SNT
 https://cdn-py.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
-#EXTINF:-1 tvg-id="Sur TV.py" tvg-name="Sur Tv" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="Paraguay" ch-number="91" type="channel",Sur TV
+#EXTINF:-1 tvg-id="Sur TV.py" tvg-name="Sur Tv" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="ARG" ch-number="91" type="channel",Sur TV
 https://cdn-py.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
-#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="https://dl.dropbox.com/scl/fi/xnaun7uexdhmd5qsdlztc/telefuturo.png?rlkey=1xxtfxvcnruu45o4y94ot5svd&dl=1" group-title="Paraguay" ch-number="92" type="channel",Telefuturo
+#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="https://dl.dropbox.com/scl/fi/xnaun7uexdhmd5qsdlztc/telefuturo.png?rlkey=1xxtfxvcnruu45o4y94ot5svd&dl=1" group-title="ARG" ch-number="92" type="channel",Telefuturo
 https://cdn-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
-#EXTINF:-1 tvg-id="RPC.py" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png" group-title="Paraguay" ch-number="93" type="channel",Trece
+#EXTINF:-1 tvg-id="RPC.py" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png" group-title="ARG" ch-number="93" type="channel",Trece
 https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9357704ade444dc3b23be89865af2f58:3d03e0a79d8f7b7aa2897c3d24bd4b6a
-#EXTINF:-1 tvg-id="Tv Camara.py" tvg-name="Tv Camara" tvg-logo="https://i.ibb.co/TkT1Dbm/tvcamara.jpg" group-title="Paraguay" ch-number="94" type="channel",TV Cámara
+#EXTINF:-1 tvg-id="Tv Camara.py" tvg-name="Tv Camara" tvg-logo="https://i.ibb.co/TkT1Dbm/tvcamara.jpg" group-title="ARG" ch-number="94" type="channel",TV Cámara
 https://cdn-py.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
-#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg" group-title="Paraguay" ch-number="95" type="channel",Unicanal
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg" group-title="ARG" ch-number="95" type="channel",Unicanal
 https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
-#EXTINF:-1 tvg-id="Popu Tv.py" tvg-name="Univeso Tv" tvg-logo="https://www.popular.com.py/wp-content/themes/popular/images/new-popu-tv.png" group-title="Paraguay" ch-number="96" type="channel",Popu TV
+#EXTINF:-1 tvg-id="Popu Tv.py" tvg-name="Univeso Tv" tvg-logo="https://www.popular.com.py/wp-content/themes/popular/images/new-popu-tv.png" group-title="ARG" ch-number="96" type="channel",Popu TV
 https://cdn-py.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -421,7 +421,7 @@ https://cdn-py.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070
-#EXTINF:-1 tvg-id="VTV Plus HD.uy" tvg-name="VTV Plus Uruguay" tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1" group-title="Uruguay" ch-number="122" type="channel",VTV Plus Uruguay
+#EXTINF:-1 tvg-id="VTV Plus HD.uy" tvg-name="VTV Plus Uruguay" tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1" group-title="ARG" ch-number="122" type="channel",VTV Plus Uruguay
 https://cdn-py.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1000,7 +1000,7 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", ÑANDUTÍ TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARG", ÑANDUTÍ TV
 https://copaco.desdeparaguay.net:443/nandutitv/nandutitv_baja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARG", BEIN SPORTXTRA Ñ
@@ -1048,7 +1048,7 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ARG", ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="PARAGUAY", ROCK & POP TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="ARG", ROCK & POP TV
 https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4xqZgV.png" group-title="ARG", Canal Cine Dios
@@ -1386,7 +1386,7 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="ARG", Retro Plus Cine
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://monumental.com.py/wp-content/uploads/2024/11/cropped-logo-webmonu-450x290-1.png" group-title="PARAGUAY", MONUMENTAL TV
+#EXTINF:-1 tvg-logo="https://monumental.com.py/wp-content/uploads/2024/11/cropped-logo-webmonu-450x290-1.png" group-title="ARG", MONUMENTAL TV
 https://latintop.alwaysdata.net/cine_series/samples/gen/gen.php
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qfcz0zX/cine-retro-genial.png" group-title="ARG", Retro Cinema
@@ -1437,16 +1437,16 @@ https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARG", Rakuten TV Top Movies
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", C9N
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARG", C9N
 https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", UnionTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARG", UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", GO TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARG", GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", LIM TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARG", LIM TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
 
