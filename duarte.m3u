@@ -10,11 +10,11 @@
 
 
 #EXTM3U
-#EXTINF:-1,TNT Sports group-title="ALTERNATIVOS"
+#EXTINF:-1,TNT Sports, group-title="TV"
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch26.playlist.m3u8
-#EXTINF:-1,TyC Sports group-title="ALTERNATIVOS"
+#EXTINF:-1,TyC Sports, group-title="TV"
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch32.playlist.m3u8
-#EXTINF:-1,Fox Sports
+#EXTINF:-1,Fox Sports, group-title="TV"
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch16.playlist.m3u8
 #EXTINF:-1,Fox Sports 2
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch30.playlist.m3u8
