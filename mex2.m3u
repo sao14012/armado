@@ -1,0 +1,1450 @@
+
+
+###################https://raw.githubusercontent.com/Er2334/Er2334/refs/heads/main/mex2####################
+
+
+
+
+
+
+
+#EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", ROCK & POP TV
+https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S4xqZgV.png" group-title="Flow 5", Canal Cine Dios
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Flow 5", FMTV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Flow 5", Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", MTV Flow Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", MTV Rocks
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", IBIZA TV
+http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1tBgByM/caracol.jpg" group-title="Flow 5", Caracol
+http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/78700
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/768px-Top_TV_logo.svg.png" group-title="Flow 5", TOP TV
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1473_Music_PUQ.png" group-title="Flow 5", Music PUQ
+https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logoq.png" group-title="Flow 5", EXTREMA KIDS
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Flow 5", Baraza TV Deep House
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Flow 5", ZooMoo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Flow 5", NEXT
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Flow 5", SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", ÑANDUTÍ TV
+https://copaco.desdeparaguay.net:443/nandutitv/nandutitv_baja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", DIOS TV KIDS 
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxjmbLC/toonz-kids.png" group-title="Flow 5", TOONZ KIDS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Flow 5", RETRO MUSIC TELEVISION
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="Flow 5", Radio Farra tv
+http://159.203.148.226/live/farra.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Flow 5", MY TIME MOVIES 1
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Flow 5", MY TIME MOVIES 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="Flow 5", VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Flow 5", Retro Plus TV 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Flow 5", Retro Plus Cine
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26NfJ14K/sony-one-exitos.png" group-title="Flow 5",SONY ONE ÉXITOS
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbscjKn/sony-one-hits-accion.png" group-title="Flow 5",SONY ONE HITS ACCIÓN
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7nP8p9X/sony-one-hits-comedia.png" group-title="Flow 5",SONY ONE HITS COMEDIA
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g095cfnw/sony-one-blacklist.png" group-title="Flow 5",SONY ONE BLACKLIST
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBWvMkj6/sony-one-logo.png" group-title="Flow 5",SONY ONE CINEMA
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="Flow 5", Runtime Peliculas
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="Flow 5", Runtime Accion
+https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="Flow 5", Runtime Comedia
+https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="Flow 5", Runtime Romance
+https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="Flow 5", Runtime Familia
+https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", PELIS TV
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" group-title="Flow 5", Megaclassic TV
+https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="Flow 5", VClassicTV Tropical
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  group-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg=w600-h300-pc0xffffff-pd" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",TIGO 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",TIGO 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://sam-py-edge02.tigo.com.py
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", UnionTV
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", GO TV
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", LIM TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png" group-title="Flow 5", AMC en Español
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png" group-title="Flow 5", Stingray Everything '80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", ROCK & POP TV 2
+https://tigocloudgen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w2012384391.m3u8?K=dd3667f7cdf9c31c6282e16698b1013f282c441d5246bc378e3fa26
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qfcz0zX/cine-retro-genial.png" group-title="Flow 5", Retro Cinema
+http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Rakuten TV Action
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Rakuten TV Cine Español
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Rakuten TV Comedy
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Rakuten TV Crime Series
+https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Rakuten TV Drama
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Rakuten TV Family
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Rakuten TV Romance
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Rakuten TV Sci-Fi
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Rakuten TV Thrillers
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Rakuten TV Top Movies
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Flow 5", Retro Plus TV
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", TNT Sports Chile
+http://38.199.6.1:17001/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS", TIGO 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
+
+#EXTINF:-1 tvg-name="conect" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png", group-title="Flow 5", SPORTS TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Fun Box
+http://38.199.6.1:17001/play/a0d4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Win Sport
+http://217.26.190.76:8888/play/a06a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", WEST HD
+http://38.199.6.1:17001/play/a0wn/index.m3u8
+
+#EXTINF:-1 group-title="Flow 5" tvg-id="FOX ONE", tvg-logo="https://i.postimg.cc/XpSD2cdh/FOX-t-290x163.webp", FOX ONE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b9f674aca77e6e2d9e087d744ef9518:9c79efe8f7510efe6a768ac4be5f93ff
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONEMX_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="Flow 5" tvg-id="FOX ONE 1", tvg-logo="https://i.postimg.cc/YjmsfyGJ/FOXONE1-t-290x163.webp", FOX ONE 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da13bd9d503a6d8bbe34f9b185dfe521:787ecfe954108c152284ec89e379d7eb
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE1MX_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="Flow 5" tvg-id="FOX ONE 2", tvg-logo="https://i.postimg.cc/c68bM5g2/FOXONE2-t-290x163.webp", FOX ONE 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfd77a8855b7ccc941248454fc126340:1518034ce1918f249005fb270ff9a2c9
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE2MX_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="Flow 5" tvg-id="FOX ONE 3", tvg-logo="https://i.postimg.cc/xqb4yFJw/FOXONE3-t-290x163.webp", FOX ONE 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bd0bc0772acc1708445948f2c7bb25f:426afdc873d71265183d15cd7f9cb612
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE3MX_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="Flow 5" tvg-id="FOX ONE 4", tvg-logo="https://i.postimg.cc/xqb4yFNV/FOXONE4-t-290x163.webp", FOX ONE 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08aa48fc120a9a1ab174a67529ead92c:be211d980305712d93ff195e97f3e5b2
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE4MX_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="Flow 5" tvg-id="FOX ONE 5", tvg-logo="https://i.postimg.cc/bscF6HkV/FOXONE5-t-290x163.webp", FOX ONE 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69f650e8f202e290ca41f0c83ca4147b:a17dab4751f1e9116a0417b4f4fc325d
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE5MX_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="Flow 5" tvg-id="FOX ONE 6", tvg-logo="https://i.postimg.cc/gnFBMq8B/FOXONE6-t-290x163.webp", FOX ONE 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c62498b3eaed2d4bf5aa46104409abb:50f016b2bc9ec4d4fc607205703c2a1b
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE6MX_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="Flow 5" tvg-id="FOX ONE 7", tvg-logo="https://i.postimg.cc/14NjcYnY/FOXONE7-t-290x163.webp", FOX ONE 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bdbf106a7ba89a7a4e768cb65e2e57:edac5064d8cb1600f5dd65a4945bb7ba
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE7MX_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="Flow 5" tvg-id="FOX ONE 8", tvg-logo="https://i.postimg.cc/hh75b3zC/FOXONE8-t-290x163.webp", FOX ONE 8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc52afcf354dd1ecad24b3ec7949f154:69d953bf75252d754bc43a493c27884a
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE8MX_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", RCN
+http://38.199.6.1:17001/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", TVN
+http://38.199.6.1:17001/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Novelisima
+http://38.199.6.1:17001/play/a0ux/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
+#EXTINF:-1   tvg-logo="https://television-libre.online/img/genpy.png" group-title="Flow 5"  , Gen TV
+https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ltlcolor.png/1200px-Ltlcolor.png" group-title="Flow 5"  , La Tele
+https://chromecast.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_C/LA_TELE_C4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
+#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/NPY_Logo2023.png" group-title="Flow 5"  , Noticias Paraguay
+https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_C/NOTICIAS_PY_C4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" group-title="Flow 5"  , Paraguay TV
+https://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_C/Paraguay_TV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Paravision.jpg" group-title="Flow 5"   , Paravision
+https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="Flow 5"  , SNT
+https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png" group-title="Flow 5"   , Telefuturo
+https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" group-title="Flow 5"  , C9N
+https://chromecast.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_C/C9N_C4.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVDIQUdiXpQAaZfNTOqZWrwpxC8KMJvHZ6g&s" group-title="Flow 5", MONI TV
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", FMH MOVIES
+http://201.218.140.30:9000/play/a089
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Clover
+http://201.218.140.30:9000/play/a07y
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", FMH KIDS
+http://201.218.140.30:9000/play/a01e
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", MULTICINEMA
+http://186.33.40.97:8789/play/13
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", FREETV-DRAMA
+http://204.157.232.39:53200/play/a0an
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", FREETV-ESTELAR
+http://204.157.232.39:53200/play/a0aq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", FREETV-FAMILIA
+http://204.157.232.39:53200/play/a0ap
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", FREETV-SURENO
+http://204.157.232.39:53200/play/a0ao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", FREETV-ACCION
+http://204.157.232.39:53200/play/a0ar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", GEN PY
+http://181.78.27.128:12543/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", LA TELE PY
+http://181.78.27.128:12543/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", NPY IPTV
+http://181.78.27.128:12543/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", ROCK AND POP PY
+http://181.78.27.128:12543/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", TRECE PY
+http://181.78.27.128:12543/play/a04l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", UNICANAL  PY
+http://181.78.27.128:12543/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Abc Tv PY
+http://181.78.27.128:12543/play/a05r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Almaya Tv PY
+http://181.78.27.128:12543/play/a06g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", C9N PY
+http://181.78.27.128:12543/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", CLARO SPORT
+http://181.78.27.128:12543/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", FOX SPORT arg 2
+http://181.78.27.128:12543/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", FOX SPORT arg 3
+http://181.78.27.128:12543/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", FOX SPORT arg
+http://181.78.27.128:12543/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", PARAGUAY TV PY
+http://181.78.27.128:12543/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", PARAVISION PY
+http://181.78.27.128:12543/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", SNT PY
+http://181.78.27.128:12543/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", SUR TV PY
+http://181.78.27.128:12543/play/a03g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", TV CAMARA PY
+http://181.78.27.128:12543/play/a04d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", A&E HD
+http://181.78.27.128:12543/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", Telefuturo PY
+http://181.78.27.128:12543/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0M7nrJY/educanal.png" group-title="Flow 5", EDUCANAL
+https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", VENUS MEDIA
+https://copacogen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", MONUMENTAL TV 
+https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", E40 TV
+https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", LA TELE 
+https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", NPY 2
+https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", TELEFUTURO 2
+https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", SNT 2
+https://dp7xchau0hnq3.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", MEGA TV
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 1
+http://live.btv.mx:2424/stream/168568/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 2
+http://live.btv.mx:2424/stream/168564/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 3
+http://live.btv.mx:2424/stream/168563/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 4
+http://live.btv.mx:2424/stream/168562/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 5
+http://live.btv.mx:2424/stream/168561/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX DC
+http://live.btv.mx:2424/stream/168727/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", DIRECTV 2
+http://live.btv.mx:2424/stream/278976/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTM3U url-tvg="https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
+
+nacionales, aire y noticias
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
+#EXTINF:-1 group-title="Flow 5"  tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" tvg-group="Noticias", C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
+#EXTINF:-1 group-title="Flow 5"  tvg-id="Canal 26.uy" tvg-name="CAN26" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" tvg-group="Noticias", Canal 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
+#EXTINF:-1 group-title="Flow 5"  tvg-id="Cronica TV.uy" tvg-name="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" tvg-group="Noticias", Crónica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
+#EXTINF:-1 group-title="Flow 5"  tvg-id="La Nacion.uy" tvg-name="LNAC+" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" tvg-group="Noticias", La Nación +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
+#EXTINF:-1 group-title="Flow 5"  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" tvg-group="Noticias", TN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
+#EXTINF:-1  tvg-id="Television Pública.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="Flow 5", TV Pública
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
+#EXTINF:-1 group-title="Flow 5"  tvg-id="Canal 9.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" tvg-group="Nacionales", El nueve
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
+#EXTINF:-1 tvg-id="Canal 10.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/590/CH_LOGO/160/160/0/0/7476260107885.png" group-title="Flow 5",Canal 10 Córdoba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/Canal10cba/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
+#EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Flow 5", Telefé
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#EXTINF:-1 ch-number="11" tvg-id="Telefe Rosario.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1081/CH_LOGO/160/160/0/0/86810730078.png" group-title="Flow 5", Telefé Rosario
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/output/ARR2/TelefeRosarioH/playlist.m3u8
+
+#EXTINF:-1 ch-number="11" tvg-id="Telefe Santa Fe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/160/160/0/0/7886775407228.png" group-title="Flow 5", Telefé Santa Fé
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/output/COR/TSFH/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
+#EXTINF:-1  ch-number="" tvg-id="Telefe Cordoba.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/160/160/0/0/887528030752.png" group-title="Flow 5", Telefé Córdoba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/Canal8cba/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c816a8c004ab857e53d7897c7c1db1b:a57bb2fbf55f52d9d827a04bbb531588
+#EXTINF:-1 ch-number="12" tvg-id="eldoce tvg-name="Canal 12.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/589/CH_LOGO/160/160/0/0/51636269072.png" group-title="Flow 5", El Doce Córdoba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/Canal12cba/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
+#EXTINF:-1  ch-number="13" tvg-id="el13" tvg-name="Canal 13.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="Flow 5", El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
+#EXTINF:-1 group-title="Flow 5"  tvg-id="America.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" tvg-group="Nacionales", América
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/America/live_dash_cld/America.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3db691c7e4520b7b2dc822ab905545a:ee2a1ebe6fcc2ef3b01943cdd9256cc6
+#EXTINF:-1 group-title="Flow 5"  tvg-id="Net TV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/160/160/0/0/30595173074646.png" tvg-group="Nacionales", Net TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
+#EXTINF:-1  tvg-id="126#Bravo TV (ARG)" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2561/CH_LOGO/160/160/0/0/23653274077154.png" group-title="Flow 5", Bravo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/BravoTV/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
+#EXTINF:-1 group-title="Flow 5"  tvg-id="CANAL E" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2562/CH_LOGO/160/160/0/0/11035030078196.png" tvg-group="Noticias", Canal E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/CanalE/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
+#EXTINF:-1  tvg-id="Ciudad Magazine.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/160/160/0/0/917545880726.png" group-title="Flow 5", Ciudad Magazine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a7ecf0c34695dd4e253574b0b85441e:e6518e0b5dfa5e0dc268a5b16106811b
+#EXTINF:-1   tvg-id="Volver.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/160/160/0/0/371516250745.png" group-title="Flow 5", Volver
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Volver/live_dash_cld/Volver.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
+#EXTINF:-1  tvg-id="Canal Rural.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/59/CH_LOGO/160/160/0/0/446602280711.png" group-title="Flow 5", Canal Rural
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68e7788389d18bfa49daf812c581a3b0:b4ef16f31325e24d16390ea74b088512
+#EXTINF:-1  tvg-id="Chacra TV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/591/CH_LOGO/160/160/0/0/44952019073840.png" group-title="Flow 5", Chacra TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/ChacraTV/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
+#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1161/CH_LOGO/160/160/0/0/62114771072283.png" group-title="Flow 5", T5 Satelital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/T5Satelital/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
+#EXTINF:-1  tvg-id="CineAr.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/160/160/0/0/98997452071605.png" group-title="Flow 5", Cine.AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e6bc6cd9b600238f89d75ffb02cb852:f102949aa16d1a741d0fa30dc60f9cbd
+#EXTINF:-1  tvg-id="Encuentro.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/160/160/0/0/1011215007477.png" group-title="Flow 5", Encuentro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed25b5db60330e7ea14e3bf007db0797:9b378d59f78e04e697ca958b1dd69ca7
+#EXTINF:-1  tvg-id="Argentinísima Satelital.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4027/CH_LOGO/160/160/0/0/480102480757.png" group-title="Flow 5", Argentinísima Satelital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/Argentinisima/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
+#EXTINF:-1 tvg-id="EL DESTAPE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4126/CH_LOGO/160/160/0/0/49015720078226.png" group-title="Flow 5", El Destape
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/ElDestape/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+deportes (100xx)
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
+#EXTINF:-1 ch-number="100" tvg-id="DeporTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="Flow 5", DeporTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Deportv/live_dash_cld/Deportv.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="119" tvg-id="Claro Sports HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png" group-title="Flow 5", Claro Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad94ad091751a8adf0369f80ca83d17:be43a68903a920561dc14daf19229d97
+#EXTINF:-1 ch-number="117" tvg-id="TyC Sports 2.ar" tvg-logo="https://i.postimg.cc/fT506CJ1/https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/84523092279291.png" group-title="Flow 5", Sensa Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/SenalEventos/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
+#EXTINF:-1 ch-number="114" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Flow 5", TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b480459bb4255ddfd94078ac877df803:3de0121491eb7abfda29e71fecc1154c
+#EXTINF:-1 ch-number="114" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Flow 5", TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/TYCSports/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="115" tvg-id="TyC Sports 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png" group-title="Flow 5", Sensa Eventos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/output/ARR3/sensaeventosD/output.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="116" tvg-id="TyC Sports 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png" group-title="Flow 5", Sensa Eventos 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/SensaEventos1/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
+#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Flow 5", ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
+#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png" group-title="Flow 5", ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ESPN2/live_dash_cld/ESPN2.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+ 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
+#EXTINF:-1 ch-number="103" tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png" group-title="Flow 5", ESPN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
+#EXTINF:-1 ch-number="104" tvg-id="ESPN 4 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="Flow 5", ESPN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=afadc56db7e9690efdaded5bba0e6d5d:3363a5880018821bdd854ddcdf879780
+#EXTINF:-1 ch-number="104" tvg-id="ESPN 5 HD.uy" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5522598607348.png" group-title="Flow 5", ESPN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ESPN5Bolivia/live_dash_cld/ESPN5Bolivia.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=263b433faed40d221c8de4b77113efce:0ce509689c0a6a9be57d366ce4129650
+#EXTINF:-1 ch-number="104" tvg-id="ESPN 6 HD.uy" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/15905984073899.png" group-title="Flow 5", ESPN 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/ESPN6Bolivia/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=055b26873d74bc9a7f10bd10900f461c:55ff1f66dd94290476672e0c1143c1a2
+#EXTINF:-1 ch-number="104" tvg-id="ESPN 7 HD.uy" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/12041360073463.png" group-title="Flow 5", ESPN 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ESPN7Bolivia/live_dash_cld/ESPN7Bolivia.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
+#EXTINF:-1 ch-number="111" tvg-id="FOX Sports HD.ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="Flow 5", FOX Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ec1c5620f5c1553d3238988714e71b2:b8917b12e851dfc7bb8a3b832348b3be
+#EXTINF:-1 ch-number="112" tvg-id="FOX Sports 2.ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/68625850072785.png" group-title="Flow 5", FOX Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7f87e51c56a87a59cab7ec98fd062db:c3f0d7d067e385900a0e6d4c8e406a68
+#EXTINF:-1 ch-number="113" tvg-id="FOX Sports 3.ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/33795984072366.png" group-title="Flow 5", FOX Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9a70c294ea75346b991a61c55ff1d8f:7012eb6cd752998ee5cfbe68517491f5
+#EXTINF:-1 ch-number="122" tvg-id="America Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/368/CH_LOGO/160/160/0/0/446218910784.png" group-title="Flow 5", América Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad1be5752980085910010adb9d72532d:8acfaacb600b382bfe18962964355ce6
+#EXTINF:-1 ch-number="124" tvg-id="El Garage Tv.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1481/CH_LOGO/160/160/0/0/3411412507358.png" group-title="Flow 5", Garage TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
+#EXTINF:-1 ch-number="126" tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png" group-title="Flow 5", Golf TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e070a7426b8cb1cab5f63996b7bd7669:1c140e0715b26c7232942ab87d232964
+#EXTINF:-1 group-title="Flow 5" ch-number="127" tvg-id="[PXSP] PX Sports" tvg-name="PX Sports" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/160/160/0/0/70671934073582.png", PX Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Flow 5", ESPN Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/ESPNPremium/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Flow 5", ESPN Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
+#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Flow 5", TNT Sports Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/TNTSports/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Flow 5", TNT Sports Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+infantiles (200xx)
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5cf6da7262ddb74c2f370ded6056f46c:78109125565ab1747f511f7e77e3bbaf
+#EXTINF:-1 group-title="Flow 5" ch-number="200" tvg-id="Baby TV.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/160/160/0/0/2335855007695.png", Baby TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c
+#EXTINF:-1 group-title="Flow 5" ch-number="201" tvg-id="CANAL INFANTIL" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1804/CH_LOGO/160/160/0/0/25045866075258.png", Canal Infantil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7efe63bbf682a4124fb34c01eb7a0a7:48667511b8668df96fa3abaa623e4f69
+#EXTINF:-1 ch-number="202" tvg-id="Cartoon Network.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="Flow 5", Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf15d5a0f9329f815779d4a7dd760fbc:cd00a8a3f6a167954d4f678fab2323da
+#EXTINF:-1 ch-number="203" tvg-id="Cartoonito HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/481/CH_LOGO/160/160/0/0/1490409807453.png" group-title="Flow 5", Cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Boomerang/live_dash_cld/Boomerang.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d8b3220ac30e5c8148d4bcc225efa5a:eb6918dfe117fc405396a9c3986a0450
+#EXTINF:-1 ch-number="204" tvg-id="Discovery Kids HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/160/160/0/0/43430600073531.png" group-title="Flow 5", Discovery Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d91b14935a3599f02e5dab71ef21dc:803e9152e9daf717b772399a97802076
+#EXTINF:-1 ch-number="205" tvg-id="Disney Channel HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/50/CH_LOGO/160/160/0/0/77798092074367.png" group-title="Flow 5", Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=18654944953b25a8b6392722a83db653:40bf6a9f05bbf0e06715ed5707f0edd2
+#EXTINF:-1 ch-number="206" tvg-id="Disney Jr HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png" group-title="Flow 5", Disney Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=040efb4ac8008085d09c17db602b24fa:1940b88114de13d460cb196326e638a7
+#EXTINF:-1 ch-number="210" tvg-id="Nick Jr..uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/160/160/0/0/61362740071226.png" group-title="Flow 5", Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
+#EXTINF:-1 ch-number="214" tvg-id="Pakapaka.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/160/160/0/0/46888977071492.png" group-title="Flow 5", Paka Paka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a47bfb9e246f3b8405c1225fae73da9e:a4865fb8742b4541f64ac37370e902a6
+#EXTINF:-1 ch-number="211" tvg-id="EL CANAL DEL PAYASO PLIM PLIM" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3983/CH_LOGO/160/160/0/0/96726193078010.png" group-title="Flow 5", PLIM PLIM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/PlimPlim/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
+#EXTINF:-1 ch-number="212" tvg-id="Tooncast.uy"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/160/160/0/0/5456596307880.png" group-title="Flow 5", Tooncast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+cine, novelas y series (300xx)
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=476ae5b67b7ad297ac643386d2daa229:0ef75009de12efe833dafa97aa30272c
+#EXTINF:-1 ch-number="300" tvg-id="Adult Swim.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/160/160/0/0/32013737078382.png" group-title="Flow 5", Adult Swim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=736bef197ba5c73203add79c8e8d279a:7f037dc5835305f22a7206d79d4d5db2
+#EXTINF:-1 ch-number="301" tvg-id="AandE HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/160/160/0/0/95118087071584.png" group-title="Flow 5", A&E 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/AyE/live_dash_cld/AyE.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68fc78cb6fe580c35d269da87a471eb0:2bd623220a247d95d6900cea612769df
+#EXTINF:-1  ch-number="302"  tvg-id="AMC HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="Flow 5", AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/AMC/live_dash_cld/AMC.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=828c473cb192caaba8e1d9fc63da4d75:cb600861e9822efeea5d2dbd0c157c45
+#EXTINF:-1 ch-number="303" tvg-id="AXN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png" group-title="Flow 5", AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/AXN/live_dash_cld/AXN.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=acea34a4dadf7896a0280b08496d49d5:6eb61a3bf3411c64f89b594e57d487c6
+#EXTINF:-1 ch-number="306" tvg-id="Cinecanal HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/160/160/0/0/53485573073445.png" group-title="Flow 5", Cinecanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
+#EXTINF:-1 group-title="Flow 5" ch-number="307" tvg-id="CINE FAMILIAR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/160/160/0/0/38183247075481.png", Cine Familiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3cb7320815d01cb41fdb0e9d5bd2915:7c89266b0cc60fa3419474fc96c18927
+#EXTINF:-1 group-title="Flow 5" ch-number="308" tvg-id="CINE HISPANO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1806/CH_LOGO/160/160/0/0/47205068074564.png", Cine Hispano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
+#EXTINF:-1 ch-number="309" tvg-id="Cinemax HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/160/160/0/0/60951863073142.png" group-title="Flow 5", Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
+#EXTINF:-1 group-title="Flow 5" ch-number="310" tvg-id="CINE PREMIUM" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1807/CH_LOGO/160/160/0/0/30781400075257.png", Cine Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eed9a193b3c6167b823030d788d771a4:d21daeba7e513d9f3ba714deeddd0630
+#EXTINF:-1 ch-number="311" tvg-id="Comedy Central.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/160/160/0/0/33860159072069.png" group-title="Flow 5", Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ComCentral/live_dash_cld/ComCentral.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=639e9249b63b731e7621953d27aa5393:ce09cb3f4bcad5c1febe10893b6ba491
+#EXTINF:-1 group-title="Flow 5" ch-number="312" tvg-id="De Película.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/316/CH_LOGO/160/160/0/0/2880757007137.png", De Película
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/DePelicula/live_dash_cld/DePelicula.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5453180074c0a8ecfe2a21e0cd5f2c1b:1150fd93492ba8609fb94d0a3087b3a5
+#EXTINF:-1 ch-number="313" tvg-id="DHE.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/63/CH_LOGO/160/160/0/0/76775190072352.png" group-title="Flow 5", DHE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/DHE/live_dash_cld/DHE.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf1324eab263b72f5d8373a9678e6774:1375cd3390772b03b5136dce1641ba84
+#EXTINF:-1  ch-number="314" tvg-id="EUROCHANNEL" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2563/CH_LOGO/160/160/0/0/1274320207337.png" group-title="Flow 5", Eurochannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/Eurochannel/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01c6295e3fc98352427941dc1015605a:bac9c97340df0b813a9f08c54880feb4
+#EXTINF:-1  ch-number="315" tvg-id="Europa Europa HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/160/160/0/0/8622092407184.png" group-title="Flow 5", Europa Europa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
+#EXTINF:-1 ch-number="316" tvg-id="FX HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="Flow 5", FX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/FX/live_dash_cld/FX.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
+#EXTINF:-1 group-title="Flow 5" ch-number="317" tvg-id="Golden.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/281/CH_LOGO/160/160/0/0/7149423107401.png", Golden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Golden/live_dash_cld/Golden.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
+#EXTINF:-1 ch-number="318" tvg-id="Golden Edge.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/160/160/0/0/86179590071069.png" group-title="Flow 5", Golden Edge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dead023f7a81634339ae639990c1517a:ba970222b4466c61d0deccc67ab34452
+#EXTINF:-1 ch-number="319" tvg-id="HBO HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png" group-title="Flow 5", HBO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/HBO/live_dash_cld/HBO.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f962b76c3693dafee011746344b5e823:1ac863f1633dfc2d3db069f3dd9a8145
+#EXTINF:-1 ch-number="320" tvg-id="HBO 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/160/160/0/0/93371734072127.png" group-title="Flow 5", HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/HBO2/live_dash_cld/HBO2.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
+#EXTINF:-1 ch-number="321" tvg-id="HBO Plus HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="Flow 5", HBO Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
+#EXTINF:-1 ch-number="322" tvg-id="HBO Family.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="Flow 5", HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bea5da44f49a7e30d21a6e0a2fddc225:0185b209bf50e2a1b1cfd416db5177de
+#EXTINF:-1 ch-number="323" tvg-id="HBO Mundi HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="Flow 5", HBO Mundi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5cf1ad9c7bc0a20051535aff63a5c04:019ea0de590a01385f50ae3fe090d19e
+#EXTINF:-1 ch-number="324" tvg-id="HBO POP HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/160/160/0/0/68908128073927.png" group-title="Flow 5", HBO Pop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/HBOPop/live_dash_cld/HBOPop.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf48ba89e03b41e52882a7e155facd9c:50103d8a819d4faed4e44dc6cd908066
+#EXTINF:-1 ch-number="325" tvg-id="HBO Signature HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png" group-title="Flow 5", HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33d4823ed2cae55c19fa0a7c20fa4235:a64c4d55edb20046802e76332c8aa75e
+#EXTINF:-1 ch-number="326" tvg-id="HBO Xtreme HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="Flow 5", HBO Xtreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9cab32316b3d8aae0452755cebdaadd:35e61869849168043a44045f2d7ff842
+#EXTINF:-1 group-title="Flow 5" ch-number="327" tvg-id="Kanal D.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1803/CH_LOGO/160/160/0/0/91513859074694.png", Kanal D Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/KanalD/live_dash_cld/KanalD.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a48e923df0b1783bfa0e82a3c51fc20:122676906256fb0154d841936909c57b
+#EXTINF:-1 group-title="Flow 5" ch-number="328" tvg-id="MORBIDO TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1816/CH_LOGO/160/160/0/0/38444071074991.png", Mórbido TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/Morbido/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4400f758ddbddc81b7ef9a2b32251625:aa2448ebc63a5034b9b8e6e8d15f770d
+#EXTINF:-1 group-title="Flow 5" ch-number="329" tvg-id="NOVELISIMA" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/160/160/0/0/68355397076898.png", Novelísima
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/Novelis/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=258b455eee76d6406f87dd02ddc735d9:dd8aad74c79fe839cc142d0ff6694473
+#EXTINF:-1 ch-number="332" tvg-id="Sony HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png" group-title="Flow 5", Sony Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Sony/live_dash_cld/Sony.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
+#EXTINF:-1 ch-number="334" tvg-id="Space HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="Flow 5", Space
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Space/live_dash_cld/Space.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=78396693b172158176c33c28f2e7c0b8:1e251112819a34ed691bc3881c64ea4d
+#EXTINF:-1 ch-number="335" tvg-id="STAR Channel HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png" group-title="Flow 5", Star Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/StarChannel/live_dash_cld/StarChannel.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a07b220f8f142a0ef8662ffa0adee4f:e88846d040cd157b28ffda1d44a5cf89
+#EXTINF:-1  ch-number="336" tvg-id="Studio Universal HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/160/160/0/0/223329100777.png" group-title="Flow 5", Studio Universal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=18cfe27adad2e444dc0f50a3238a1740:a0e25f18be94d6eb1c9733111135c047
+#EXTINF:-1  ch-number="337" tvg-id="TCM SD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="Flow 5", TCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
+#EXTINF:-1 group-title="Flow 5" ch-number="338" tvg-id="TLNovelas.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png", TL Novelas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
+#EXTINF:-1 ch-number="339" tvg-id="TNT HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="Flow 5", TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/TNT/live_dash_cld/TNT.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a026fc3d443454cf1aae486b688ca9a:7665c2f6e791d44f047e5ffa927382aa
+#EXTINF:-1 ch-number="340" tvg-id="TNT Novelas.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/114/CH_LOGO/160/160/0/0/98175226078201.png" group-title="Flow 5", TNT Novelas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d15f2d2f8f81fbacd82391f5889aa3a:97c7a5029500a81d37f2b70d6276fc9a
+#EXTINF:-1 ch-number="341" tvg-id="TNT Series HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/117/CH_LOGO/160/160/0/0/68097404073421.png" group-title="Flow 5", TNT Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
+#EXTINF:-1 ch-number="342" tvg-id="Universal HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png" group-title="Flow 5", Universal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Universal/live_dash_cld/Universal.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ca479ba8963f132c701eefaa0fb2b5a:bed235194da5e18108c12ef81b324a80
+#EXTINF:-1 ch-number="343" tvg-id="Universal Premiere.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="Flow 5", Universal Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/UniPre/live_dash_cld/UniPre.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a65e77fb5f2838b2f97c778cc571ac2:bc1f28b1ec619ed7da22fc9a80d3a35d
+#EXTINF:-1 ch-number="344" tvg-id="Universal Cinema.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="Flow 5", Universal Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/UniCin/live_dash_cld/UniCin.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94cdab8673fe231a8de57259eac5522b:1125d154649770cc122770531b8f8b30
+#EXTINF:-1 ch-number="345" tvg-id="Universal Comedy.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="Flow 5", Universal Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/UniCom/live_dash_cld/UniCom.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ad1cfe8edbc35b5bab1a66a5ce298b3:25794ae1df1e9908d43a102481e7d311
+#EXTINF:-1 ch-number="346" tvg-id="Universal Crime.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="Flow 5", Universal Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/UniCri/live_dash_cld/UniCri.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfbcbe656b34884d8f8dcc57d2dc51f8:d3e2c03003b443ccedd30d6442fbdd40
+#EXTINF:-1 ch-number="347" tvg-id="Universal Reality.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="Flow 5", Universal Reality
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/UniRea/live_dash_cld/UniRea.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a1e766119c3fb03b095c8e7f0e63139:03932364e1ff6ab68cdc2c1969aee6a5
+#EXTINF:-1 ch-number="348" tvg-id="USA.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/160/160/0/0/81694330078327.png" group-title="Flow 5", USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/USANetwork/live_dash_cld/USANetwork.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+variedades (400xx)
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbea5682978c5593d7f9f32ba3fbd000:992754095f050d53163c059ff4e81571
+#EXTINF:-1 ch-number="400" tvg-id="Animal Planet HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png" group-title="Flow 5", Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74ec986b3388c62f5fa7c551e225d0b8:9327821de5eace5508cf573778c8c3c3
+#EXTINF:-1 ch-number="401" tvg-id="Discovery HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/160/160/0/0/24951383073066.png" group-title="Flow 5", Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
+#EXTINF:-1 ch-number="402" tvg-id="Home and Health HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/65/CH_LOGO/160/160/0/0/11000383072218.png" group-title="Flow 5", Discovery Home And Health
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f413ca6b4955bab7d89a3d24bbf8c98b:58168613434035ceb98e18815f97436c
+#EXTINF:-1 ch-number="403" tvg-id="Investigation Discovery.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/160/160/0/0/6146615007111.png" group-title="Flow 5", Discovery ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ID/live_dash_cld/ID.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fcef63599e86bd9bd69644234020cd6:a82db4ee21e762bf6c734e71088511c0
+#EXTINF:-1 ch-number="404" tvg-id="Discovery Science HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/160/160/0/0/9654717907493.png" group-title="Flow 5", Discovery Science
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a753ba6e6b313f129bd6591364680f07:f3f8e1a7633b262ca37ae8c35f3cd1e2
+#EXTINF:-1 ch-number="405" tvg-id="Discovery Theater HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/160/160/0/0/72670030071181.png" group-title="Flow 5", Discovery Theater
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bed07c7fbbc6a3024baa8a44c052dd59:a632dead698156b3f2083076aa192b57
+#EXTINF:-1 ch-number="406" tvg-id="TLC HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/363/CH_LOGO/160/160/0/0/46230374071624.png" group-title="Flow 5", Discovery TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6902d50ec036d30146b12b927f4363d4:d40dc5eb6e0f8fbd58ab7dd6b91143b5
+#EXTINF:-1 ch-number="407" tvg-id="Discovery Turbo HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/262/CH_LOGO/160/160/0/0/2118831607492.png" group-title="Flow 5", Discovery Turbo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b94901c6926870683c5baebc63496653:f04da24cd7eba6dfdd0d66ea2a2feb24
+#EXTINF:-1 ch-number="408" tvg-id="Discovery World HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/160/160/0/0/24981309071389.png" group-title="Flow 5", Discovery World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0839729159fd400250f90532f41b65f3:992972a1b89982c359c4b4a5f8034eed
+#EXTINF:-1 ch-number="409" tvg-id="E!.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/312/CH_LOGO/160/160/0/0/477606810750.png" group-title="Flow 5", E! Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0853b1d2af7d6ee5f7a8a571637ee6b7:f173ff83e8a50d7d0c363cde0c261dc6
+#EXTINF:-1 ch-number="410" tvg-id="El Gourmet HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/160/160/0/0/15069203073244.png" group-title="Flow 5", El Gourmet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fe3226b05e86b7107d2c05e402d14ee:2caa3a78f028164cf395c6ed40b9d39a
+#EXTINF:-1 ch-number="411" tvg-id="Film and Arts HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/286/CH_LOGO/160/160/0/0/801518560763.png" group-title="Flow 5", Film & Arts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/FilmArts/live_dash_cld/FilmArts.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53b35977eefc0237bef0173f9b431a07:5402473ba47096edc01bb2334685d860
+#EXTINF:-1 ch-number="412" tvg-id="Food Network HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/86/CH_LOGO/160/160/0/0/90527363073450.png" group-title="Flow 5", Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebc8294c36bb50fd4cc6cd89e34604bd:5d550080c8349e878fcd86821b91f74b
+#EXTINF:-1 ch-number="413" tvg-id="HGTV.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="Flow 5", HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/HGTV/live_dash_cld/HGTV.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3729d075c1a22d06bd6978c941ff0d13:c106c6d1dd58f4f14b6ebe6c8672fd0b
+#EXTINF:-1 ch-number="414" tvg-id="History HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/9019422407178.png" group-title="Flow 5", History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/History/live_dash_cld/History.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=454a4c570f8b662076ce4f1a931d3b06:2e7233e228d7d8a203e07e2b08584019
+#EXTINF:-1 ch-number="415" tvg-id="History 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/160/160/0/0/16627153073621.png" group-title="Flow 5", History 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/History2/live_dash_cld/History2.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f85d8282bb6fe2db8f34299d5742f02:28d49f409d718ecad8f82f477d3beb77
+#EXTINF:-1 ch-number="417" tvg-id="Lifetime.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/313/CH_LOGO/160/160/0/0/30883628072788.png" group-title="Flow 5", Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Lifetime/live_dash_cld/Lifetime.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
+#EXTINF:-1 group-title="Flow 5" ch-number="418" tvg-id="LOVE NATURE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/160/160/0/0/64384481074718.png", Love Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/LoveNature/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36ae8a96a35562af4c5469cad84bfe68:24eb15ff1f525103aadfabd1908ce366
+#EXTINF:-1 ch-number="419" tvg-id="Mas Chic.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/106/CH_LOGO/160/160/0/0/81998278073390.png" group-title="Flow 5", Más Chic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/MasChic/live_dash_cld/MasChic.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e44c7a4a62dc2bea573f5b21ea78342b:bf1996a534ea01086d0b8e284f0f4e7b
+#EXTINF:-1 ch-number="420" tvg-id="National Geographic HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/160/160/0/0/83674247072710.png" group-title="Flow 5", National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/NatGeo/live_dash_cld/NatGeo.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ae7578729bde9d2f342090141103687:fb009bb37dd8fb98e2913f6b762b79e5
+#EXTINF:-1 ch-number="421" tvg-id="Sun Channel HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/484/CH_LOGO/160/160/0/0/8882809507771.png" group-title="Flow 5", Sun Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/SUN/live_dash_cld/SUN.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+música
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53dcb05ef1f0bbd2093b0c2fe8e55a5e:d2fb9a4f8244a9af19893be032c43d3f
+#EXTINF:-1 group-title="Flow 5" ch-number="500" tvg-id="Allegro HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3602/CH_LOGO/160/160/0/0/14066743073439.png", Allegro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/Allegro/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5061291f547143b40b8abedfdff59174:fb0a1787499cbc22c2ecaf1b43dd4da7
+#EXTINF:-1 ch-number="502" tvg-id="HTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/160/160/0/0/4926258407115.png" group-title="Flow 5", HTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/HTV/live_dash_cld/HTV.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f1be10d0519e0c453105f01319fe407:9976d91bfcdc7dd2148d36af89027762
+#EXTINF:-1 group-title="Flow 5" ch-number="503" tvg-id="MI MUSICA ROMANTICA" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png", Mi Música Romántica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d288fc2da0339c9cfa178be4a07c4cd2:c0e25b5d30b6829b15266e84807a0ca6
+#EXTINF:-1 group-title="Flow 5" ch-number="504" tvg-id="MI MUSICA REGGAETON" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png", Mi Música Reggaetón
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2246c747e5f4e1dc055050d178618935:c6c2a6693bec059ebced788d09d271f3
+#EXTINF:-1 group-title="Flow 5" ch-number="505" tvg-id="MI MUSICA HITS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png", Mi Música Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
+#EXTINF:-1 group-title="Flow 5" ch-number="506" tvg-id="MI MUSICA K-POP" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png", Mi Música K-Pop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ade94a8e7881a2ba8b3ae3185ed5ad5d:350ba306783e66182b55b761d6cff6d1
+#EXTINF:-1 ch-number="507" tvg-id="MTV HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="Flow 5", MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/MTV/live_dash_cld/MTV.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d62845f01d257a91fd73d62751828dc1:b600539e698a707de23e57d4cdb99d9a
+#EXTINF:-1 ch-number="511" tvg-id="Quiero.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/624/CH_LOGO/160/160/0/0/1882958007779.png" group-title="Flow 5", Quiero Música
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=930f2b33864637faf2b2dab6c8d0ba92:530e6561cc4197e9eab7bf7b6f35a3ed
+#EXTINF:-1 group-title="Flow 5" ch-number="516" tvg-id="TELEHIT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/311/CH_LOGO/160/160/0/0/182616500734.png", TeleHit Música Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Telehit/live_dash_cld/Telehit.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6075bd0304bd40812aaa2a113b30be24:98c85fae2ce02017573a23fad09a8dfa
+#EXTINF:-1 ch-number="518" tvg-id="elfolclorico" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/160/160/0/0/46266908079132.png" group-title="Flow 5", El Folklórico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#EXTINF:-1 ch-number="519" tvg-id="billboard" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/160/160/0/0/12050400077728.png" group-title="Flow 5", Billboard TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/output/SMT1/BLBD/output.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Crea TV" tvg-logo="https://i.postimg.cc/qvPBY6X9/https://geo.edge.pontiscloud.com:9002/images/2539/CH_LOGO/160/160/0/0/61169282279262.png" group-title="Flow 5", CREA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/output/SMT7/VtxD/output.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+religión (490xx)
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=43ef5f8823a35d1ac482dc48dca4c273:b535315a329dfd850082d0f441b0c463
+#EXTINF:-1 group-title="Religión" ch-number="490" tvg-id="354#Canal LUZ (ARG)" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/483/CH_LOGO/160/160/0/0/4012387807349.png", Canal Luz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=20de9c8173c1cf6d9cf22d20325e447e:58b855b048f7f5bba4ec5d47fdbe3fc9
+#EXTINF:-1 ch-number="491" tvg-id="350#Eternal Word TV Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/366/CH_LOGO/160/160/0/0/231984100764.png" group-title="Religión", EWTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b1e631ba089c345f38a0bc04acf459b:1b26ad9df48567b9bdc0216e7711b85e
+#EXTINF:-1 group-title="Religión" ch-number="493" tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2281/CH_LOGO/160/160/0/0/37747274077987.png", Radio María TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/RadioMaria/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+mundiales e internacionales
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
+#EXTINF:-1 ch-number="605" tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png" group-title="Flow 5", Canal De Las Estrellas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Estrellas/live_dash_cld/Estrellas.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
+#EXTINF:-1 ch-number="606" tvg-id="CNN Español.uy" tvg-name="CNNEE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png" group-title="Flow 5", CNN En Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16c07e6ffdddf95b34e666f9fb745eb4:adbd7d96395740ad5a389cba976e31d8
+#EXTINF:-1 ch-number="607" tvg-id="CNN Internacional.uy" tvg-name="CNNEE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/160/160/0/0/120048070713.png" group-title="Flow 5", CNN Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/CnnINT/live_dash_cld/CnnINT.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a24d18dae30689d554afc6fc1348734:2f7420bfacfeac635b9e8ed0b5afa554
+#EXTINF:-1 ch-number="609" tvg-id="Deustche Welle.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/493/CH_LOGO/160/160/0/0/854020000716.png" group-title="Flow 5", Deutsche Welle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/DWChannel/live_dash_cld/DWChannel.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f35f2d6a34c58941cc3e066c75c2690:872ba8b196786ee9858645e641ac221d
+#EXTINF:-1 group-title="Flow 5" ch-number="612" tvg-id="France 24 en Español.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1813/CH_LOGO/160/160/0/0/85662193074124.png", France24 Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/France24/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd225327cc07001ffff55bd9271b1b2f:faae6578b5c3fde01b9f41fd39696605
+#EXTINF:-1 ch-number="617" tvg-id="RAI Italia HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="Flow 5", RAI Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/RAI/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
+#EXTINF:-1 ch-number="619" tvg-id="Telemundo" tvg-name="Telemundo.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093073070.png" group-title="Flow 5", Telemundo Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Telemundo/live_dash_cld/Telemundo.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b108e54efb596e5d6403a1759deea810:781e087cf7f814fd187f74daa62d112a
+#EXTINF:-1 ch-number="622" tvg-id="TV Chile.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2761/CH_LOGO/160/160/0/0/655345470739.png" group-title="Flow 5", TV Chile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/TVChile/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49c79f1d16db45b4e6671c3a7550e8fc:ac26680d5cfdcab87e4139a410b9984b
+#EXTINF:-1 ch-number="623" tvg-id="TVE.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/364/CH_LOGO/160/160/0/0/676402460759.png" group-title="Flow 5", TVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/TVE/live_dash_cld/TVE.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
+#EXTINF:-1 group-title="Flow 5" ch-number="624" tvg-id="VE PLUS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1761/CH_LOGO/160/160/0/0/2565660807177.png", Ve Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/VePlus/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5746dc57cb1c26d5267d116d3f49d871:d1dc3a3a13fc3981c08a0376706b2e61
+#EXTINF:-1 group-title="Flow 5" ch-number="625" tvg-id="UCL.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4001/CH_LOGO/160/160/0/0/62763250072541.png", UCL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/UCL/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", TNT Sport arg
+http://live.btv.mx:2424/stream/278776/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", ESPN PREMIUM ARG
+http://live.btv.mx:2424/stream/283887/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", ESPN PREMIUM CH
+http://live.btv.mx:2424/stream/278981/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", TUDN
+http://live.btv.mx:2424/stream/278559/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", TENNIS CHANNEL
+http://live.btv.mx:2424/stream/158845/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", GOLDEN PREMIER 
+http://live.btv.mx:2424/stream/298426/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", GOLDEN MULTIPLEX 
+http://live.btv.mx:2424/stream/298424/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", WARNER
+http://live.btv.mx:2424/stream/278454/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", AMAZON PRIME
+http://live.btv.mx:2424/stream/168557/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", ULTRA KIDS
+http://live.btv.mx:2424/stream/180637/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", BITME
+http://live.btv.mx:2424/stream/278523/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", TEENNICK 
+http://live.btv.mx:2424/stream/158669/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", NICKELODEON 
+http://live.btv.mx:2424/stream/158666/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", VEVO 90'S
+http://live.btv.mx:2424/stream/286235/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5", DIRECTV
+http://live.btv.mx:2424/stream/278892/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Flow 5",
+
+
+
+
