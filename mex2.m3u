@@ -124,7 +124,7 @@ https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="Flow 5", VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  group-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg=w600-h300-pc0xffffff-pd" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",TIGO 2
+#EXTINF:-1  group-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg=w600-h300-pc0xffffff-pd" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="Flow 5",TIGO 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -133,7 +133,7 @@ https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",TIGO 1
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="Flow 5",TIGO 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -198,7 +198,7 @@ https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", TNT Sports Chile
 http://38.199.6.1:17001/play/a036/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS", TIGO 3
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="Flow 5", TIGO 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -441,22 +441,22 @@ https://dp7xchau0hnq3.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", MEGA TV
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", NETFLIX 1
 http://live.btv.mx:2424/stream/168568/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", NETFLIX 2
 http://live.btv.mx:2424/stream/168564/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", NETFLIX 3
 http://live.btv.mx:2424/stream/168563/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", NETFLIX 4
 http://live.btv.mx:2424/stream/168562/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 5
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", NETFLIX 5
 http://live.btv.mx:2424/stream/168561/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX DC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", NETFLIX DC
 http://live.btv.mx:2424/stream/168727/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 5", DIRECTV 2
@@ -1314,19 +1314,19 @@ religión (490xx)
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=43ef5f8823a35d1ac482dc48dca4c273:b535315a329dfd850082d0f441b0c463
-#EXTINF:-1 group-title="Religión" ch-number="490" tvg-id="354#Canal LUZ (ARG)" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/483/CH_LOGO/160/160/0/0/4012387807349.png", Canal Luz
+#EXTINF:-1 group-title="Flow 5" ch-number="490" tvg-id="354#Canal LUZ (ARG)" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/483/CH_LOGO/160/160/0/0/4012387807349.png", Canal Luz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://mplus.pontiscloud.com/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=20de9c8173c1cf6d9cf22d20325e447e:58b855b048f7f5bba4ec5d47fdbe3fc9
-#EXTINF:-1 ch-number="491" tvg-id="350#Eternal Word TV Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/366/CH_LOGO/160/160/0/0/231984100764.png" group-title="Religión", EWTN
+#EXTINF:-1 ch-number="491" tvg-id="350#Eternal Word TV Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/366/CH_LOGO/160/160/0/0/231984100764.png" group-title="Flow 5", EWTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://mplus.pontiscloud.com/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1e631ba089c345f38a0bc04acf459b:1b26ad9df48567b9bdc0216e7711b85e
-#EXTINF:-1 group-title="Religión" ch-number="493" tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2281/CH_LOGO/160/160/0/0/37747274077987.png", Radio María TV
+#EXTINF:-1 group-title="Flow 5" ch-number="493" tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2281/CH_LOGO/160/160/0/0/37747274077987.png", Radio María TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://mplus.pontiscloud.com/bpk-tv/RadioMaria/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
